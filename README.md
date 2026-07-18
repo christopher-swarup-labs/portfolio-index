@@ -11,7 +11,7 @@ This private repository is a professional evidence room for employers, investors
 | Reviewer | Recommended ten-minute path | Decision supported |
 |---|---|---|
 | **Potential employer** | [Professional Profile](PROFILE.md) → [Revenue Operating System case](case-studies/flagship/revenue-operating-system.md) → [Leadership case](case-studies/leadership/modern-mops-team-operating-model.md) | Can Christopher diagnose, design and lead complex GTM operating change? |
-| **CMO / Marketing leader** | [MOPS operating model](frameworks/mops-operating-model.md) → [Lifecycle case](case-studies/flagship/unified-lifecycle-governance.md) → [Pipeline case](case-studies/flagship/pipeline-truth-and-attribution.md) | Can he turn Marketing Operations into commercially accountable infrastructure? |
+| **CMO / Marketing leader** | [Campaign Operations case](case-studies/flagship/campaign-operations-os.md) → [MOPS operating model](frameworks/mops-operating-model.md) → [Pipeline case](case-studies/flagship/pipeline-truth-and-attribution.md) | Can he turn Marketing Operations into commercially accountable infrastructure? |
 | **CRO / COO / Revenue leader** | [Operator Thesis](OPERATOR-THESIS.md) → [Revenue Operating System framework](frameworks/revenue-operating-system.md) → [Pipeline Truth](frameworks/pipeline-truth.md) | Can he create a revenue spine teams can run and forecast from? |
 | **Investor / adviser** | [Entrepreneur Journey](ENTREPRENEUR-JOURNEY.md) → [Building Lynr](case-studies/ventures/building-lynr.md) → [GTM Command Center](skills/command-center/README.md) | Is the expertise repeatable, productisable and commercially valuable? |
 | **Technical / operations reviewer** | [Skills Library](skills/README.md) → [Lifecycle validator](tools/lifecycle-validator/README.md) → [Pipeline scanner](tools/pipeline-quality-scanner/README.md) | Is the logic inspectable, governed and grounded in operational reality? |
@@ -24,9 +24,10 @@ Full review guidance is in [REVIEWER-GUIDE.md](REVIEWER-GUIDE.md).
 |---|---|---|
 | [Revenue Operating System case](case-studies/flagship/revenue-operating-system.md) | Cross-functional diagnosis, design, implementation and governance | Complete |
 | [Unified Lifecycle Governance case](case-studies/flagship/unified-lifecycle-governance.md) | Lifecycle, ownership, handoffs, routing, recycling and adoption | Complete |
+| [Campaign Operations OS case](case-studies/flagship/campaign-operations-os.md) | Intake, readiness, build, QA, launch, handoff and improvement | Complete |
 | [Pipeline Truth and Attribution case](case-studies/flagship/pipeline-truth-and-attribution.md) | Source, influence, progression, forecast evidence and reporting credibility | Complete |
 | [Modern MOPS leadership case](case-studies/leadership/modern-mops-team-operating-model.md) | Team design, service model, portfolio management and distributed delivery | Complete |
-| [Operating frameworks](frameworks/README.md) | Reusable Revenue, lifecycle, pipeline and MOPS operating models | Four complete |
+| [Operating frameworks](frameworks/README.md) | Reusable Revenue, lifecycle, campaign, pipeline and MOPS operating models | Five complete |
 | [GTM Command Center](skills/command-center/README.md) | AI-assisted orchestration, evidence standards and human accountability | Architecture reconstructed |
 | [Runnable tools](tools/README.md) | Inspectable operating logic using synthetic data and unit tests | Two complete |
 | [Building Lynr](case-studies/ventures/building-lynr.md) | Market thesis, offer architecture, delivery governance and founder iteration | Complete retrospective |
@@ -65,6 +66,7 @@ The dependency runs downward. Automation and AI become valuable only when owners
 - [Case-study index](case-studies/README.md)
 - [Revenue Operating System](case-studies/flagship/revenue-operating-system.md)
 - [Unified Lifecycle Governance](case-studies/flagship/unified-lifecycle-governance.md)
+- [Campaign Operations OS](case-studies/flagship/campaign-operations-os.md)
 - [Pipeline Truth and Attribution](case-studies/flagship/pipeline-truth-and-attribution.md)
 - [Modern MOPS Team Operating Model](case-studies/leadership/modern-mops-team-operating-model.md)
 - [Building Lynr](case-studies/ventures/building-lynr.md)
@@ -73,6 +75,7 @@ The dependency runs downward. Automation and AI become valuable only when owners
 
 - [Revenue Operating System](frameworks/revenue-operating-system.md)
 - [Lifecycle Governance](frameworks/lifecycle-governance.md)
+- [Campaign Operations OS](frameworks/campaign-operations.md)
 - [Pipeline Truth](frameworks/pipeline-truth.md)
 - [Modern MOPS Operating Model](frameworks/mops-operating-model.md)
 
@@ -147,8 +150,8 @@ Examples use fictional organisations, fictional people and synthetic records.
 
 - Professional profile, operator thesis and employer/investor navigation
 - Drive evidence audit and 26-workstream capability map
-- Three flagship operator cases and one leadership case
-- Four reusable operating frameworks
+- Four flagship operator cases and one leadership case
+- Five reusable operating frameworks
 - GTM Command Center architecture
 - Two runnable synthetic diagnostics with tests
 - Entrepreneur journey overview and one venture retrospective
@@ -156,8 +159,8 @@ Examples use fictional organisations, fictional people and synthetic records.
 
 ### Next evidence wave
 
-- Campaign Operations OS case study
 - Verification of historical specialist-skill artefacts
+- One merger or organisational-integration leadership case
 - Additional synthetic skill demonstrations
 - External reviewer feedback and navigation refinement
 

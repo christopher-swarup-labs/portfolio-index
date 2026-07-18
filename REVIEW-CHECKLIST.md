@@ -5,9 +5,20 @@ Use this checklist before committing any new portfolio artefact.
 ## Ownership and purpose
 
 - [ ] The business purpose of the artefact is clear.
-- [ ] Christopher owns the new work or has permission to use the source.
+- [ ] I own the new work or have permission to use the source.
 - [ ] The artefact was created specifically for the portfolio.
 - [ ] The source treatment is recorded in `SOURCE-PROVENANCE.md`.
+
+## Voice and writing
+
+- [ ] Reviewer-facing narrative is written in the first person.
+- [ ] The page does not describe me as “Christopher”, “he” or “his” outside a factual table or formal record.
+- [ ] The language follows `VOICE-AND-STYLE.md`.
+- [ ] Generic AI, consultancy and corporate filler has been removed.
+- [ ] Every material claim explains the decision, action, trade-off or evidence behind it.
+- [ ] The writing sounds natural when read aloud.
+- [ ] Paragraphs are human and readable rather than a sequence of dramatic one-line statements.
+- [ ] Specialist language is explained where a non-specialist reviewer may not understand it.
 
 ## Named-company boundary
 
@@ -60,7 +71,7 @@ Use this checklist before committing any new portfolio artefact.
 ## Quality
 
 - [ ] The commercial problem is clear.
-- [ ] Christopher's role and decisions are clear without exposing the source organisation.
+- [ ] My role and decisions are clear without exposing the source organisation.
 - [ ] Constraints and trade-offs are visible.
 - [ ] The implementation sequence is practical.
 - [ ] Governance and adoption are addressed.
@@ -83,6 +94,7 @@ Repository:
 Reviewer:
 Review date:
 Decision: Approve / Revise / Reject
+Voice check: Pass / Fail
 Named-company check: Pass / Fail
 Customer-data check: Pass / Fail
 Personal-data check: Pass / Fail

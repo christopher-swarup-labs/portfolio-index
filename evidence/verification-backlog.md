@@ -1,48 +1,41 @@
 # Verification Backlog
 
-Open items requiring Christopher's input before publication. Ordered by impact on reviewer credibility.
+Open items requiring Christopher's input before wider publication. Ordered by impact on reviewer credibility.
 
 This file must not contain customer data, personal contact information, named internal programmes, exact confidential metrics or proprietary company detail.
 
-## Blocking
+## Blocking historical-skill verification
 
 | # | Item | Why it blocks | Required action |
 |---|---|---|---|
-| 1 | **GTM Command Center specialist skills** | The high-level architecture is evidenced, but individual source artefacts have not been independently verified in this repository. Generated specifications would weaken the diligence case. | Confirm which specialists are built, planned, merged or superseded. Provide approved definitions or portfolio-safe exports for those built. |
-| 2 | **Historic budget conflict** | Two materially different budget figures appear for one former role. | Resolve privately whether they describe operations, technology or programme investment. Do not publish either figure. |
-| 3 | **Historic conversion conflict** | Two different conversion-improvement figures appear for one earlier role. | Confirm whether they measure different periods or populations. Generalise or remove. |
-| 4 | **Aggregate ARR claim** | Aggregating employer revenue implies personal responsibility for revenue Christopher did not own. | Exclude from portfolio and future professional material unless framed solely as public company context. |
+| 1 | **GTM Command Center specialist skills** | The high-level architecture is evidenced, but individual historical source artefacts have not been independently verified in this repository. | Confirm which specialists were built, planned, merged or superseded. Provide approved definitions or portfolio-safe exports for those built. |
+| 2 | **Overlapping revenue-architecture skills** | Two Claude-audited packages appear to represent related generations. Presenting both as separate IP could overstate the library. | Select one primary asset or document the material distinction. |
+| 3 | **Revenue execution skill source** | Claude reported a substantive package, but the approved source is not present here. | Provide a portfolio-safe export or retain it as candidate evidence. |
+| 4 | **Vendor-specific skill pack** | The reported implementation demonstrates useful depth but is not proprietary operating IP. | Verify scope and position it as applied platform expertise. |
 
-## High priority for flagship cases
-
-| # | Item | Required evidence |
-|---|---|---|
-| 5 | Martech rationalisation | Generalised starting and ending scope, period, personal role and what is safe to disclose |
-| 6 | Reporting and forecast-quality improvement | Clear definitions, baseline and a measurement method credible to Finance |
-| 7 | Large demand-growth claim | Baseline, period and definition; otherwise generalise or remove |
-| 8 | Execution-speed improvement | What was measured, how and over what period |
-| 9 | Platform migration and CRM rebuild | Company-neutral scope, decisions, trade-offs, governance and failure detail |
-| 10 | Post-merger operating integration | Confirm what can be published without exposing confidential architecture, customers or performance |
-
-## Medium priority
+## Private claim verification
 
 | # | Item | Required action |
 |---|---|---|
-| 11 | Remaining performance claims | Provide source and attribution, agree safe generalisation or remove |
-| 12 | Budget scope across roles | Confirm only the general level of responsibility; keep exact figures excluded |
-| 13 | Awards and certifications | Confirm exact public titles, issuers and dates |
-| 14 | Similar-looking improvement claims across roles | Confirm they are distinct and correctly defined |
+| 5 | Historic budget conflict | Resolve privately whether the source figures describe operations, technology or programme investment. Do not publish either figure. |
+| 6 | Historic conversion conflict | Confirm whether the values describe different periods or populations. Generalise or remove. |
+| 7 | Aggregate ARR claim | Keep excluded; it implies personal ownership of employer revenue. |
+| 8 | Remaining performance claims | Verify source, definition, period and contribution, or keep them generalised or excluded. |
+| 9 | Awards and certifications | Confirm exact public titles, issuers and dates before precise publication. |
 
-## Decisions required
+## Next evidence decisions
 
 | # | Decision |
 |---|---|
-| 15 | Represent GTM Revenue Architect or B2B Demand and Revenue Architect as the primary asset; avoid presenting overlapping generations as separate IP without a clear distinction. |
-| 16 | Keep ThinkBud engineering skills in the future venture retrospective rather than the core GTM operator library. |
-| 17 | Keep employer names only in the public career timeline. All case studies and operating evidence must remain company-neutral. |
-| 18 | Confirm the first two flagship case studies using neutral titles and synthetic examples. |
-| 19 | DevRev employment ended in June 2026. Permit only the public role title and end date; exclude all confidential outcomes, customer information, system detail and implementation material. |
+| 10 | Build the Campaign Operations OS as the next company-neutral case and framework. |
+| 11 | Select one merger or organisational-integration leadership case that can be reconstructed without identifying the employer. |
+| 12 | Choose the next synthetic AI or decision-support demonstration. |
+| 13 | Decide whether NXClarity or another owned venture should become the next retrospective. |
+| 14 | Keep ThinkBud engineering skills in a future high-level venture retrospective rather than the core GTM operator library. |
 
-## Excluded without further action
+## Standing disclosure rules
 
-Personal contact details, precise home location, family information, identity records, credentials, contracts, legal records, production data, customer or prospect lists, employee information, internal company artefacts and private source links remain excluded under the repository controls.
+- Employer names remain limited to the public career timeline.
+- DevRev employment ended in June 2026; only the public role title and dates may be used.
+- No confidential outcomes, customer information, system detail or implementation material from any employer may be published.
+- Personal contact details, precise home location, family information, identity records, credentials, contracts, legal records, production data, customer or prospect lists, employee information, internal company artefacts and private source links remain excluded.

@@ -1,0 +1,6 @@
+opportunity_id,stage,amount,created_date,close_date,owner,source
+OPP-1001,Discovery,45000,2026-01-10,2026-02-20,Jordan Lee,Web
+OPP-1002,Closed Won,80000,2026-01-05,2026-02-15,Sam Patel,Partner
+OPP-1003,Proposal,-5000,2026-02-01,2026-04-15,Avery Chen,Event
+OPP-1004,Discovery,32000,2026-03-01,2026-02-15,Jordan Lee,
+OPP-1004,Discovery,32000,2026-03-01,2026-05-15,Jordan Lee,Web

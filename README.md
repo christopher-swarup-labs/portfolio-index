@@ -137,6 +137,7 @@ Examples use fictional organisations, fictional people and synthetic records.
 
 ## Governance and diligence
 
+- [Controlled Release QA](RELEASE-QA.md)
 - [Reviewer Guide](REVIEWER-GUIDE.md)
 - [Portfolio Standards](PORTFOLIO-STANDARDS.md)
 - [Source Provenance](SOURCE-PROVENANCE.md)
@@ -158,7 +159,7 @@ Examples use fictional organisations, fictional people and synthetic records.
 - GTM Command Center architecture
 - Two runnable synthetic diagnostics with tests
 - Entrepreneur journey overview and one venture retrospective
-- Privacy, confidentiality, provenance and claim controls
+- Privacy, confidentiality, provenance, claim and release-QA controls
 
 ### Next evidence wave
 

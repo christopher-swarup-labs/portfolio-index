@@ -93,11 +93,24 @@ Major artefacts must use an explicit label:
 - **Reference only**
 - **Concept under development**
 
-## Operating boundary
+## Privacy and company boundary
 
 > Rebuild the insight. Never migrate the source file.
 
-This repository does not contain personal contact details, family information, credentials, recovery codes, production data, internal screenshots, private links, copied employer documents, proprietary prompts, private schemas or third-party material represented as original intellectual property.
+Public employer names, public role titles and public employment dates appear only in the factual career timeline in [PROFILE.md](PROFILE.md). All case studies, frameworks, skill demonstrations and operating examples remain company-neutral.
+
+This repository does not contain:
+
+- Personal email addresses, phone numbers, home addresses, precise location or family information
+- Customer, prospect, employee, partner, supplier, parent, child or user data
+- Production records, CRM exports, usage data or real identifiers
+- Internal company metrics, budgets, programme names, customer volumes or incidents
+- Internal screenshots, dashboards, private links or system architecture
+- Copied employer documents, proprietary prompts, private schemas or exact configurations
+- Credentials, recovery codes, API keys, tokens or environment files
+- Third-party material represented as original intellectual property
+
+Real company or customer data is never anonymised and reused. Portfolio examples use synthetic records and fictional organisations.
 
 Control documents:
 
@@ -122,12 +135,14 @@ Control documents:
 - [x] Professional profile and operator thesis added
 - [x] Claim register and verification backlog added
 - [x] Skills-library index and one explicitly labelled draft exemplar added
+- [x] DevRev employment end date corrected to June 2026
+- [x] Named-company, personal-data and customer-data boundaries strengthened
 
 ### In production
 
 - [ ] Verify which Command Center specialist skills are built, planned or superseded
-- [ ] Resolve material claim and metric conflicts
-- [ ] Build five flagship operator cases
+- [ ] Resolve material claim and metric conflicts privately
+- [ ] Build five company-neutral flagship operator cases
 - [ ] Reconstruct verified individual skill specifications
 - [ ] Build three reusable operating frameworks
 - [ ] Release two synthetic-data diagnostics

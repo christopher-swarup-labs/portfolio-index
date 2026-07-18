@@ -15,7 +15,7 @@ I am a senior Marketing Operations, Revenue Operations and GTM systems leader. I
 
 The visible problems are usually familiar: pipeline numbers are disputed, handoffs are inconsistent, platforms overlap, teams work around the process, and Operations is stuck reacting to requests. I look underneath those symptoms and fix the decisions, ownership, process and data that are causing them.
 
-I have also spent nearly eight months building [ThinkBud](case-studies/ventures/building-thinkbud.md), a working learning-intelligence platform. That is important because it shows I can go beyond diagnosing someone else’s operating problem. I can take an idea through product design, architecture, data, security, testing, billing and controlled release.
+I have also spent nearly eight months building [ThinkBud](case-studies/ventures/building-thinkbud.md), a working learning-intelligence platform. You can see the live product site at [www.thinkbud.co.uk](https://www.thinkbud.co.uk/). That is important because it shows I can go beyond diagnosing someone else’s operating problem. I can take an idea through product design, architecture, data, security, testing, billing and controlled release.
 
 ## The roles this work supports
 
@@ -71,7 +71,7 @@ I document the system and hand it back. I do not create dependency as a business
 
 ## Where I would suggest you look next
 
-1. [Building ThinkBud](case-studies/ventures/building-thinkbud.md) — the clearest evidence that I can take a complex idea from a blank page to a working controlled-beta product
+1. [Building ThinkBud](case-studies/ventures/building-thinkbud.md) · [Live product](https://www.thinkbud.co.uk/) — the clearest evidence that I can take a complex idea from a blank page to a working controlled-beta product
 2. [Revenue Operating System case](case-studies/flagship/revenue-operating-system.md) — the broadest example of how I diagnose and structure a GTM operating problem
 3. [Unified Lifecycle Governance case](case-studies/flagship/unified-lifecycle-governance.md) — how I handle definitions, ownership, handoffs and adoption
 4. [Campaign Operations OS case](case-studies/flagship/campaign-operations-os.md) — how I turn busy delivery into a governed commercial process

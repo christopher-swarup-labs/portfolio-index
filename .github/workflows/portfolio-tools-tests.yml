@@ -1,0 +1,31 @@
+name: Portfolio tools tests
+
+on:
+  push:
+    paths:
+      - "tools/**"
+      - ".github/workflows/portfolio-tools-tests.yml"
+  pull_request:
+    paths:
+      - "tools/**"
+      - ".github/workflows/portfolio-tools-tests.yml"
+
+permissions:
+  contents: read
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        tool:
+          - tools/pipeline-quality-scanner
+          - tools/lifecycle-validator
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Run unit tests
+        working-directory: ${{ matrix.tool }}
+        run: python -m unittest

@@ -1,111 +1,165 @@
-# Skills, Agents and Operator Systems
+# Skills and Systems
 
-This catalogue records the reusable skills, agent concepts, operating frameworks and decision systems Christopher has created or materially designed.
+An audit of structured operator skills, agents and frameworks associated with Christopher's work, with a deliberate separation between evidenced architecture, candidate artefacts, original design and applied third-party methodology.
 
-The portfolio will show these as independently reconstructed, company-neutral assets. It will not copy internal prompts, employer code, proprietary schemas, private links, production data or confidential implementation detail.
+## Why this section exists
 
-## AI-assisted GTM skill architecture
+A serious employer or investor is not asking whether Christopher can write prompts. They are asking whether operational judgement has been encoded into reusable logic: what evidence is required, how a problem is diagnosed, what a system may recommend, where a human must decide, and how failure is contained.
 
-The source evidence describes a command-centre pattern with one orchestrator and fourteen specialist skills. Each specialist accepts a defined operating problem, applies structured rules and returns an inspectable output for human review.
+This section records what is evidenced, what has been reported by Claude's audit, what remains unverified and what is deliberately excluded.
 
-| Skill or agent | Portfolio-safe purpose | Planned proof |
-|---|---|---|
-| **GTM Command Center** | Orchestrates specialist analysis across lifecycle, systems, data, campaigns and decision quality | Architecture overview, routing logic and synthetic end-to-end example |
-| **Lifecycle Control Tower** | Diagnoses lifecycle definitions, progression, ownership, recycling and exception handling | Synthetic lifecycle model and transition validator |
-| **Reporting Truth Validator** | Tests whether executive reporting is supported by consistent definitions, lineage and reconciled data | Reporting assurance checklist and synthetic reconciliation |
-| **Event Pipeline Converter** | Converts event participation into governed follow-up, qualification and pipeline progression | Event handoff workflow and readiness checker |
-| **Seller Behavior Auditor** | Assesses whether seller actions, statuses and CRM behaviour support the intended process | Synthetic behaviour audit and adoption signals |
-| **CRM Data Quality Auditor** | Tests completeness, consistency, validity, duplication and operational usability | Synthetic CRM quality scanner |
-| **Interaction Signal Designer** | Defines canonical engagement signals without confusing interaction with lifecycle or revenue authority | Signal contract and example interaction model |
-| **MAP Architecture Designer** | Evaluates marketing automation architecture, boundaries, integrations and migration decisions | Platform decision canvas and architecture review |
-| **Marketing SLA Engine** | Defines response windows, stop conditions, breaches, escalation and measurement | SLA specification and scenario tester |
-| **Email Deliverability Auditor** | Reviews database health, permission, suppression, sending practice and operational risk | Deliverability audit framework using synthetic metrics |
-| **Channel Signal Auditor** | Tests whether channel activity produces comparable, usable and correctly governed signals | Channel taxonomy and signal-quality assessment |
-| **Campaign Blueprint** | Converts campaign intent into audience, system, data, QA, handoff and measurement requirements | Campaign blueprint and launch-readiness checker |
-| **MOPS Operating System** | Designs the service model, portfolio, governance, platform ownership and operating cadence for Marketing Operations | Team operating model and maturity assessment |
-| **Decision Validator** | Pressure-tests major platform, process or investment choices against evidence, trade-offs and second-order effects | Decision record, option matrix and red-team workflow |
-| **MOPS Leader** | Frames priorities, sequences work and converts operating evidence into executive decisions | Leadership operating cadence and portfolio prioritisation model |
+## Evidence status at a glance
+
+| Category | Current status |
+|---|---|
+| Command Center architecture | Evidenced at a high level through professional material |
+| Fourteen named specialist modules | Named and purpose-mapped; individual artefacts not yet verified in this repository |
+| Claude-audited skill packages | Reported as inspected in Claude's skill environment; source files not yet imported |
+| CRM Data Quality Auditor | Portfolio-safe draft specification only; not yet evidence of built tooling |
+| Runnable demonstrations | Not started |
+| Applied Forrester / SiriusDecisions methodology | Identified and attributed |
+| ThinkBud engineering skills | Deferred to the later venture retrospective |
+
+## Claude-audited skill packages — repository verification pending
+
+Claude's audit reported four substantial packages in its accessible skill environment. These are retained as candidate professional evidence, but they are not yet treated as repository-verified artefacts.
+
+### GTM Revenue Architect
+
+**Reported scope:** orchestration layer, strategic and execution routing, ten frameworks, seven workflows, qualification rubrics and executive output templates.
+
+**Potentially original contribution:** the two-mode routing architecture and a symptom-to-root-cause diagnostic layer mapping observed GTM symptoms to likely underlying faults and appropriate analytical frameworks.
+
+**Current classification:** Candidate original operator framework over applied third-party methodology. Source verification required.
+
+### Revenue Execution and Enablement Engine
+
+**Reported scope:** research, MEDDICC and SPICED transcript scoring, objection handling, Mutual Action Plan generation, outbound messaging and deal-inspection outputs.
+
+**Potentially original contribution:** evidence-first scoring in which unconfirmed criteria score zero and remain visible as gaps rather than being inferred optimistically.
+
+**Current classification:** Candidate original operating discipline applied to established sales methodologies. Source verification required.
+
+### B2B Demand and Revenue Architect
+
+**Reported scope:** nine frameworks and a broad diagnostic protocol.
+
+**Current assessment:** substantial overlap with GTM Revenue Architect. It may be a superseded generation rather than a separate portfolio asset.
+
+**Current classification:** Candidate superseded artefact. Christopher must decide whether it should be archived, merged or represented separately.
+
+### Clay GTM Skill Pack
+
+**Reported scope:** orchestrator plus specialist modules covering table architecture, enrichment, AI columns, export, debugging, research and credit optimisation.
+
+**Current classification:** Applied platform expertise demonstrating implementation depth, not proprietary operating IP. Source verification required.
+
+## Provenance finding: applied methodology
+
+Several constructs reported inside the GTM and demand skills originate in SiriusDecisions / Forrester methodology, including:
+
+- Demand Unit Waterfall and stage language
+- Programme Pendulum
+- Achievability Index
+- Cooperation Index
+- Demand Management Council
+
+Christopher's professional material records Forrester Demand and Account-Based Marketing and SiriusDecisions B2B Marketing Foundations Pro certifications.
+
+These constructs must be labelled as **applied Forrester / SiriusDecisions methodology, operator-adapted**. Originality may be claimed only for independently evidenced additions such as orchestration, diagnostic sequencing, evidence classification and human-accountability boundaries.
+
+## GTM Command Center architecture
+
+Professional evidence records one orchestration layer and fourteen named specialist modules:
+
+1. Lifecycle Control Tower
+2. Reporting Truth Validator
+3. Event Pipeline Converter
+4. Seller Behavior Auditor
+5. CRM Data Quality Auditor
+6. Interaction Signal Designer
+7. MAP Architecture Designer
+8. Marketing SLA Engine
+9. Email Deliverability Auditor
+10. Channel Signal Auditor
+11. Campaign Blueprint
+12. MOPS Operating System
+13. Decision Validator
+14. MOPS Leader
+
+The architecture is credible at a high level: a request is classified, routed to a specialist, evaluated using structured evidence, returned with assumptions and limitations, and held behind a human approval point.
+
+What is not yet evidenced in this repository is the individual implementation of each module. Until Christopher supplies or confirms the source artefacts, they remain one of:
+
+- **Architecture evidenced — implementation pending verification**
+- **Concept under development**
+- **Superseded or merged**
+- **Excluded from portfolio**
+
+No individual module should be presented as a built tool solely because its name appears in an architecture diagram.
 
 ## Core operator systems
 
-These systems connect the specialist skills into broader commercial capabilities.
+The wider professional evidence supports portfolio-safe reconstruction of:
 
-### Revenue Operating System
+- Revenue Operating System
+- Unified Lifecycle Governance
+- Lead Status and Disposition Model
+- Lead Scoring and Qualification
+- Routing, Ownership and SLA Governance
+- Marketing-to-Sales and Sales-to-Customer handoffs
+- Campaign Operations OS
+- Pipeline Truth and Attribution
+- Forecast Confidence
+- Martech Governance and Rationalisation
+- Data and Integration Governance
+- CRM and MAP Governance
+- Privacy, Consent and Marketability Operations
+- Modern MOPS Team Operating Model
+- Intake and Portfolio Prioritisation
+- Distributed Delivery Governance
+- Enablement and Adoption by Design
+- QBR and Executive Decision Cadence
+- Buyer-Journey and Demand Architecture
+- Decision and Investment Architecture
+- Platform Migration and Consolidation
+- AI-Ready Operating Foundation
 
-Connects commercial motions to process, ownership, systems, data, analytics, governance and AI readiness.
+These are capability and reconstruction candidates, not automatically original intellectual property.
 
-### Unified Lifecycle Governance
+## Skills deferred or excluded
 
-Defines stages, statuses, entry and exit rules, ownership, routing, SLAs, recycling, suppression, exceptions and authoritative data objects.
+| Skill family | Treatment |
+|---|---|
+| ThinkBud engineering, learning, product, database and release skills | Defer to the ThinkBud venture retrospective; do not mix into the GTM operator library |
+| Generic document, spreadsheet, slide and scheduling utilities | Exclude; tool-provider utilities are not Christopher's professional IP |
+| Personal productivity skills | Exclude |
+| Generic UX skill without clear GTM or venture relevance | Exclude or use only where a specific case proves material contribution |
 
-### Pipeline Truth and Attribution
+## Required standard for every skill
 
-Separates source, influence and progression; reconciles operational definitions; tests data quality; and supports trusted executive decisions.
+Every published skill must contain:
 
-### Campaign Operations OS
+1. Executive summary
+2. Business problem
+3. When to use it
+4. When not to use it
+5. Structured inputs
+6. Inspectable outputs
+7. Decision logic
+8. Human accountability
+9. Evidence and grounding
+10. Failure modes
+11. Synthetic example
+12. Expected output
+13. Limitations
+14. Evidence classification
+15. Source provenance
 
-Covers intake, prioritisation, taxonomy, build patterns, quality assurance, launch, handoff, measurement and continuous improvement.
+## Current publication decision
 
-### Martech Governance and Rationalisation
+A small library of rigorously verified skills is more credible than fifteen generated specifications.
 
-Evaluates capability coverage, adoption, dependency, total cost, risk, integration, data ownership and migration sequencing.
+The next step is to obtain or confirm the source artefacts for the Command Center specialists and the Claude-audited packages. Until then, the [CRM Data Quality Auditor](skills/crm-data-quality-auditor/README.md) remains an explicitly labelled format exemplar rather than proof of implemented tooling.
 
-### Modern MOPS Team Operating Model
-
-Defines mission, service catalogue, decision rights, platform ownership, intake, portfolio management, distributed delivery, analytics and adoption.
-
-### Data and Integration Governance
-
-Defines system authority, field ownership, data contracts, integration boundaries, quality controls, privacy requirements and change management.
-
-### Decision and Investment Architecture
-
-Turns platform, operating-model and transformation choices into explicit options, assumptions, evidence, trade-offs, risks and review dates.
-
-## Additional applied capabilities
-
-The wider portfolio evidence also supports:
-
-- Lead scoring and qualification design
-- Routing and territory logic
-- Marketing-to-sales and sales-to-customer handoffs
-- CRM and marketing-automation governance
-- Campaign taxonomy and attribution design
-- Buyer-journey and demand architecture
-- ABM and account-selection frameworks
-- QBR and executive decision cadences
-- Platform migration and consolidation
-- One-platform and one-data-pipeline business cases
-- Privacy, consent and marketability operations
-- Distributed delivery and partner governance
-- Enablement, training and adoption
-- GTM planning, commercial modelling and investment cases
-- Venture positioning, offer design and productisation
-
-## Required structure for every reconstructed skill
-
-Every skill added to a portfolio repository must contain:
-
-1. **Purpose** — the business decision or operating problem it addresses.
-2. **When to use it** — appropriate contexts and prerequisites.
-3. **Inputs** — required facts, definitions and evidence.
-4. **Outputs** — the structured result it produces.
-5. **Decision rules** — deterministic or judgement-based logic.
-6. **Human accountability** — who reviews, approves or overrides it.
-7. **Synthetic example** — no real company, employee, customer or production data.
-8. **Failure modes** — where the skill can mislead or produce weak results.
-9. **Limitations** — what remains unproven or context-dependent.
-10. **Provenance** — implemented experience, original framework, synthetic demonstration or independent exercise.
-
-## Publication status
-
-- Skill architecture identified: **Complete**
-- Portfolio-safe catalogue: **Complete**
-- Individual reconstructed skill specifications: **Planned**
-- Synthetic demonstrations: **Planned**
-- Runnable validators and diagnostics: **Planned**
-- Confidentiality and provenance review: **Required before every release**
-
-## Boundary
-
-A skill name or high-level architecture may be represented when it reflects Christopher's own work. Internal source prompts, confidential operating logic, employer-specific object models, customer information and live outputs remain excluded.
+See the [Verification Backlog](evidence/verification-backlog.md).

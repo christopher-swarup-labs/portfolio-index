@@ -94,6 +94,20 @@ Experience includes EMEA and global operating scope, cross-regional stakeholder 
 
 Independent venture development is represented only through separately reviewed retrospectives. Source code, production configuration, private founder information, customer data and commercially sensitive financial detail remain outside the portfolio.
 
+See the [Entrepreneur Journey](ENTREPRENEUR-JOURNEY.md) and [Building Lynr](case-studies/ventures/building-lynr.md).
+
+---
+
+## Selected evidence
+
+- [Revenue Operating System case](case-studies/flagship/revenue-operating-system.md)
+- [Unified Lifecycle Governance case](case-studies/flagship/unified-lifecycle-governance.md)
+- [Campaign Operations OS case](case-studies/flagship/campaign-operations-os.md)
+- [Pipeline Truth and Attribution case](case-studies/flagship/pipeline-truth-and-attribution.md)
+- [Modern MOPS Team Operating Model](case-studies/leadership/modern-mops-team-operating-model.md)
+- [GTM Command Center](skills/command-center/README.md)
+- [Runnable synthetic tools](tools/README.md)
+
 ---
 
 ## Evidence and privacy status

@@ -40,7 +40,7 @@ It exists to prevent accidental copying of employer material, proprietary code, 
 |---|---|---|---|
 | Revenue and Commercial Operating Systems | Validated operator evidence plus accumulated professional knowledge | Composite company-neutral reconstruction | Approved for private portfolio |
 | Lifecycle, Qualification and Handoffs | Historic lifecycle, scoring, routing, SLA and handoff work | Rebuild with neutral language and synthetic records | Approved for private portfolio |
-| Campaign and Platform Operations | Campaign and platform-governance experience | Create platform-neutral case and framework | Not started |
+| Campaign and Platform Operations | Campaign and platform-governance experience | Rebuild as a platform-neutral operating system | Approved for private portfolio |
 | Martech, Data and Transformation | Audits, migrations, architecture and business cases | Remove company architecture and rebuild decision models | Not started |
 | Analytics, Attribution and Decision Systems | Attribution, reporting and pipeline experience | Reconstruct with explicit limitations and synthetic data | Approved for private portfolio |
 | Team and Transformation Leadership | Charters, service models and distributed-delivery experience | Composite leadership reconstruction | Approved for private portfolio |
@@ -86,10 +86,12 @@ Claude reported that it inspected several skill packages in its available skill 
 | `skills/crm-data-quality-auditor/README.md` | New portfolio specification | Evidence review required | Draft exemplar; not proof of historical built tooling |
 | `frameworks/revenue-operating-system.md` | Accumulated professional knowledge | Approved for private portfolio | Original portfolio framework |
 | `frameworks/lifecycle-governance.md` | Composite implemented experience | Approved for private portfolio | Company-neutral reconstruction |
+| `frameworks/campaign-operations.md` | Composite campaign and platform experience | Approved for private portfolio | Company-neutral operating framework |
 | `frameworks/pipeline-truth.md` | Composite implemented experience | Approved for private portfolio | Company-neutral reconstruction |
 | `frameworks/mops-operating-model.md` | Composite leadership experience | Approved for private portfolio | Company-neutral reconstruction |
 | `case-studies/flagship/revenue-operating-system.md` | Composite implemented experience | Approved for private portfolio | No exact employer or customer detail |
 | `case-studies/flagship/unified-lifecycle-governance.md` | Composite implemented experience | Approved for private portfolio | No real records or system configuration |
+| `case-studies/flagship/campaign-operations-os.md` | Composite campaign-operations experience | Approved for private portfolio | No named employer, real campaign data or private platform detail |
 | `case-studies/flagship/pipeline-truth-and-attribution.md` | Composite implemented experience | Approved for private portfolio | No exact metrics or employer attribution |
 | `case-studies/leadership/modern-mops-team-operating-model.md` | Composite implemented leadership experience | Approved for private portfolio | Company-neutral operating pattern |
 | `case-studies/ventures/building-lynr.md` | Owned venture material | Approved for private portfolio | No customer claims, private economics or proprietary delivery detail |

@@ -7,11 +7,11 @@ It is not a CV archive or a collection of historic employer files. It is a struc
 ## Employer review path — 15 to 25 minutes
 
 1. Read the [Professional Profile](PROFILE.md) for scope, trajectory and functional depth.
-2. Read the [Operator Thesis](OPERATOR-THESIS.md) for the principles behind the work.
-3. Review the [Workstream Coverage Map](WORKSTREAM-COVERAGE.md) for breadth.
-4. Review the [Case Study Index](CASE-STUDY-INDEX.md) and the first flagship cases as they are completed.
-5. Review [Skills and Systems](SKILLS-AND-SYSTEMS.md) for AI-assisted workflows, evidence standards and the current verification boundary.
-6. Review the [Claim Register](evidence/claim-register.md) where diligence requires it.
+2. Read the [Revenue Operating System case](case-studies/flagship/revenue-operating-system.md) for end-to-end diagnosis, design and implementation sequencing.
+3. Read the [Unified Lifecycle Governance case](case-studies/flagship/unified-lifecycle-governance.md) for ownership, handoffs, routing and adoption.
+4. Read the [Modern MOPS Team Operating Model case](case-studies/leadership/modern-mops-team-operating-model.md) for leadership, team design and distributed delivery.
+5. Review the [Operating Frameworks](frameworks/README.md) and [Runnable Proof](tools/README.md) for repeatability and implementation depth.
+6. Read the [Operator Thesis](OPERATOR-THESIS.md) for the principles behind the work.
 
 ### Employer decision
 
@@ -21,17 +21,37 @@ A reviewer should be able to determine whether Christopher can:
 - Connect strategy, process, ownership, systems, data and analytics
 - Lead across Marketing, Sales, SDR, Partnerships, Customer Success, Finance, Data and Technology
 - Turn executive priorities into implementation, governance and adoption
+- Build and lead Marketing or Revenue Operations as commercial infrastructure
 - Design operating rules that survive beyond one tool or one person
 - Apply AI without weakening accountability or decision quality
 
+## CMO review path — 15 minutes
+
+1. [Modern MOPS Operating Model](frameworks/mops-operating-model.md)
+2. [Modern MOPS leadership case](case-studies/leadership/modern-mops-team-operating-model.md)
+3. [Lifecycle case](case-studies/flagship/unified-lifecycle-governance.md)
+4. [Pipeline Truth case](case-studies/flagship/pipeline-truth-and-attribution.md)
+
+The CMO should be able to assess whether Christopher can move MOPS from reactive delivery to a governed function accountable for campaign execution, platforms, data, analytics and commercial decisions.
+
+## CRO or COO review path — 15 minutes
+
+1. [Revenue Operating System framework](frameworks/revenue-operating-system.md)
+2. [Revenue Operating System case](case-studies/flagship/revenue-operating-system.md)
+3. [Lifecycle Governance framework](frameworks/lifecycle-governance.md)
+4. [Pipeline Truth framework](frameworks/pipeline-truth.md)
+
+The revenue leader should be able to assess whether Christopher can create one operating spine across commercial motions, ownership, handoffs, systems, data and forecasting.
+
 ## Investor and adviser review path — 15 to 25 minutes
 
-1. Read the [Operator Thesis](OPERATOR-THESIS.md).
-2. Review [Skills and Systems](SKILLS-AND-SYSTEMS.md).
-3. Review the [Skills Library](skills/README.md) and the explicitly labelled [CRM Data Quality Auditor draft](skills/crm-data-quality-auditor/README.md).
-4. Review the [Claim Register](evidence/claim-register.md) and [Verification Backlog](evidence/verification-backlog.md).
-5. Review the [Roadmap](ROADMAP.md) to understand the boundary between evidence, reconstruction and aspiration.
-6. Review the first venture retrospective only after the operator foundation is complete.
+1. Read the [Entrepreneur Journey](ENTREPRENEUR-JOURNEY.md).
+2. Read the [Operator Thesis](OPERATOR-THESIS.md).
+3. Review the [GTM Command Center](skills/command-center/README.md).
+4. Review the [Operating Frameworks](frameworks/README.md).
+5. Inspect the [Runnable Proof](tools/README.md).
+6. Review [Skills and Systems](SKILLS-AND-SYSTEMS.md) for the boundary between evidenced architecture, candidate artefacts and applied methodology.
+7. Review the [Claim Register](evidence/claim-register.md) where diligence requires it.
 
 ### Investor or adviser decision
 
@@ -40,25 +60,26 @@ A reviewer should be able to determine whether:
 - Christopher has repeatable operator insight rather than isolated experience
 - His diagnostic logic can become a service, tool, workflow or product
 - The skills library contains operating logic rather than generic prompts
-- He can move from diagnosis to delivery
+- He can move from diagnosis to delivery and from delivery to productisation
 - He understands commercial, governance and adoption risk
 - He is explicit about what is implemented, reconstructed, synthetic or unproven
 
 ## Technical and operations review path
 
-1. [Skills Library](skills/README.md)
-2. [CRM Data Quality Auditor draft](skills/crm-data-quality-auditor/README.md)
-3. [Source Provenance](SOURCE-PROVENANCE.md)
-4. [Portfolio Standards](PORTFOLIO-STANDARDS.md)
-5. [Security Policy](SECURITY.md)
-6. Future runnable diagnostics when released
+1. [GTM Command Center](skills/command-center/README.md)
+2. [Skills Library](skills/README.md)
+3. [Pipeline Quality Scanner](tools/pipeline-quality-scanner/README.md)
+4. [Lifecycle Transition Validator](tools/lifecycle-validator/README.md)
+5. [CRM Data Quality Auditor draft](skills/crm-data-quality-auditor/README.md)
+6. [Source Provenance](SOURCE-PROVENANCE.md)
+7. [Security Policy](SECURITY.md)
 
-The technical review should focus on structured inputs, inspectable outputs, decision rules, evidence labels, failure modes, error handling and human approval boundaries.
+The technical review should focus on structured inputs, inspectable outputs, explicit decision rules, tests, evidence labels, failure modes, error handling and human approval boundaries.
 
 ## Evidence labels
 
-- **Implemented experience — independently reconstructed**
-- **Original operator framework**
+- **Composite implemented experience — independently reconstructed**
+- **Original portfolio framework**
 - **Portfolio-safe skill specification**
 - **Synthetic demonstration**
 - **Independent strategic exercise**

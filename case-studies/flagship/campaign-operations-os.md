@@ -2,13 +2,13 @@
 
 > **Evidence classification:** Composite implemented experience — independently reconstructed.
 
-## Executive summary
+## What this case is about
 
-Campaign delivery had become dependent on individual knowledge, urgent requests and manual intervention. Work was being completed, but quality, measurement, ownership and follow-up varied by requester, region and channel.
+Campaign work was getting done, but too much of the operating knowledge sat in people’s heads. Requests arrived through different channels, deadlines were agreed before the work was understood, and quality depended on who happened to pick the request up.
 
-The transformation was to create one campaign operating system covering intake, readiness, build, quality assurance, launch, handoff, measurement and learning.
+The business did not need another campaign checklist. It needed one operating model covering intake, readiness, build, quality assurance, launch, handoff, measurement and learning.
 
-## Presenting symptoms
+## What I was seeing
 
 - Requests arrived through multiple channels with incomplete requirements
 - Deadlines were agreed before scope or dependencies were understood
@@ -19,7 +19,7 @@ The transformation was to create one campaign operating system covering intake, 
 - Reporting focused on activity without a shared progression definition
 - Lessons were discussed but not converted into operating changes
 
-## Root cause
+## The root cause
 
 Campaign work had been treated as a production queue rather than an end-to-end commercial process.
 
@@ -39,7 +39,7 @@ The missing system included:
 
 I designed the operating model, defined decision rights and standards, connected campaign work to platform and data governance, established quality and release controls, and created the structure for distributed delivery and adoption.
 
-## Target model
+## The target model
 
 ```mermaid
 flowchart LR
@@ -57,7 +57,7 @@ flowchart LR
     B -->|No| A
 ```
 
-## Key decisions
+## The decisions I made
 
 ### Intake and prioritisation
 
@@ -94,11 +94,11 @@ flowchart LR
 - Published metric definitions
 - Used post-launch review to change templates, rules and prioritisation
 
-## Distributed delivery model
+## How I thought about distributed delivery
 
 Repeatable production could move to a distributed team or partner only after standards, templates, QA and escalation were explicit.
 
-Senior judgement remained responsible for:
+Senior judgement still needed to own:
 
 - Architecture
 - High-risk exceptions
@@ -107,7 +107,9 @@ Senior judgement remained responsible for:
 - Release risk
 - Continuous improvement
 
-## Outcome
+The point was not to move work away from senior operators at any cost. It was to stop using senior judgement for repeatable production while keeping it close to the decisions where risk and ambiguity mattered.
+
+## What changed
 
 The operating model created:
 
@@ -119,15 +121,15 @@ The operating model created:
 - A usable model for distributed production
 - A mechanism for learning rather than repeated rework
 
-Exact employer metrics are intentionally excluded.
+I have intentionally left out exact employer metrics. The useful part of this case is the operating design and the trade-offs behind it.
 
-## Lessons
+## What I learned
 
-- A form is not an intake process unless it changes prioritisation and readiness decisions.
-- Speed improves when rework and ambiguity fall, not when QA is removed.
-- Campaign Operations is incomplete without a receiving owner and follow-up rule.
-- Standardisation should protect quality and learning, not eliminate justified variation.
-- The best campaign retrospective produces an operating change, not only a slide.
+- A form is not an intake process unless it changes prioritisation and readiness decisions
+- Speed improves when rework and ambiguity fall, not when QA is removed
+- Campaign Operations is incomplete without a receiving owner and follow-up rule
+- Standardisation should protect quality and learning, not eliminate justified variation
+- The best campaign retrospective produces an operating change, not only a slide
 
 ## Related asset
 

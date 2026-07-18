@@ -4,7 +4,7 @@
 
 This register records where portfolio ideas came from and how source material was treated before publication.
 
-It exists to prevent accidental copying of employer material, proprietary code, confidential data, personal information or third-party intellectual property.
+It exists to prevent accidental copying of employer material, private product implementation, confidential data, personal information or third-party intellectual property.
 
 ## Source classifications
 
@@ -16,13 +16,12 @@ It exists to prevent accidental copying of employer material, proprietary code, 
 | **Independent strategic exercise** | Assessment or hypothetical work without implementation responsibility | Rebuild and label clearly | No source upload |
 | **CV or public professional profile** | Role context, chronology and self-reported claims | Use after accuracy and metric review | Selectively |
 | **Claude audit output** | Analysis produced from Claude-accessible skills or professional context | Treat as an audit input, not proof; reconcile with source evidence | No direct proof status |
-| **Applied third-party methodology** | Forrester, SiriusDecisions, MEDDICC, SPICED or other established methods | Attribute and describe Christopher's adaptation | No copied training material |
+| **Applied third-party methodology** | Established analyst, sales or operating methods | Attribute the base method and describe my adaptation | No copied training material |
 | **Internal dashboard or dataset** | Real operational or commercial data | Recreate with synthetic data and generic labels | No |
-| **Owned venture material** | Material relating to a venture owned or built by Christopher | Use selectively after venture-specific review | Sometimes |
-| **Third-party reference** | Training, research, analyst or vendor material | Cite where material; never present as original work | No direct copying |
-| **External public research** | Public source used to validate a current fact or claim | Summarise with attribution | No direct copying by default |
-| **Source code from another repository** | Code or configuration outside this portfolio | Reference only unless publication rights are explicit | No by default |
-| **Restricted personal or confidential material** | Credentials, identity, employment, legal, customer or production records | Exclude completely | Never |
+| **Owned venture material** | Material relating to a venture I own or built | Use selectively after venture-specific review | Sometimes |
+| **External public research** | Public material used to validate a current fact or claim | Summarise with attribution | No direct copying by default |
+| **Source code from another repository** | Code or configuration outside this portfolio | Reference only unless publication rights and need are explicit | No by default |
+| **Restricted material** | Private records, credentials, production data or information that does not belong in reviewer evidence | Exclude completely | Never |
 
 ## Evidence treatment statuses
 
@@ -44,21 +43,21 @@ It exists to prevent accidental copying of employer material, proprietary code, 
 | Martech, Data and Transformation | Audits, migrations, architecture and business cases | Remove company architecture and rebuild decision models | Not started |
 | Analytics, Attribution and Decision Systems | Attribution, reporting and pipeline experience | Reconstruct with explicit limitations and synthetic data | Approved for private portfolio |
 | Team and Transformation Leadership | Charters, service models and distributed-delivery experience | Composite leadership reconstruction | Approved for private portfolio |
-| AI-Assisted GTM Operations | Professional AI workflows, Claude audit and high-level architecture evidence | Separate verified architecture, draft specifications and new synthetic tools | Approved with verification boundary |
-| Independent Strategic Exercises | Recruitment or assessment cases | Label assumptions and non-implementation status | Not started |
-| Lynr Venture Retrospective | Owned venture material | Exclude customer claims, private economics and proprietary delivery detail | Approved for private portfolio |
+| AI-Assisted GTM Operations | Professional AI workflows, Claude audit and architecture evidence | Separate verified architecture, draft specifications and synthetic tools | Approved with verification boundary |
+| ThinkBud Venture Build | Owned ThinkBud material plus read-only verification of the separate private product repository | Describe the product, decisions and architecture at a high level; do not migrate implementation or user information | Approved for private portfolio |
+| Lynr Venture Retrospective | Owned Lynr material | Exclude private commercial and delivery detail | Approved for private portfolio |
 | Other Venture Retrospectives | Owned venture material | Separate publication review for each venture | Not started |
 
-## Applied third-party methodology
+## Third-party methodology
 
-Several reported skill constructs originate in established Forrester / SiriusDecisions methodology, including the Demand Unit Waterfall, Programme Pendulum, Achievability Index, Cooperation Index and Demand Management Council. MEDDICC and SPICED are also established third-party sales methodologies.
+Some historical skill material uses established methods including Forrester and SiriusDecisions demand frameworks, MEDDICC and SPICED.
 
 Portfolio treatment:
 
 - Attribute the base methodology.
-- Describe Christopher as a trained or certified practitioner only where supported.
+- Describe me as a trained or certified practitioner only where supported.
 - Claim originality only for independently evidenced orchestration, diagnostic sequencing, evidence classification, operating adaptation and human-accountability controls.
-- Do not reproduce proprietary training content, diagrams or certification material.
+- Do not reproduce proprietary training content or certification material.
 
 Attribution is a credibility control, not a concession.
 
@@ -66,44 +65,59 @@ Attribution is a credibility control, not a concession.
 
 The uploaded Claude files were used as a structured audit input. They are not treated as proof by themselves.
 
-Claude reported that it inspected several skill packages in its available skill environment and identified originality and provenance issues. Until underlying files or approved exports are supplied:
+Until the underlying approved files are supplied:
 
-- The packages remain **candidate evidence**.
-- Their implementation status remains **pending verification**.
+- Reported packages remain candidate evidence.
+- Their historical implementation status remains pending verification.
 - They may be named in the audit catalogue.
 - They must not be presented as repository-verified built tooling.
 - Generated specifications must be labelled as drafts or concepts.
+
+## ThinkBud source treatment
+
+ThinkBud is an owned venture and a working product build, but its product repository remains a separate boundary.
+
+For the portfolio case, I reviewed the private repository documentation read-only to verify:
+
+- Controlled-beta status
+- Adaptive and spaced-review design
+- Event-sourced learning architecture
+- Parent and learner boundaries
+- Server-side grading and access controls
+- Testing and release approach
+
+No ThinkBud source code, production configuration, private learner records or internal identifiers were copied into this repository.
+
+The published case uses a first-person, portfolio-safe description of what I built, the decisions I made, what the platform currently proves and what remains unproven.
 
 ## Artefact register
 
 | Artefact | Source classification | Status | Treatment |
 |---|---|---|---|
-| `PROFILE.md` | CV and public professional context | Approved for private portfolio | Public chronology only; private metrics excluded |
-| `OPERATOR-THESIS.md` | Accumulated professional knowledge | Approved for private portfolio | Original thesis written for portfolio |
-| `ENTREPRENEUR-JOURNEY.md` | Owned venture context and accumulated professional knowledge | Approved for private portfolio | High-level journey; no traction or financial claims |
-| `SKILLS-AND-SYSTEMS.md` | Claude audit plus professional evidence | Evidence review required | Separates candidate skills, architecture and applied methodology |
+| `PROFILE.md` | CV, public professional context and owned venture context | Approved for private portfolio | Public chronology and portfolio-safe ThinkBud summary |
+| `OPERATOR-THESIS.md` | Accumulated professional knowledge | Approved for private portfolio | Original thesis written for the portfolio |
+| `ENTREPRENEUR-JOURNEY.md` | Owned venture context and accumulated professional knowledge | Approved for private portfolio | ThinkBud represented as the primary completed product build |
+| `SKILLS-AND-SYSTEMS.md` | Professional evidence, Claude audit and ThinkBud build context | Evidence review required | Separates practical product evidence, candidate skills and applied methodology |
 | `skills/command-center/README.md` | High-level architecture evidence plus portfolio reconstruction | Approved with verification boundary | Architecture represented; historical modules not claimed as verified |
 | `skills/crm-data-quality-auditor/README.md` | New portfolio specification | Evidence review required | Draft exemplar; not proof of historical built tooling |
+| `case-studies/ventures/building-thinkbud.md` | Owned ThinkBud venture material and read-only repository verification | Approved for private portfolio | No source migration, private configuration or user information |
+| `case-studies/ventures/building-lynr.md` | Owned Lynr venture material | Approved for private portfolio | No customer claims or private commercial detail |
 | `frameworks/revenue-operating-system.md` | Accumulated professional knowledge | Approved for private portfolio | Original portfolio framework |
 | `frameworks/lifecycle-governance.md` | Composite implemented experience | Approved for private portfolio | Company-neutral reconstruction |
 | `frameworks/campaign-operations.md` | Composite campaign and platform experience | Approved for private portfolio | Company-neutral operating framework |
 | `frameworks/pipeline-truth.md` | Composite implemented experience | Approved for private portfolio | Company-neutral reconstruction |
-| `frameworks/mops-operating-model.md` | Composite leadership experience | Approved for private portfolio | Company-neutral reconstruction |
-| `case-studies/flagship/revenue-operating-system.md` | Composite implemented experience | Approved for private portfolio | No exact employer or customer detail |
-| `case-studies/flagship/unified-lifecycle-governance.md` | Composite implemented experience | Approved for private portfolio | No real records or system configuration |
-| `case-studies/flagship/campaign-operations-os.md` | Composite campaign-operations experience | Approved for private portfolio | No named employer, real campaign data or private platform detail |
-| `case-studies/flagship/pipeline-truth-and-attribution.md` | Composite implemented experience | Approved for private portfolio | No exact metrics or employer attribution |
-| `case-studies/leadership/modern-mops-team-operating-model.md` | Composite implemented leadership experience | Approved for private portfolio | Company-neutral operating pattern |
-| `case-studies/ventures/building-lynr.md` | Owned venture material | Approved for private portfolio | No customer claims, private economics or proprietary delivery detail |
-| `tools/pipeline-quality-scanner/*` | New synthetic demonstration | Approved for private portfolio | Fictional records; standard-library Python; tested locally |
-| `tools/lifecycle-validator/*` | New synthetic demonstration | Approved for private portfolio | Fictional records; explicit rules; tested locally |
+| `frameworks/mops-operating-model.md` | Composite leadership experience | Approved for private portfolio | Company-neutral operating pattern |
+| `case-studies/flagship/*` | Composite implemented experience | Approved for private portfolio | No named employer or private operational detail |
+| `case-studies/leadership/*` | Composite implemented leadership experience | Approved for private portfolio | Company-neutral operating pattern |
+| `tools/pipeline-quality-scanner/*` | New synthetic demonstration | Approved for private portfolio | Fictional records and tested logic |
+| `tools/lifecycle-validator/*` | New synthetic demonstration | Approved for private portfolio | Fictional records and tested logic |
 | `evidence/claim-register.md` | Approved professional material | Evidence review required | Claims classified rather than asserted |
 | `evidence/verification-backlog.md` | Portfolio governance | Reconstruction in progress | Records unresolved evidence and decisions |
-| `README.md` | Portfolio synthesis | Approved for private portfolio | Employer and investor navigation |
+| `README.md` | Portfolio synthesis | Approved for private portfolio | ThinkBud, employer and investor navigation |
 | `REVIEWER-GUIDE.md` | Portfolio synthesis | Approved for private portfolio | Role-specific review paths |
 | `ROADMAP.md` | Portfolio governance | Approved for private portfolio | Current state and next evidence wave |
 
-## Required provenance entry for each artefact
+## Required provenance entry for each new artefact
 
 ```text
 Artefact name:
@@ -119,7 +133,7 @@ Direct quotations used:
 Real data used:
 Synthetic data created:
 Metrics status:
-Employer or customer identifiers removed:
+Identifiers removed:
 Ownership and publication basis confirmed:
 Confidentiality review status:
 Reviewer:
@@ -127,33 +141,14 @@ Review date:
 Notes and limitations:
 ```
 
-### Implementation status values
-
-- Implemented operator work — reconstructed
-- Composite of implemented experience across roles
-- Independent strategic exercise
-- Owned venture work
-- New portfolio framework
-- New synthetic demonstration
-- Draft specification pending verification
-
-### Metrics status values
-
-- Verified and safe to disclose
-- Verified but generalised
-- Directional only
-- Assumption or projection
-- Unverified and excluded
-- No metrics used
-
 ## Private source-reference rule
 
-Portfolio artefacts may record a high-level source family. They must not embed private Drive links, employer file paths, internal system URLs, customer or employee names, credential locations or production identifiers.
+Portfolio artefacts may record a high-level source family. They must not embed private Drive links, private repository paths, internal system URLs, user names, credential locations or production identifiers.
 
-Detailed private source trails, where needed, must be maintained outside the reviewer-facing repository surface.
+Detailed private source trails, where needed, remain outside the reviewer-facing repository surface.
 
 ## Current declaration
 
-All current case studies, frameworks, skills and tools were written specifically for this private repository.
+All current case studies, frameworks, skills and tools were written specifically for this private portfolio.
 
-No historic employer document, production dataset, credential, third-party training file or external repository source file has been uploaded. New tools use synthetic data only. Source material has been used only to validate chronology, identify transferable patterns, classify claims and establish the verification backlog.
+No historic employer document or ThinkBud implementation file has been uploaded. Source material has been used only to validate chronology, identify transferable patterns, verify the ThinkBud product state, classify claims and establish the evidence boundary.

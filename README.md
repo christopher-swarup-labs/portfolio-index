@@ -4,100 +4,117 @@
 
 I design and build the operating systems behind predictable B2B revenue—connecting commercial strategy, process, ownership, platforms, data, analytics and AI so teams can execute with clarity.
 
-This private repository is a structured evidence room for potential employers, investors and advisers. It is designed to show judgement, implementation depth, leadership and reusable operating knowledge. It is not a CV archive, a personal-data store or a dump of historic employer files.
+This private repository is a professional evidence room for employers, investors and advisers. It shows how I diagnose operating problems, design systems, lead change and convert experience into reusable frameworks and tools.
 
 ## Start here
 
-| Reviewer | Recommended path | Core decision |
+| Reviewer | Recommended ten-minute path | Decision supported |
 |---|---|---|
-| **Potential employer** | [Professional Profile](PROFILE.md) → [Operator Thesis](OPERATOR-THESIS.md) → [Reviewer Guide](REVIEWER-GUIDE.md) | Can Christopher diagnose, design and lead complex GTM operating change? |
-| **CMO / Marketing leader** | [Profile](PROFILE.md) → campaign, lifecycle and MOPS evidence in the [Case Study Index](CASE-STUDY-INDEX.md) | Can he turn Marketing Operations into commercially accountable infrastructure? |
-| **CRO / COO / Revenue leader** | [Operator Thesis](OPERATOR-THESIS.md) → Revenue Operating System, lifecycle and pipeline evidence | Can he create a revenue spine teams can run and forecast from? |
-| **Investor / adviser** | [Operator Thesis](OPERATOR-THESIS.md) → [Skills and Systems](SKILLS-AND-SYSTEMS.md) → [Claim Register](evidence/claim-register.md) | Is the expertise repeatable, productisable and commercially valuable? |
-| **Technical / operations reviewer** | [Skills Library](skills/README.md) → [CRM Data Quality Auditor draft](skills/crm-data-quality-auditor/README.md) → governance controls | Is the logic inspectable, governed and grounded in operational reality? |
+| **Potential employer** | [Professional Profile](PROFILE.md) → [Revenue Operating System case](case-studies/flagship/revenue-operating-system.md) → [Leadership case](case-studies/leadership/modern-mops-team-operating-model.md) | Can Christopher diagnose, design and lead complex GTM operating change? |
+| **CMO / Marketing leader** | [MOPS operating model](frameworks/mops-operating-model.md) → [Lifecycle case](case-studies/flagship/unified-lifecycle-governance.md) → [Pipeline case](case-studies/flagship/pipeline-truth-and-attribution.md) | Can he turn Marketing Operations into commercially accountable infrastructure? |
+| **CRO / COO / Revenue leader** | [Operator Thesis](OPERATOR-THESIS.md) → [Revenue Operating System framework](frameworks/revenue-operating-system.md) → [Pipeline Truth](frameworks/pipeline-truth.md) | Can he create a revenue spine teams can run and forecast from? |
+| **Investor / adviser** | [Entrepreneur Journey](ENTREPRENEUR-JOURNEY.md) → [GTM Command Center](skills/command-center/README.md) → [Runnable proof](tools/README.md) | Is the expertise repeatable, productisable and commercially valuable? |
+| **Technical / operations reviewer** | [Skills Library](skills/README.md) → [Lifecycle validator](tools/lifecycle-validator/README.md) → [Pipeline scanner](tools/pipeline-quality-scanner/README.md) | Is the logic inspectable, governed and grounded in operational reality? |
 
-## What this portfolio is intended to prove
+Full review guidance is in [REVIEWER-GUIDE.md](REVIEWER-GUIDE.md).
 
-- I can diagnose where a commercial operating model is breaking.
-- I can translate strategy into definitions, ownership, process, systems and data.
-- I can connect Marketing, Sales, SDR, Partnerships, Customer Success, Finance, Data and Technology.
-- I can design lifecycle, campaign, platform and data governance that survives beyond one person or one tool.
-- I can turn operational data into trusted pipeline, attribution, forecasting and executive decisions.
-- I can build and lead modern Marketing and Revenue Operations capabilities.
-- I can manage transformation through implementation, enablement, adoption and governance—not only strategy.
-- I can convert operating knowledge into reusable frameworks, diagnostics and AI-assisted skills.
-- I use AI as a governed leverage layer rather than an unaccountable shortcut.
+## Proof at a glance
 
-## Evidence architecture
-
-The Drive evidence audit produced eight connected collections:
-
-| Collection | What it demonstrates | Status |
+| Evidence | What it demonstrates | Status |
 |---|---|---|
-| **Revenue and Commercial Operating Systems** | Multi-motion GTM design, RevOps architecture, CRM transformation and operating governance | First build wave |
-| **Lifecycle, Qualification and Handoffs** | Lifecycle, status, scoring, routing, SLAs, recycling and cross-functional transitions | First build wave |
-| **Campaign and Platform Operations** | Intake, taxonomy, build, QA, automation governance, CRM integrity and measurement | First build wave |
-| **Martech, Data and Transformation** | Audits, rationalisation, migration, integration, data quality, privacy and business cases | Second build wave |
-| **Analytics, Attribution and Decision Systems** | Pipeline truth, source and influence, forecasting, QBRs and executive measurement | First build wave |
-| **Team and Transformation Leadership** | Team charters, service models, portfolio management, distributed delivery and adoption | First build wave |
-| **AI-Assisted GTM Operations** | Orchestration, specialist analysis, evidence validation and human accountability | In verification |
-| **Venture and Product Building** | Market, offer, product, brand, commercial model, website and execution | After operator foundation |
+| [Revenue Operating System case](case-studies/flagship/revenue-operating-system.md) | Cross-functional diagnosis, design, implementation and governance | Complete |
+| [Unified Lifecycle Governance case](case-studies/flagship/unified-lifecycle-governance.md) | Lifecycle, ownership, handoffs, routing, recycling and adoption | Complete |
+| [Pipeline Truth and Attribution case](case-studies/flagship/pipeline-truth-and-attribution.md) | Source, influence, progression, forecast evidence and reporting credibility | Complete |
+| [Modern MOPS leadership case](case-studies/leadership/modern-mops-team-operating-model.md) | Team design, service model, portfolio management and distributed delivery | Complete |
+| [Operating frameworks](frameworks/README.md) | Reusable Revenue, lifecycle, pipeline and MOPS operating models | Four complete |
+| [GTM Command Center](skills/command-center/README.md) | AI-assisted orchestration, evidence standards and human accountability | Architecture reconstructed |
+| [Runnable tools](tools/README.md) | Inspectable operating logic using synthetic data and unit tests | Two complete |
+| [Entrepreneur Journey](ENTREPRENEUR-JOURNEY.md) | Progression from operator experience to ventures and productisation | Complete overview |
 
-The [Workstream Coverage Map](WORKSTREAM-COVERAGE.md) records the evidence pattern and planned output behind 26 professional capability areas.
+## What this portfolio demonstrates
 
-## Skills and reusable systems
+- Diagnosing the operating cause beneath visible GTM symptoms
+- Translating strategy into definitions, ownership, process, systems and data
+- Connecting Marketing, Sales, SDR, Partnerships, Customer Success, Finance, Data and Technology
+- Designing lifecycle, campaign, platform and data governance that survives beyond one person or tool
+- Building trusted pipeline, attribution, forecasting and executive decision systems
+- Leading Marketing and Revenue Operations through implementation, enablement and adoption
+- Structuring AI as governed decision support rather than an unaccountable shortcut
+- Converting operating knowledge into frameworks, diagnostics, services and venture concepts
 
-The portfolio now distinguishes between:
+## Core operating system
 
-1. **Skill packages reported as inspected in Claude's skill environment**, but whose source files have not yet been imported into this repository.
-2. **A Command Center architecture evidenced at a high level**, comprising one orchestration layer and fourteen named specialist modules.
-3. **Individual skill artefacts still awaiting verification**, which must not be presented as built tools until their source or implementation status is confirmed.
-4. **Applied third-party methodology**, including Forrester and SiriusDecisions constructs, which is attributed rather than claimed as original IP.
+```mermaid
+flowchart TB
+    A[Commercial motions]
+    B[Process and ownership]
+    C[Systems and integration]
+    D[Data and governance]
+    E[Analytics, automation and AI]
 
-See:
+    A --> B --> C --> D --> E
+```
+
+The dependency runs downward. Automation and AI become valuable only when ownership, definitions and data are trustworthy.
+
+## Evidence library
+
+### Case studies
+
+- [Case-study index](case-studies/README.md)
+- [Revenue Operating System](case-studies/flagship/revenue-operating-system.md)
+- [Unified Lifecycle Governance](case-studies/flagship/unified-lifecycle-governance.md)
+- [Pipeline Truth and Attribution](case-studies/flagship/pipeline-truth-and-attribution.md)
+- [Modern MOPS Team Operating Model](case-studies/leadership/modern-mops-team-operating-model.md)
+
+### Frameworks
+
+- [Revenue Operating System](frameworks/revenue-operating-system.md)
+- [Lifecycle Governance](frameworks/lifecycle-governance.md)
+- [Pipeline Truth](frameworks/pipeline-truth.md)
+- [Modern MOPS Operating Model](frameworks/mops-operating-model.md)
+
+### AI and reusable skills
 
 - [Skills and Systems](SKILLS-AND-SYSTEMS.md)
 - [Skills Library](skills/README.md)
-- [Verification Backlog](evidence/verification-backlog.md)
+- [GTM Command Center](skills/command-center/README.md)
+- [CRM Data Quality Auditor draft](skills/crm-data-quality-auditor/README.md)
 
-## How claims are handled
+### Runnable proof
 
-The honest reviewer-facing position is:
+- [Pipeline Quality Scanner](tools/pipeline-quality-scanner/README.md)
+- [Lifecycle Transition Validator](tools/lifecycle-validator/README.md)
 
-> Scope, seniority and professional trajectory are strongly evidenced. Quantified outcomes require separate verification before being asserted as fact.
+Both tools use fictional data, explicit rules, JSON output and unit tests. They do not access production systems or automate business decisions.
 
-Every material claim is classified in the [Claim Register](evidence/claim-register.md). Conflicts and gaps are recorded in the [Verification Backlog](evidence/verification-backlog.md) rather than resolved through optimistic wording.
+## Professional and founder context
 
-## First portfolio build wave
+- [Professional Profile](PROFILE.md)
+- [Operator Thesis](OPERATOR-THESIS.md)
+- [Entrepreneur Journey](ENTREPRENEUR-JOURNEY.md)
 
-The operator foundation comes before detailed venture material:
+The public career timeline names employers, roles and dates. Operating evidence remains company-neutral.
 
-1. Revenue Operating System
-2. Unified Lifecycle Governance
-3. Campaign Operations OS
-4. Pipeline Truth and Attribution
-5. Modern MOPS Team Operating Model
+## Evidence discipline
 
-The full sequence is maintained in the [Roadmap](ROADMAP.md) and [Case Study Index](CASE-STUDY-INDEX.md).
+Major artefacts carry an explicit label:
 
-## Evidence labels
-
-Major artefacts must use an explicit label:
-
-- **Implemented experience — independently reconstructed**
-- **Original operator framework**
+- **Composite implemented experience — independently reconstructed**
+- **Original portfolio framework**
 - **Portfolio-safe skill specification**
 - **Synthetic demonstration**
 - **Independent strategic exercise**
 - **Venture retrospective**
-- **Reference only**
 - **Concept under development**
+
+Quantified outcomes are not asserted unless their definition, source, period, contribution and disclosure basis are verified. See the [Claim Register](evidence/claim-register.md).
 
 ## Privacy and company boundary
 
 > Rebuild the insight. Never migrate the source file.
 
-Public employer names, public role titles and public employment dates appear only in the factual career timeline in [PROFILE.md](PROFILE.md). All case studies, frameworks, skill demonstrations and operating examples remain company-neutral.
+Public employer names, role titles and dates appear only in [PROFILE.md](PROFILE.md). Case studies, frameworks, skills and tools contain no real company or customer data.
 
 This repository does not contain:
 
@@ -108,11 +125,10 @@ This repository does not contain:
 - Internal screenshots, dashboards, private links or system architecture
 - Copied employer documents, proprietary prompts, private schemas or exact configurations
 - Credentials, recovery codes, API keys, tokens or environment files
-- Third-party material represented as original intellectual property
 
-Real company or customer data is never anonymised and reused. Portfolio examples use synthetic records and fictional organisations.
+Examples use fictional organisations, fictional people and synthetic records.
 
-Control documents:
+## Governance and diligence
 
 - [Reviewer Guide](REVIEWER-GUIDE.md)
 - [Portfolio Standards](PORTFOLIO-STANDARDS.md)
@@ -122,33 +138,27 @@ Control documents:
 - [Confidentiality Policy](CONFIDENTIALITY.md)
 - [Security Policy](SECURITY.md)
 - [Drive Evidence Audit](DRIVE-EVIDENCE-AUDIT.md)
-- [Evidence Coverage QA](COVERAGE-QA.md)
 
-## Current status
+## Current build status
 
 ### Complete
 
-- [x] Private organisation and repository created
-- [x] Employer and investor positioning established
-- [x] Professional evidence and Drive coverage audited
-- [x] Confidentiality, security and provenance controls established
-- [x] Professional profile and operator thesis added
-- [x] Claim register and verification backlog added
-- [x] Skills-library index and one explicitly labelled draft exemplar added
-- [x] DevRev employment end date corrected to June 2026
-- [x] Named-company, personal-data and customer-data boundaries strengthened
+- Professional profile, operator thesis and employer/investor navigation
+- Drive evidence audit and 26-workstream capability map
+- Three flagship operator cases and one leadership case
+- Four reusable operating frameworks
+- GTM Command Center architecture
+- Two runnable synthetic diagnostics with tests
+- Entrepreneur journey overview
+- Privacy, confidentiality, provenance and claim controls
 
-### In production
+### Next evidence wave
 
-- [ ] Verify which Command Center specialist skills are built, planned or superseded
-- [ ] Resolve material claim and metric conflicts privately
-- [ ] Build five company-neutral flagship operator cases
-- [ ] Reconstruct verified individual skill specifications
-- [ ] Build three reusable operating frameworks
-- [ ] Release two synthetic-data diagnostics
-- [ ] Build one leadership and adoption case
-- [ ] Build one governed AI case
-- [ ] Build one venture retrospective
+- Campaign Operations OS case study
+- Verification of historical specialist-skill artefacts
+- Additional synthetic skill demonstrations
+- First detailed venture retrospective
+- External reviewer feedback and navigation refinement
 
 ## Core principle
 

@@ -4,7 +4,7 @@
 
 **Ready for controlled review by potential employers, investors and advisers.**
 
-The repository now contains enough completed work for a serious reviewer to assess how I diagnose problems, design operating systems, lead change, use AI and think about venture building.
+The repository now contains enough completed work for a serious reviewer to assess how I diagnose problems, design operating systems, lead change, use AI, build products and think about venture creation.
 
 The remaining work should deepen the evidence. It should not add files for the sake of making the repository look larger.
 
@@ -21,6 +21,12 @@ The remaining work should deepen the evidence. It should not add files for the s
 - [x] Employer, CMO, CRO/COO, investor and technical review paths
 - [x] Claim register and verification backlog
 - [x] First-person voice and anti-fluff standard
+
+### Flagship product and venture build
+
+- [x] [Building ThinkBud](case-studies/ventures/building-thinkbud.md)
+- [x] Nearly eight months of product, learning logic, data architecture, AI-assisted development, security, billing, testing and controlled release represented
+- [x] Source repository and production environment kept separate from the portfolio
 
 ### Operator cases
 
@@ -48,13 +54,25 @@ The remaining work should deepen the evidence. It should not add files for the s
 - [x] [Lifecycle Transition Validator](tools/lifecycle-validator/README.md)
 - [x] Unit tests for both tools
 - [x] GitHub Actions workflow for the tool tests
+- [x] ThinkBud represented as the strongest example of AI-assisted product development rather than AI presentation work
 
 ### Founder and venture evidence
 
 - [x] [Entrepreneur Journey](ENTREPRENEUR-JOURNEY.md)
+- [x] [Building ThinkBud](case-studies/ventures/building-thinkbud.md)
 - [x] [Building Lynr retrospective](case-studies/ventures/building-lynr.md)
 
 ## What still needs verification
+
+### ThinkBud evidence to deepen later
+
+- [ ] Learning impact across a wider learner population
+- [ ] Which adaptive signals produce the strongest improvement
+- [ ] Long-term engagement and retention
+- [ ] Content quality and coverage at larger scale
+- [ ] Sustainable acquisition and unit economics
+
+These are product questions, not gaps in whether the build exists.
 
 ### Historical skill material
 

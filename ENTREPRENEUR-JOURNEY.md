@@ -12,7 +12,7 @@ My venture journey is not a straight-line success story. It is a series of exper
 
 ## The biggest build so far
 
-[ThinkBud](case-studies/ventures/building-thinkbud.md) is the most substantial venture build I have completed.
+[ThinkBud](case-studies/ventures/building-thinkbud.md) is the most substantial venture build I have completed. You can also see the live product site at [www.thinkbud.co.uk](https://www.thinkbud.co.uk/).
 
 I spent nearly eight months turning it from an idea into a working, invite-only learning-intelligence platform for UK 11+ preparation. It required me to work across product design, learning logic, content operations, data architecture, AI-assisted development, security, billing, testing and release management.
 
@@ -33,8 +33,8 @@ flowchart LR
 
 | Venture | The question I explored | Portfolio treatment |
 |---|---|---|
-| **ThinkBud** | Can a parent-trusted, child-safe learning product use adaptive practice and learning data to make daily preparation more useful? | [Completed flagship venture case](case-studies/ventures/building-thinkbud.md) covering product, learning logic, architecture, security, AI-assisted development and controlled beta |
-| **Lynr** | Can senior revenue execution be delivered through clear scope, one accountable lead and a clean handback? | [Completed retrospective](case-studies/ventures/building-lynr.md) covering the offer, delivery model and iteration |
+| **[ThinkBud](https://www.thinkbud.co.uk/)** | Can a parent-trusted, child-safe learning product use adaptive practice and learning data to make daily preparation more useful? | [Completed flagship venture case](case-studies/ventures/building-thinkbud.md) covering product, learning logic, architecture, security, AI-assisted development and controlled beta |
+| **[LYNR](https://getlynr.com/)** | Can senior revenue execution be delivered through clear scope, one accountable lead and a clean handback? | [Completed retrospective](case-studies/ventures/building-lynr.md) covering the offer, delivery model and iteration |
 | **NXClarity** | Can AI-assisted operating expertise become a useful proposition rather than another generic automation service? | Future retrospective focused on the market thesis, positioning, operating model and lessons |
 | **Snugtot** | Can a consumer concept combine commercial discipline, responsible sourcing and a differentiated brand? | Future concept retrospective; forecasts remain assumptions |
 
@@ -73,7 +73,7 @@ The ventures are at different stages. I will not imply revenue, product-market f
 
 The claim I am comfortable making is:
 
-> I have taken ThinkBud from an idea to a working controlled-beta platform, built Lynr into a defined senior-execution model and repeatedly turned operating insight into structured propositions, workflows and products.
+> I have taken ThinkBud from an idea to a working controlled-beta platform, built LYNR into a defined senior-execution model and repeatedly turned operating insight into structured propositions, workflows and products.
 
 ## What comes next
 
@@ -81,4 +81,4 @@ ThinkBud now needs evidence from a wider learner population, not more founder ce
 
 The wider operator work remains the foundation, but ThinkBud is no longer a future footnote. It is the strongest example of what happens when I apply that operating discipline to a product from the ground up.
 
-See [Building ThinkBud](case-studies/ventures/building-thinkbud.md), [Building Lynr](case-studies/ventures/building-lynr.md), [ROADMAP.md](ROADMAP.md) and [SOURCE-PROVENANCE.md](SOURCE-PROVENANCE.md).
+See [Building ThinkBud](case-studies/ventures/building-thinkbud.md), [Building Lynr](case-studies/ventures/building-lynr.md), [ThinkBud live](https://www.thinkbud.co.uk/), [LYNR live](https://getlynr.com/), [ROADMAP.md](ROADMAP.md) and [SOURCE-PROVENANCE.md](SOURCE-PROVENANCE.md).

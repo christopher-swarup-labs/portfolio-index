@@ -2,6 +2,8 @@
 
 These cases show how I diagnose operating problems, make trade-offs, design the model and think about implementation.
 
+My core professional evidence comes first: Marketing Operations, Revenue Operations, GTM systems and leadership. ThinkBud and LYNR sit alongside it as founder builds showing how the same judgement transfers into a product and a service model.
+
 The employer-related cases are rebuilt from scratch using company-neutral language. Venture cases use only owned and portfolio-safe context.
 
 ## Evidence labels
@@ -9,12 +11,6 @@ The employer-related cases are rebuilt from scratch using company-neutral langua
 - **Composite implemented experience — independently reconstructed:** repeated patterns from work I personally led or materially contributed to across more than one organisation
 - **Independent strategic exercise:** a proposed approach that was not implemented
 - **Owned venture build:** a product or venture I built, with current state and limitations made clear
-
-## Flagship venture build
-
-| Case | What it shows |
-|---|---|
-| [Building ThinkBud](ventures/building-thinkbud.md) | Nearly eight months of product design, learning intelligence, AI-assisted development, data architecture, security, testing, billing and controlled release |
 
 ## Flagship operator cases
 
@@ -31,10 +27,13 @@ The employer-related cases are rebuilt from scratch using company-neutral langua
 |---|---|
 | [Modern MOPS Team Operating Model](leadership/modern-mops-team-operating-model.md) | Function design, service model, portfolio management, distributed delivery and adoption |
 
-## Venture retrospective
+## Founder builds alongside the core portfolio
 
-| Case | What it shows |
+| Case | What it adds |
 |---|---|
-| [Building Lynr](ventures/building-lynr.md) | Market thesis, offer architecture, delivery governance, iteration and founder judgement |
+| [Building ThinkBud](ventures/building-thinkbud.md) · [Live site](https://www.thinkbud.co.uk/) | How an idea that began for my own children evolved into a wider learning-intelligence platform, requiring product, data, AI-assisted development, security, testing and release discipline |
+| [Building LYNR](ventures/building-lynr.md) · [Live site](https://getlynr.com/) | How I turned Revenue and GTM operating experience into a senior-execution and handback model |
 
-Named employers appear only in my public career timeline. ThinkBud and Lynr are owned venture work; their source repositories, private configuration and user data remain outside this portfolio.
+ThinkBud and LYNR strengthen the wider portfolio, but they do not replace the core story of my career.
+
+Named employers appear only in my public career timeline. Venture source repositories, private configuration and user data remain outside this portfolio.

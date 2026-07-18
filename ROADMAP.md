@@ -28,9 +28,9 @@ The repository now contains enough completed evidence for a serious reviewer to 
 
 - [x] [Revenue Operating System](case-studies/flagship/revenue-operating-system.md)
 - [x] [Unified Lifecycle Governance](case-studies/flagship/unified-lifecycle-governance.md)
+- [x] [Campaign Operations OS](case-studies/flagship/campaign-operations-os.md)
 - [x] [Pipeline Truth and Attribution](case-studies/flagship/pipeline-truth-and-attribution.md)
 - [x] [Modern MOPS Team Operating Model](case-studies/leadership/modern-mops-team-operating-model.md)
-- [ ] Campaign Operations OS
 
 The completed cases are independently reconstructed composites of implemented experience. They contain no named employer, customer data, private system architecture or exact confidential metrics.
 
@@ -38,9 +38,9 @@ The completed cases are independently reconstructed composites of implemented ex
 
 - [x] [Revenue Operating System](frameworks/revenue-operating-system.md)
 - [x] [Lifecycle Governance](frameworks/lifecycle-governance.md)
+- [x] [Campaign Operations OS](frameworks/campaign-operations.md)
 - [x] [Pipeline Truth](frameworks/pipeline-truth.md)
 - [x] [Modern MOPS Operating Model](frameworks/mops-operating-model.md)
-- [ ] Campaign Operations
 - [ ] Martech Governance
 - [ ] Data and Integration Governance
 - [ ] AI-Ready Operating Foundation
@@ -104,10 +104,10 @@ Venture cases must never contain private financial information, customer informa
 
 Build in this order:
 
-1. Campaign Operations OS case and framework
-2. One merger or organisational-integration leadership case
-3. One additional verified or clearly synthetic AI skill demonstration
-4. NXClarity venture retrospective
+1. One merger or organisational-integration leadership case
+2. One additional verified or clearly synthetic AI skill demonstration
+3. NXClarity venture retrospective
+4. Martech Governance framework and scorecard
 5. External reviewer feedback and navigation refinement
 6. Branch protection and time-bound reviewer access
 
@@ -141,9 +141,9 @@ The repository now contains:
 - Strong employer and investor landing page
 - Professional profile and operator thesis
 - Complete capability and evidence map
-- Three flagship operating cases
+- Four flagship operating cases
 - One leadership case
-- Four reusable frameworks
+- Five reusable frameworks
 - GTM Command Center architecture
 - Two runnable diagnostics with tests
 - One founder-journey overview

@@ -112,7 +112,7 @@ The controls are documented in:
 - [Security Policy](SECURITY.md)
 - [Source Provenance](SOURCE-PROVENANCE.md)
 - [Review Checklist](REVIEW-CHECKLIST.md)
-- [Controlled Release QA](RELEASE-QA-2026-07-18.md)
+- [Controlled Release QA](RELEASE-QA.md)
 
 ---
 

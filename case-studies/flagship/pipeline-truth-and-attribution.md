@@ -2,13 +2,15 @@
 
 > **Evidence classification:** Composite implemented experience — independently reconstructed.
 
-## Executive summary
+## What this case is about
 
-Marketing, Sales and Finance did not disagree only because they preferred different numbers. They were answering different questions with reports that used the same labels.
+The disagreement was not simply that Marketing, Sales and Finance preferred different numbers. They were answering different questions with reports that used the same labels.
 
-The work separated source, influence, lifecycle progression and forecast confidence so each could be measured without pretending one model explained everything.
+That is why the usual response—build another dashboard—would not have solved the problem.
 
-## Presenting symptoms
+The work was to separate source, influence, lifecycle progression and forecast confidence so each could be measured properly without pretending one model explained everything.
+
+## What I was seeing
 
 - Marketing-sourced pipeline changed by report
 - Sales disputed contribution claims
@@ -22,7 +24,7 @@ The work separated source, influence, lifecycle progression and forecast confide
 
 I led the operating definition, data and reporting design required to create a defensible measurement system, including ownership, reconciliation and executive use.
 
-## Design
+## The design
 
 ```mermaid
 flowchart LR
@@ -32,7 +34,7 @@ flowchart LR
     F[Forecast evidence] --> R
 ```
 
-## Key distinctions
+## The distinctions I made explicit
 
 ### Source
 
@@ -50,7 +52,7 @@ The authoritative commercial state of the record or opportunity.
 
 The quality of the expected outcome based on qualification, activity, stage age, close-date movement and next steps.
 
-## Controls introduced
+## The controls I introduced
 
 - Published source hierarchy
 - Separate influence model
@@ -61,11 +63,11 @@ The quality of the expected outcome based on qualification, activity, stage age,
 - Known exclusions made visible
 - Human ownership for exceptions and corrections
 
-## Executive metric contract
+## The metric contract
 
-Every material metric disclosed:
+For every material metric, I wanted the reviewer to be able to answer:
 
-| Element | Example question |
+| Element | Question |
 |---|---|
 | Definition | What exactly is counted? |
 | Population | Which records are included? |
@@ -76,9 +78,9 @@ Every material metric disclosed:
 | Reconciliation | How does it connect to Finance or Sales reporting? |
 | Owner | Who resolves disputes? |
 
-## Outcome
+## What changed
 
-The reconstructed approach shifted the conversation from “whose dashboard is right?” to:
+The conversation moved away from “whose dashboard is right?” and towards:
 
 - Which question are we answering?
 - Which evidence supports it?
@@ -86,11 +88,11 @@ The reconstructed approach shifted the conversation from “whose dashboard is r
 - What remains unknown?
 - Who owns the decision?
 
-It improved reporting credibility without relying on one inflated attribution model.
+That is the real outcome I care about. Reporting becomes useful when people can explain the number, challenge it and understand its limits.
 
-## Limitations
+## The limitations
 
-Attribution does not prove causation. Forecast scoring does not replace accountable commercial judgement. A trustworthy system makes those limits visible.
+Attribution does not prove causation. Forecast scoring does not replace accountable commercial judgement. A trustworthy system makes those limits visible rather than hiding them behind a precise-looking number.
 
 ## Related assets
 

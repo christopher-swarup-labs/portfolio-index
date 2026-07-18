@@ -2,15 +2,17 @@
 
 > **Evidence classification:** Composite implemented experience — independently reconstructed from repeated patterns across multiple roles.
 
-## Executive summary
+## What this case is really about
 
-The organisation had several valid commercial motions but no single operating model underneath them. Marketing, Sales, outbound, partner and customer teams used different definitions, ownership rules and reporting assumptions.
+The easiest way to explain this case is that the organisation did not have one revenue operating problem. It had several teams, motions and systems that each made sense on their own, but no shared model underneath them.
 
-The work was not to install a better CRM. It was to create an operating spine that the systems could express.
+Marketing, Sales, outbound, partner and customer teams were using different definitions, ownership rules and reporting assumptions. The visible temptation was to fix the CRM. The real work was to create an operating spine that the systems could express.
 
-## Business context
+This is a pattern I have seen more than once, which is why I have rebuilt it here as a company-neutral composite rather than presenting one employer story.
 
-A growing B2B organisation had accumulated:
+## What I was seeing
+
+The organisation had accumulated:
 
 - Multiple demand and sales motions
 - Local lifecycle definitions
@@ -27,7 +29,7 @@ My role was to diagnose the operating failure, define the cross-functional desig
 
 The work required partnership across Marketing, Sales, SDR, Customer Success, Finance, Data and Technology.
 
-## Diagnosis
+## The diagnosis
 
 The visible symptoms included:
 
@@ -47,7 +49,7 @@ The underlying causes were:
 5. Data quality work disconnected from decision value
 6. No governance mechanism for exceptions and change
 
-## Design principles
+## The principles I used
 
 - One commercial language, with motion-specific rules where genuinely required
 - Ownership before automation
@@ -58,7 +60,7 @@ The underlying causes were:
 - Reporting built from governed definitions
 - Adoption treated as part of the system
 
-## Operating model
+## The operating model
 
 ```mermaid
 flowchart TB
@@ -73,7 +75,7 @@ flowchart TB
     A --> B --> C --> D --> E --> F --> G
 ```
 
-## Key decisions
+## The decisions I made
 
 ### Process
 
@@ -104,7 +106,7 @@ flowchart TB
 - Added adoption, SLA and data-quality measures
 - Established escalation for unresolved definitions
 
-## Implementation sequence
+## How I would sequence the work
 
 1. Current-state mapping
 2. Decision and ownership workshops
@@ -117,7 +119,7 @@ flowchart TB
 9. Reporting reconciliation
 10. Governance and continuous review
 
-## Outcome
+## What changed
 
 The reconstructed pattern produced:
 
@@ -128,15 +130,15 @@ The reconstructed pattern produced:
 - A practical basis for automation and AI
 - A model that could evolve through governance rather than hidden configuration
 
-Exact employer metrics are intentionally excluded.
+I have intentionally left out exact employer metrics. The purpose of the case is to show the operating decisions and implementation logic, not to create a stronger story through numbers I cannot safely evidence here.
 
-## Lessons
+## What I learned
 
-- CRM transformation without operating-model agreement creates faster inconsistency.
-- A shared definition that nobody accepts operationally is not shared.
-- Exception volume is one of the best indicators of design weakness.
-- Adoption improves when teams can see how the model changes their daily decisions.
-- AI becomes valuable only after the evidence and accountability layers are explicit.
+- CRM transformation without operating-model agreement creates faster inconsistency
+- A shared definition that nobody accepts operationally is not shared
+- Exception volume is one of the best indicators of design weakness
+- Adoption improves when teams can see how the model changes their daily decisions
+- AI becomes useful only after the evidence and accountability layers are explicit
 
 ## Related assets
 

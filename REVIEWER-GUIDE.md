@@ -6,12 +6,12 @@ It is not a CV archive or a collection of historic employer files. It is a struc
 
 ## Employer review path — 15 to 25 minutes
 
-1. Read the [Professional Profile](PROFILE.md) for scope, trajectory and functional depth.
-2. Read the [Revenue Operating System case](case-studies/flagship/revenue-operating-system.md) for end-to-end diagnosis, design and implementation sequencing.
-3. Read the [Unified Lifecycle Governance case](case-studies/flagship/unified-lifecycle-governance.md) for ownership, handoffs, routing and adoption.
-4. Read the [Modern MOPS Team Operating Model case](case-studies/leadership/modern-mops-team-operating-model.md) for leadership, team design and distributed delivery.
-5. Review the [Operating Frameworks](frameworks/README.md) and [Runnable Proof](tools/README.md) for repeatability and implementation depth.
-6. Read the [Operator Thesis](OPERATOR-THESIS.md) for the principles behind the work.
+1. Read the [Employer Brief](EMPLOYER-BRIEF.md) for the decision summary.
+2. Read the [Professional Profile](PROFILE.md) for scope, trajectory and functional depth.
+3. Read the [Revenue Operating System case](case-studies/flagship/revenue-operating-system.md) for end-to-end diagnosis, design and implementation sequencing.
+4. Read the [Campaign Operations OS case](case-studies/flagship/campaign-operations-os.md) for scalable delivery, QA, handoff and improvement.
+5. Read the [Modern MOPS Team Operating Model case](case-studies/leadership/modern-mops-team-operating-model.md) for leadership, team design and distributed delivery.
+6. Review the [Operating Frameworks](frameworks/README.md) and [Runnable Proof](tools/README.md) for repeatability and implementation depth.
 
 ### Employer decision
 
@@ -27,10 +27,11 @@ A reviewer should be able to determine whether Christopher can:
 
 ## CMO review path — 15 minutes
 
-1. [Modern MOPS Operating Model](frameworks/mops-operating-model.md)
-2. [Modern MOPS leadership case](case-studies/leadership/modern-mops-team-operating-model.md)
-3. [Lifecycle case](case-studies/flagship/unified-lifecycle-governance.md)
-4. [Pipeline Truth case](case-studies/flagship/pipeline-truth-and-attribution.md)
+1. [Employer Brief](EMPLOYER-BRIEF.md)
+2. [Campaign Operations case](case-studies/flagship/campaign-operations-os.md)
+3. [Modern MOPS Operating Model](frameworks/mops-operating-model.md)
+4. [Modern MOPS leadership case](case-studies/leadership/modern-mops-team-operating-model.md)
+5. [Pipeline Truth case](case-studies/flagship/pipeline-truth-and-attribution.md)
 
 The CMO should be able to assess whether Christopher can move MOPS from reactive delivery to a governed function accountable for campaign execution, platforms, data, analytics and commercial decisions.
 
@@ -45,13 +46,14 @@ The revenue leader should be able to assess whether Christopher can create one o
 
 ## Investor and adviser review path — 15 to 25 minutes
 
-1. Read the [Entrepreneur Journey](ENTREPRENEUR-JOURNEY.md).
-2. Read the [Operator Thesis](OPERATOR-THESIS.md).
-3. Review the [GTM Command Center](skills/command-center/README.md).
-4. Review the [Operating Frameworks](frameworks/README.md).
-5. Inspect the [Runnable Proof](tools/README.md).
-6. Review [Skills and Systems](SKILLS-AND-SYSTEMS.md) for the boundary between evidenced architecture, candidate artefacts and applied methodology.
-7. Review the [Claim Register](evidence/claim-register.md) where diligence requires it.
+1. Read the [Investor Brief](INVESTOR-BRIEF.md).
+2. Read the [Entrepreneur Journey](ENTREPRENEUR-JOURNEY.md).
+3. Review the [Building Lynr retrospective](case-studies/ventures/building-lynr.md).
+4. Review the [GTM Command Center](skills/command-center/README.md).
+5. Review the [Operating Frameworks](frameworks/README.md).
+6. Inspect the [Runnable Proof](tools/README.md).
+7. Review [Skills and Systems](SKILLS-AND-SYSTEMS.md) for the boundary between evidenced architecture, candidate artefacts and applied methodology.
+8. Review the [Claim Register](evidence/claim-register.md) where diligence requires it.
 
 ### Investor or adviser decision
 

@@ -10,6 +10,7 @@ Each framework is designed to be useful without reproducing an employer's proces
 |---|---|
 | [Revenue Operating System](revenue-operating-system.md) | How commercial motions connect to ownership, process, systems, data and decisions |
 | [Lifecycle Governance](lifecycle-governance.md) | How records progress, stop, recycle and transfer between teams |
+| [Campaign Operations OS](campaign-operations.md) | How campaign intent becomes governed delivery, handoff, measurement and learning |
 | [Pipeline Truth](pipeline-truth.md) | How source, influence, progression and forecast evidence are reconciled |
 | [Modern MOPS Operating Model](mops-operating-model.md) | How Marketing Operations becomes accountable commercial infrastructure |
 

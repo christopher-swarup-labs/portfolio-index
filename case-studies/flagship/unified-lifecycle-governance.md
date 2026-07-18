@@ -2,13 +2,15 @@
 
 > **Evidence classification:** Composite implemented experience — independently reconstructed.
 
-## Executive summary
+## What this case is about
 
-The lifecycle existed in several places at once: campaign logic, automation platforms, CRM fields, sales practice and executive reports. The labels looked similar, but the meaning, owner and progression rules differed.
+The lifecycle looked as though it already existed. There were stages in the CRM, statuses in the automation platform, campaign logic, sales practice and executive reports.
 
-The objective was to create one usable commercial language without pretending every motion was identical.
+The problem was that those things did not mean the same thing.
 
-## Presenting symptoms
+The labels were similar, but the owner, progression rule and commercial meaning changed depending on the team or system. My job was to create one usable commercial language without pretending every motion was identical.
+
+## What I was seeing
 
 - Marketing and Sales used different definitions of qualified
 - Records skipped stages through automation or manual updates
@@ -18,7 +20,7 @@ The objective was to create one usable commercial language without pretending ev
 - Reports used different stage populations
 - Teams created local workarounds to keep operating
 
-## Root cause
+## The root cause
 
 The lifecycle had been treated as a technical field rather than an operating agreement.
 
@@ -39,7 +41,7 @@ No single artefact defined:
 
 I led the definition and governance design, brought functional stakeholders into the decision process, translated the approved model into system and data requirements, and established the adoption and review mechanism.
 
-## Target design
+## The target design
 
 ```mermaid
 flowchart LR
@@ -56,9 +58,9 @@ flowchart LR
 
 The diagram was the least important output. The operating definitions behind it were the system.
 
-## Decision architecture
+## The questions I forced the design to answer
 
-For every transition, the design answered:
+For every transition:
 
 1. What evidence is required?
 2. Which system holds the evidence?
@@ -69,7 +71,7 @@ For every transition, the design answered:
 7. Which exception is permitted?
 8. How is the exception approved and measured?
 
-## Implementation
+## How I implemented it
 
 ### Definition
 
@@ -99,7 +101,7 @@ For every transition, the design answered:
 - Measured transition validity, ageing and recycling quality
 - Reviewed exceptions to identify design debt
 
-## Outcome
+## What changed
 
 The organisation gained:
 
@@ -113,6 +115,8 @@ The organisation gained:
 ## What did not work
 
 Documentation alone did not create adoption. Teams changed behaviour only when the lifecycle was connected to their next action, service expectation and escalation route.
+
+That is the part of lifecycle design that is often underestimated. A definition is not operational until it changes what somebody does next.
 
 ## Related assets
 

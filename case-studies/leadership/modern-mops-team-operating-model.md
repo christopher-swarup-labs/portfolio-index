@@ -2,13 +2,15 @@
 
 > **Evidence classification:** Composite implemented leadership experience — independently reconstructed.
 
-## Executive summary
+## What this case is about
 
-The function was busy, responsive and valued, but its workload was controlled by urgency and relationships. Strategic work competed with campaign requests, platform debt and reporting incidents.
+The team was busy, responsive and valued. That was not the problem.
 
-The transformation was to make Marketing Operations accountable for a visible portfolio of commercial infrastructure rather than a hidden queue of tasks.
+The problem was that urgency and relationships controlled the workload. Strategic work competed with campaign requests, platform debt and reporting incidents, and the function had very little space to improve the system it was being asked to run.
 
-## Starting point
+My aim was to make Marketing Operations accountable for a visible portfolio of commercial infrastructure rather than a hidden queue of tasks.
+
+## The starting point
 
 - Requests arrived through multiple channels
 - Priority depended on seniority and escalation
@@ -18,9 +20,9 @@ The transformation was to make Marketing Operations accountable for a visible po
 - Documentation existed outside the flow of work
 - Offshore or partner delivery lacked a clear decision boundary
 
-## Leadership objective
+## What I wanted the function to become
 
-Create a function that could:
+A team that could:
 
 - Run reliable campaign and platform operations
 - Own the Marketing operating portfolio
@@ -29,7 +31,7 @@ Create a function that could:
 - Build repeatable delivery
 - Transfer knowledge instead of creating dependency
 
-## Target model
+## The target model
 
 ```mermaid
 flowchart TB
@@ -49,49 +51,53 @@ flowchart TB
     C3 --> D
 ```
 
-## Changes made
+## The changes I made
 
 ### Service catalogue
 
-Defined what the function owned, co-owned, advised and did not own.
+I defined what the function owned, co-owned, advised and did not own. That sounds simple, but it changed a large number of conversations about priority and accountability.
 
 ### Intake and portfolio
 
-Introduced one visible intake and prioritisation model based on commercial impact, risk, dependency and effort.
+I introduced one visible intake and prioritisation model based on commercial impact, risk, dependency and effort.
 
 ### Decision rights
 
-Separated production tasks from architecture, approval and exception decisions.
+I separated production tasks from architecture, approval and exception decisions so senior operators were not spending their time rebuilding repeatable work.
 
 ### Distributed delivery
 
-Moved repeatable production into governed delivery models while retaining senior ownership of quality, design and learning.
+I moved repeatable production into governed delivery models while keeping senior ownership of quality, design and learning.
 
 ### Platform stewardship
 
-Created ownership for roadmap, integration, access, data and change control.
+I created ownership for roadmap, integration, access, data and change control.
 
 ### Analytics
 
-Connected reporting work to decisions, metric contracts and operating cadence.
+I connected reporting work to decisions, metric contracts and operating cadence rather than allowing the team to become a dashboard request service.
 
 ### Enablement
 
-Embedded documentation, training and handback into delivery rather than treating them as a final communications task.
+I embedded documentation, training and handback into delivery instead of treating them as a final communications task.
 
-## Leadership approach
+## How I led the change
 
-- Make trade-offs explicit
-- Protect the team from invisible demand
-- Give senior operators time for architecture and improvement
-- Use incidents and exceptions as evidence of operating debt
-- Build credibility through narrow, defensible commitments
-- Develop people through ownership, not only task volume
+- Made trade-offs explicit
+- Protected the team from invisible demand
+- Gave senior operators time for architecture and improvement
+- Used incidents and exceptions as evidence of operating debt
+- Built credibility through narrow, defensible commitments
+- Developed people through ownership, not only task volume
 
-## Outcome
+## What changed
 
 The function became easier to understand, govern and invest in. Stakeholders could see what was being delivered, why it mattered, where capacity was constrained and which decisions required leadership intervention.
 
-## Lesson
+The deeper change was that the team was no longer valued only for how quickly it responded. It was valued for helping the organisation make better operating decisions.
+
+## What I learned
 
 A strategic MOPS function is not created by changing the team name. It is created by changing its decision rights, portfolio, service model and accountability.
+
+That shift only becomes credible when the team can still run the day-to-day operation reliably while creating enough space to improve the system behind it.

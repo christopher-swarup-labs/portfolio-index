@@ -10,10 +10,10 @@ This private repository is a professional evidence room for employers, investors
 
 | Reviewer | Recommended ten-minute path | Decision supported |
 |---|---|---|
-| **Potential employer** | [Professional Profile](PROFILE.md) → [Revenue Operating System case](case-studies/flagship/revenue-operating-system.md) → [Leadership case](case-studies/leadership/modern-mops-team-operating-model.md) | Can Christopher diagnose, design and lead complex GTM operating change? |
+| **Potential employer** | [Employer Brief](EMPLOYER-BRIEF.md) → [Professional Profile](PROFILE.md) → [Revenue Operating System case](case-studies/flagship/revenue-operating-system.md) | Can Christopher diagnose, design and lead complex GTM operating change? |
 | **CMO / Marketing leader** | [Campaign Operations case](case-studies/flagship/campaign-operations-os.md) → [MOPS operating model](frameworks/mops-operating-model.md) → [Pipeline case](case-studies/flagship/pipeline-truth-and-attribution.md) | Can he turn Marketing Operations into commercially accountable infrastructure? |
 | **CRO / COO / Revenue leader** | [Operator Thesis](OPERATOR-THESIS.md) → [Revenue Operating System framework](frameworks/revenue-operating-system.md) → [Pipeline Truth](frameworks/pipeline-truth.md) | Can he create a revenue spine teams can run and forecast from? |
-| **Investor / adviser** | [Entrepreneur Journey](ENTREPRENEUR-JOURNEY.md) → [Building Lynr](case-studies/ventures/building-lynr.md) → [GTM Command Center](skills/command-center/README.md) | Is the expertise repeatable, productisable and commercially valuable? |
+| **Investor / adviser** | [Investor Brief](INVESTOR-BRIEF.md) → [Building Lynr](case-studies/ventures/building-lynr.md) → [GTM Command Center](skills/command-center/README.md) | Is the expertise repeatable, productisable and commercially valuable? |
 | **Technical / operations reviewer** | [Skills Library](skills/README.md) → [Lifecycle validator](tools/lifecycle-validator/README.md) → [Pipeline scanner](tools/pipeline-quality-scanner/README.md) | Is the logic inspectable, governed and grounded in operational reality? |
 
 Full review guidance is in [REVIEWER-GUIDE.md](REVIEWER-GUIDE.md).
@@ -95,6 +95,8 @@ Both tools use fictional data, explicit rules, JSON output and unit tests. They 
 
 ## Professional and founder context
 
+- [Employer Brief](EMPLOYER-BRIEF.md)
+- [Investor Brief](INVESTOR-BRIEF.md)
 - [Professional Profile](PROFILE.md)
 - [Operator Thesis](OPERATOR-THESIS.md)
 - [Entrepreneur Journey](ENTREPRENEUR-JOURNEY.md)
@@ -148,7 +150,8 @@ Examples use fictional organisations, fictional people and synthetic records.
 
 ### Complete
 
-- Professional profile, operator thesis and employer/investor navigation
+- Employer and investor decision briefs
+- Professional profile, operator thesis and role-specific navigation
 - Drive evidence audit and 26-workstream capability map
 - Four flagship operator cases and one leadership case
 - Five reusable operating frameworks

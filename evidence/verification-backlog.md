@@ -27,11 +27,17 @@ This file must not contain customer data, personal contact information, named in
 
 | # | Decision |
 |---|---|
-| 10 | Build the Campaign Operations OS as the next company-neutral case and framework. |
-| 11 | Select one merger or organisational-integration leadership case that can be reconstructed without identifying the employer. |
-| 12 | Choose the next synthetic AI or decision-support demonstration. |
-| 13 | Decide whether NXClarity or another owned venture should become the next retrospective. |
+| 10 | Select one merger or organisational-integration leadership case that can be reconstructed without identifying the employer. |
+| 11 | Choose the next synthetic AI or decision-support demonstration. |
+| 12 | Decide whether NXClarity or another owned venture should become the next retrospective. |
+| 13 | Build the Martech Governance framework and synthetic rationalisation scorecard after the next leadership case. |
 | 14 | Keep ThinkBud engineering skills in a future high-level venture retrospective rather than the core GTM operator library. |
+
+## Completed since the previous review
+
+- Campaign Operations OS case and framework completed using company-neutral language.
+- Employer and investor decision briefs added.
+- Four flagship cases, one leadership case, five frameworks and two tested synthetic tools now form the first controlled release.
 
 ## Standing disclosure rules
 

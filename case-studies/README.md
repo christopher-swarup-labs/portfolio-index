@@ -14,6 +14,7 @@ These case studies reconstruct operating patterns from implemented professional 
 |---|---|
 | [Revenue Operating System](flagship/revenue-operating-system.md) | Multi-motion operating design and transformation sequencing |
 | [Unified Lifecycle Governance](flagship/unified-lifecycle-governance.md) | Definitions, ownership, handoffs, routing and exceptions |
+| [Campaign Operations OS](flagship/campaign-operations-os.md) | Intake, readiness, build, QA, launch, handoff and learning |
 | [Pipeline Truth and Attribution](flagship/pipeline-truth-and-attribution.md) | Source, influence, progression and reporting credibility |
 
 ## Leadership case

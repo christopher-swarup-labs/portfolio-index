@@ -2,20 +2,17 @@
 
 ## The honest version
 
-You are probably trying to work out four things quite quickly:
+You are probably trying to work out three things quite quickly:
 
 1. What level do I really operate at?
 2. What kinds of problems can I take ownership of?
 3. Can I move from strategy into the detail required to make the change work?
-4. Can I build something difficult from the ground up rather than only improve an existing function?
 
 Here is the clearest answer I can give you.
 
 I am a senior Marketing Operations, Revenue Operations and GTM systems leader. I work best in organisations that have grown faster than their operating model.
 
 The visible problems are usually familiar: pipeline numbers are disputed, handoffs are inconsistent, platforms overlap, teams work around the process, and Operations is stuck reacting to requests. I look underneath those symptoms and fix the decisions, ownership, process and data that are causing them.
-
-I have also spent nearly eight months building [ThinkBud](case-studies/ventures/building-thinkbud.md), a working learning-intelligence platform. You can see the live product site at [www.thinkbud.co.uk](https://www.thinkbud.co.uk/). That is important because it shows I can go beyond diagnosing someone else’s operating problem. I can take an idea through product design, architecture, data, security, testing, billing and controlled release.
 
 ## The roles this work supports
 
@@ -24,7 +21,6 @@ I have also spent nearly eight months building [ThinkBud](case-studies/ventures/
 - GTM Operations or Commercial Operations leader
 - Revenue Systems or Marketing Technology leader
 - Operating-model or transformation leader
-- Product or operations leader in an AI-enabled business
 - Fractional senior operator or adviser
 
 ## Where I can help
@@ -49,13 +45,13 @@ I can separate source, influence, progression and forecast evidence so Marketing
 
 I can move MOPS from service desk to commercial infrastructure through a clear service model, visible priorities, decision rights, platform stewardship, analytics and adoption.
 
-### Product and platform building
+### Martech, data and transformation
 
-Through ThinkBud, I have worked hands-on across product definition, user journeys, adaptive logic, data architecture, secure answer handling, parent controls, billing, automated tests and release management.
+I can connect platform decisions to process, data quality, integration, governance, migration risk and adoption rather than treating the technology change as a standalone project.
 
-### AI readiness and AI-assisted execution
+### Applied AI
 
-I can structure AI as decision support with visible evidence, assumptions, limits and named human accountability. I also know how to use AI-assisted development to extend my execution capacity without outsourcing the judgement behind the product.
+I can structure AI as decision support with visible evidence, assumptions, limits and named human accountability. I will not use AI to hide a weak operating foundation.
 
 ## What it is like to work with me
 
@@ -65,19 +61,27 @@ I make ownership and definitions explicit before automating them. I connect proc
 
 I am comfortable moving between an executive conversation and the implementation detail underneath it. I will challenge a weak assumption, but I also know that a theoretically perfect model is useless if the people running it cannot use it under real pressure.
 
-ThinkBud also taught me the value of staying with a complex build through months of iteration. I am willing to learn the technical detail, revisit a design, remove work that is not safe enough and delay a launch when the operating baseline is not ready.
-
 I document the system and hand it back. I do not create dependency as a business model.
+
+## Founder builds that extend the picture
+
+Alongside my core career, I have built ThinkBud and LYNR.
+
+[ThinkBud](case-studies/ventures/building-thinkbud.md) began as something I wanted to create for my own children. As I worked on it, it developed into a broader learning-intelligence platform and forced me to apply the same disciplines I use in Operations—clear ownership, authoritative data, explicit rules, testing and governance—to a real software product. The live site is [www.thinkbud.co.uk](https://www.thinkbud.co.uk/).
+
+[LYNR](case-studies/ventures/building-lynr.md) applies my Revenue and GTM operating experience to a senior execution model built around clear scope, one accountable lead and a clean handback. The live site is [getlynr.com](https://getlynr.com/).
+
+These builds strengthen the core story. They do not replace it.
 
 ## Where I would suggest you look next
 
-1. [Building ThinkBud](case-studies/ventures/building-thinkbud.md) · [Live product](https://www.thinkbud.co.uk/) — the clearest evidence that I can take a complex idea from a blank page to a working controlled-beta product
-2. [Revenue Operating System case](case-studies/flagship/revenue-operating-system.md) — the broadest example of how I diagnose and structure a GTM operating problem
-3. [Unified Lifecycle Governance case](case-studies/flagship/unified-lifecycle-governance.md) — how I handle definitions, ownership, handoffs and adoption
-4. [Campaign Operations OS case](case-studies/flagship/campaign-operations-os.md) — how I turn busy delivery into a governed commercial process
-5. [Pipeline Truth and Attribution case](case-studies/flagship/pipeline-truth-and-attribution.md) — how I make reporting more defensible
-6. [Modern MOPS Team Operating Model](case-studies/leadership/modern-mops-team-operating-model.md) — how I think about teams, priorities and distributed delivery
-7. [Runnable synthetic diagnostics](tools/README.md) — how I turn parts of the operating logic into testable rules
+1. [Revenue Operating System case](case-studies/flagship/revenue-operating-system.md) — the broadest example of how I diagnose and structure a GTM operating problem
+2. [Unified Lifecycle Governance case](case-studies/flagship/unified-lifecycle-governance.md) — how I handle definitions, ownership, handoffs and adoption
+3. [Campaign Operations OS case](case-studies/flagship/campaign-operations-os.md) — how I turn busy delivery into a governed commercial process
+4. [Pipeline Truth and Attribution case](case-studies/flagship/pipeline-truth-and-attribution.md) — how I make reporting more defensible
+5. [Modern MOPS Team Operating Model](case-studies/leadership/modern-mops-team-operating-model.md) — how I think about teams, priorities and distributed delivery
+6. [GTM Command Center](skills/command-center/README.md) and [runnable diagnostics](tools/README.md) — how I structure applied AI and testable operating logic
+7. [Building ThinkBud](case-studies/ventures/building-thinkbud.md) and [Building LYNR](case-studies/ventures/building-lynr.md) — how the same judgement transfers into founder-led work
 
 ## My leadership style
 
@@ -92,7 +96,7 @@ My aim is not to make Operations indispensable because nobody else understands t
 - Multi-region or multi-motion organisations
 - Post-merger operating complexity
 - Material CRM, martech, lifecycle or reporting change
-- AI-enabled product or operating environments
+- AI-enabled operating environments
 - Leadership teams willing to resolve ownership and definition conflicts
 
 ## Where I am a weaker fit

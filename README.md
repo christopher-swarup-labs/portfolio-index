@@ -85,7 +85,7 @@ See [CONFIDENTIALITY.md](CONFIDENTIALITY.md), [SECURITY.md](SECURITY.md) and [PO
 - [x] Private portfolio repository created
 - [x] Repository access restricted to approved GitHub installations
 - [x] Portfolio positioning defined
-- [ ] Confidentiality and security controls completed
+- [x] Confidentiality and security controls completed
 - [ ] Source inventory classified
 - [ ] First three case studies drafted
 - [ ] First runnable diagnostic released

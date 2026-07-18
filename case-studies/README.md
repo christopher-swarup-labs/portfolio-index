@@ -2,13 +2,19 @@
 
 These cases show how I diagnose operating problems, make trade-offs, design the model and think about implementation.
 
-I have rebuilt them from scratch using company-neutral language. They do not reproduce employer documents, private system architecture or real customer data.
+The employer-related cases are rebuilt from scratch using company-neutral language. Venture cases use only owned and portfolio-safe context.
 
 ## Evidence labels
 
 - **Composite implemented experience — independently reconstructed:** repeated patterns from work I personally led or materially contributed to across more than one organisation
 - **Independent strategic exercise:** a proposed approach that was not implemented
-- **Venture retrospective:** owned venture work with the current state and limitations made clear
+- **Owned venture build:** a product or venture I built, with current state and limitations made clear
+
+## Flagship venture build
+
+| Case | What it shows |
+|---|---|
+| [Building ThinkBud](ventures/building-thinkbud.md) | Nearly eight months of product design, learning intelligence, AI-assisted development, data architecture, security, testing, billing and controlled release |
 
 ## Flagship operator cases
 
@@ -31,4 +37,4 @@ I have rebuilt them from scratch using company-neutral language. They do not rep
 |---|---|
 | [Building Lynr](ventures/building-lynr.md) | Market thesis, offer architecture, delivery governance, iteration and founder judgement |
 
-Named employers appear only in my public career timeline. The operating evidence remains company-neutral.
+Named employers appear only in my public career timeline. ThinkBud and Lynr are owned venture work; their source repositories, private configuration and user data remain outside this portfolio.

@@ -1,28 +1,37 @@
 # Skills and Systems
 
-An audit of structured operator skills, agents and frameworks associated with Christopher's work, with a deliberate separation between evidenced architecture, candidate artefacts, original design and applied third-party methodology.
+An audit of structured operator skills, agents, frameworks and runnable demonstrations associated with Christopher's work, with a deliberate separation between evidenced architecture, candidate historical artefacts, original design and applied third-party methodology.
 
 ## Why this section exists
 
 A serious employer or investor is not asking whether Christopher can write prompts. They are asking whether operational judgement has been encoded into reusable logic: what evidence is required, how a problem is diagnosed, what a system may recommend, where a human must decide, and how failure is contained.
 
-This section records what is evidenced, what has been reported by Claude's audit, what remains unverified and what is deliberately excluded.
-
 ## Evidence status at a glance
 
 | Category | Current status |
 |---|---|
-| Command Center architecture | Evidenced at a high level through professional material |
-| Fourteen named specialist modules | Named and purpose-mapped; individual artefacts not yet verified in this repository |
-| Claude-audited skill packages | Reported as inspected in Claude's skill environment; source files not yet imported |
-| CRM Data Quality Auditor | Portfolio-safe draft specification only; not yet evidence of built tooling |
-| Runnable demonstrations | Not started |
+| [GTM Command Center architecture](skills/command-center/README.md) | Portfolio-safe architecture reconstruction complete |
+| Fourteen named historical specialist modules | Named and purpose-mapped; individual source artefacts still require verification |
+| Claude-audited skill packages | Reported as inspected in Claude's environment; source files not imported |
+| [CRM Data Quality Auditor](skills/crm-data-quality-auditor/README.md) | Draft portfolio-safe specification; not evidence of historical implementation |
+| [Pipeline Quality Scanner](tools/pipeline-quality-scanner/README.md) | New synthetic demonstration complete and tested |
+| [Lifecycle Transition Validator](tools/lifecycle-validator/README.md) | New synthetic demonstration complete and tested |
 | Applied Forrester / SiriusDecisions methodology | Identified and attributed |
-| ThinkBud engineering skills | Deferred to the later venture retrospective |
+| ThinkBud engineering skills | Deferred to a later venture retrospective |
+
+## The demonstrated pattern
+
+The portfolio now shows three levels of reusable operating knowledge:
+
+1. **Architecture** — the Command Center classifies the decision, checks evidence, routes analysis and preserves human accountability.
+2. **Frameworks** — Revenue, lifecycle, pipeline and MOPS operating models make the underlying judgement explicit.
+3. **Runnable logic** — small synthetic tools expose rules, errors and outputs in inspectable code.
+
+This is intentionally more rigorous than publishing a large prompt library.
 
 ## Claude-audited skill packages — repository verification pending
 
-Claude's audit reported four substantial packages in its accessible skill environment. These are retained as candidate professional evidence, but they are not yet treated as repository-verified artefacts.
+Claude's audit reported four substantial packages in its accessible skill environment. These are retained as candidate professional evidence, but they are not treated as repository-verified artefacts.
 
 ### GTM Revenue Architect
 
@@ -66,7 +75,9 @@ Several constructs reported inside the GTM and demand skills originate in Sirius
 
 Christopher's professional material records Forrester Demand and Account-Based Marketing and SiriusDecisions B2B Marketing Foundations Pro certifications.
 
-These constructs must be labelled as **applied Forrester / SiriusDecisions methodology, operator-adapted**. Originality may be claimed only for independently evidenced additions such as orchestration, diagnostic sequencing, evidence classification and human-accountability boundaries.
+These constructs are labelled as **applied Forrester / SiriusDecisions methodology, operator-adapted**. Originality is claimed only for independently evidenced additions such as orchestration, diagnostic sequencing, evidence classification and human-accountability boundaries.
+
+MEDDICC and SPICED are also established methodologies and are treated as such.
 
 ## GTM Command Center architecture
 
@@ -87,37 +98,38 @@ Professional evidence records one orchestration layer and fourteen named special
 13. Decision Validator
 14. MOPS Leader
 
-The architecture is credible at a high level: a request is classified, routed to a specialist, evaluated using structured evidence, returned with assumptions and limitations, and held behind a human approval point.
+The [portfolio-safe Command Center reconstruction](skills/command-center/README.md) shows the evidenced operating pattern:
 
-What is not yet evidenced in this repository is the individual implementation of each module. Until Christopher supplies or confirms the source artefacts, they remain one of:
+- Classify the decision rather than only the topic
+- Separate symptom from likely root cause
+- Check evidence sufficiency
+- Route to the narrowest specialist
+- Preserve fact, assumption, inference and missing evidence
+- Require a named human decision or escalation
+- Return an operating record rather than generic advice
 
-- **Architecture evidenced — implementation pending verification**
-- **Concept under development**
-- **Superseded or merged**
-- **Excluded from portfolio**
-
-No individual module should be presented as a built tool solely because its name appears in an architecture diagram.
+What remains unverified is the individual historical implementation of each named module. No module is presented as a built tool solely because its name appears in an architecture diagram.
 
 ## Core operator systems
 
-The wider professional evidence supports portfolio-safe reconstruction of:
+Completed portfolio frameworks:
 
-- Revenue Operating System
-- Unified Lifecycle Governance
+- [Revenue Operating System](frameworks/revenue-operating-system.md)
+- [Unified Lifecycle Governance](frameworks/lifecycle-governance.md)
+- [Pipeline Truth](frameworks/pipeline-truth.md)
+- [Modern MOPS Team Operating Model](frameworks/mops-operating-model.md)
+
+Additional reconstruction candidates:
+
 - Lead Status and Disposition Model
 - Lead Scoring and Qualification
 - Routing, Ownership and SLA Governance
-- Marketing-to-Sales and Sales-to-Customer handoffs
 - Campaign Operations OS
-- Pipeline Truth and Attribution
-- Forecast Confidence
 - Martech Governance and Rationalisation
 - Data and Integration Governance
 - CRM and MAP Governance
 - Privacy, Consent and Marketability Operations
-- Modern MOPS Team Operating Model
 - Intake and Portfolio Prioritisation
-- Distributed Delivery Governance
 - Enablement and Adoption by Design
 - QBR and Executive Decision Cadence
 - Buyer-Journey and Demand Architecture
@@ -125,7 +137,27 @@ The wider professional evidence supports portfolio-safe reconstruction of:
 - Platform Migration and Consolidation
 - AI-Ready Operating Foundation
 
-These are capability and reconstruction candidates, not automatically original intellectual property.
+These are capability candidates, not automatically original intellectual property.
+
+## Runnable demonstrations
+
+### Pipeline Quality Scanner
+
+Uses fictional opportunity data to test required fields, duplicate IDs, amount validity, date sequence, stale open pipeline and source completeness.
+
+### Lifecycle Transition Validator
+
+Uses fictional transition records to test allowed movements, ownership, required fields and recycle reasons.
+
+Both tools:
+
+- Use Python's standard library only
+- Produce structured JSON
+- Include unit tests
+- Run through a GitHub Actions test workflow
+- Modify no data
+- Require human review
+- Contain no employer or customer information
 
 ## Skills deferred or excluded
 
@@ -134,11 +166,11 @@ These are capability and reconstruction candidates, not automatically original i
 | ThinkBud engineering, learning, product, database and release skills | Defer to the ThinkBud venture retrospective; do not mix into the GTM operator library |
 | Generic document, spreadsheet, slide and scheduling utilities | Exclude; tool-provider utilities are not Christopher's professional IP |
 | Personal productivity skills | Exclude |
-| Generic UX skill without clear GTM or venture relevance | Exclude or use only where a specific case proves material contribution |
+| Generic UX skill without clear GTM or venture relevance | Exclude or use only where a case proves material contribution |
 
-## Required standard for every skill
+## Required standard for every historical skill
 
-Every published skill must contain:
+Every published historical skill must contain:
 
 1. Executive summary
 2. Business problem
@@ -158,8 +190,8 @@ Every published skill must contain:
 
 ## Current publication decision
 
-A small library of rigorously verified skills is more credible than fifteen generated specifications.
+A smaller verified library is more credible than fifteen generated specifications.
 
-The next step is to obtain or confirm the source artefacts for the Command Center specialists and the Claude-audited packages. Until then, the [CRM Data Quality Auditor](skills/crm-data-quality-auditor/README.md) remains an explicitly labelled format exemplar rather than proof of implemented tooling.
+The next historical-skill step is to obtain or confirm source artefacts for the Command Center specialists and Claude-audited packages. Until then, the CRM Data Quality Auditor remains an explicitly labelled format exemplar rather than proof of implemented tooling.
 
 See the [Verification Backlog](evidence/verification-backlog.md).

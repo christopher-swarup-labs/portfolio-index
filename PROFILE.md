@@ -10,11 +10,15 @@ Leads were arriving, but teams did not agree what they meant. Marketing reported
 
 I have led Marketing Operations and Revenue Systems work across enterprise technology, global infrastructure, high-growth SaaS, post-merger environments and AI-native software. That has included direct and matrix leadership, martech ownership, operating-model design, platform change, analytics and executive partnership.
 
+Over the last eight months, I have also built [ThinkBud](case-studies/ventures/building-thinkbud.md), an invite-only learning-intelligence platform. That work has taken me beyond operating-model design into product management, adaptive-learning logic, data architecture, AI-assisted software development, security, billing, testing and controlled release.
+
 ## The principle I keep coming back to
 
 > Build the operating foundation first. Add automation and AI only when the underlying decisions, ownership, process and data can be trusted.
 
 I am not cautious about AI because I doubt the technology. I am cautious about sequence. AI applied to contested definitions and unreliable operational data does not produce better decisions. It produces confident, well-formatted answers that are harder to challenge.
+
+ThinkBud reinforced that belief. AI helped me build further and faster, but it also increased the need for clear architecture, authoritative data, testing and stopping rules.
 
 ## My career so far
 
@@ -36,31 +40,21 @@ My earlier career included digital operations, technical and inside sales, and c
 
 **Certifications.** Forrester Demand and Account-Based Marketing, SiriusDecisions B2B Marketing Foundations Pro, Salesforce ADM201, Tableau Desktop and Strategic Marketing Planning.
 
-## What I have spent my career doing
+## What I have led
 
-### Lead-to-revenue operating models
+My leadership experience includes direct reports, matrix teams, distributed delivery and offshore operating models.
 
-Lifecycle definitions, status and disposition models, scoring and qualification, routing and ownership, marketing-to-sales and sales-to-customer handoffs, SLA governance and exception handling.
+I have owned or materially led work across:
 
-### Marketing and revenue technology
-
-CRM, marketing automation, lifecycle communications, enrichment, routing, ABM, sales engagement, analytics and integration platforms. I focus on the decisions and governance behind the technology rather than presenting a list of tools as the work itself.
-
-### Migration and consolidation
-
-Platform migration, process redesign, data remediation, integration control, tool rationalisation and adoption across complex operating environments.
-
-### Analytics and reporting
-
-Attribution, pipeline and funnel reporting, forecast confidence, executive dashboards, data-quality controls and reporting governance.
-
-### Post-merger integration
-
-Bringing lifecycle, operating rules, ownership, systems and measurement into one model while the organisation is still changing.
-
-### AI-assisted operations
-
-Designing workflows that make evidence, assumptions, limitations and required human approval visible.
+- Revenue and Marketing operating-model design
+- Lifecycle, scoring, routing, handoffs and SLAs
+- CRM, marketing automation and martech governance
+- Platform migration and consolidation
+- Attribution, pipeline, forecasting and executive reporting
+- Team design, intake, prioritisation and service models
+- Enablement, adoption and change governance
+- AI-assisted operating workflows
+- Product development and controlled release through ThinkBud
 
 ## The problems I am best suited to solve
 
@@ -69,29 +63,36 @@ Designing workflows that make evidence, assumptions, limitations and required hu
 - A martech estate with overlapping tools, unclear system authority and unowned integrations
 - A Marketing Operations function that needs to move from service desk to commercial infrastructure
 - An organisation preparing to apply automation or AI to an operating foundation that is not ready
+- A product or venture that needs someone to connect the user problem, operating model, data, technology and route to release
 
-## How I lead
+## What ThinkBud adds to the picture
 
-I have led direct reports, matrixed teams, distributed delivery and offshore operating models across director-level roles.
+ThinkBud is important because it demonstrates that I can do more than advise on complex systems.
 
-My leadership style is practical. I prefer visible priorities, clear decision rights and honest trade-offs. I separate repeatable production work from the work that needs senior judgement, and I design the operating model so the team can keep improving it after the original change.
+I have had to make and live with decisions across:
+
+- Product scope and sequencing
+- Parent and learner experience
+- Adaptive practice and spaced repetition
+- Event-sourced learning data
+- Content and skill taxonomy
+- Child safety and access control
+- Billing and entitlement logic
+- Automated testing and release governance
+
+I built it hands-on with AI-assisted development tools, while retaining responsibility for what the system should do, how it should be structured and when it was safe enough to move forward.
 
 ## Where I am a weaker fit
 
-Deep product analytics ownership, sales compensation design and finance-owned revenue accounting are adjacent to my work, but they are not my core disciplines.
+Deep product analytics ownership, sales compensation design and finance-owned revenue accounting are adjacent to my work but are not my core disciplines.
 
 ## International and distributed scope
 
 My experience includes EMEA and global operating scope, cross-regional stakeholder leadership, distributed teams and multi-market lifecycle, consent and governance requirements.
 
-## Founder and venture work
+## Selected evidence
 
-My venture work is not separate from my operator experience. It is an attempt to turn repeated operating patterns into clearer services, diagnostics, workflows and products.
-
-See the [Entrepreneur Journey](ENTREPRENEUR-JOURNEY.md) and [Building Lynr](case-studies/ventures/building-lynr.md).
-
-## Where I would point you next
-
+- [Building ThinkBud](case-studies/ventures/building-thinkbud.md)
 - [Revenue Operating System case](case-studies/flagship/revenue-operating-system.md)
 - [Unified Lifecycle Governance case](case-studies/flagship/unified-lifecycle-governance.md)
 - [Campaign Operations OS case](case-studies/flagship/campaign-operations-os.md)
@@ -102,4 +103,4 @@ See the [Entrepreneur Journey](ENTREPRENEUR-JOURNEY.md) and [Building Lynr](case
 
 ## Evidence boundary
 
-I have applied the repository's [Confidentiality Policy](CONFIDENTIALITY.md) and [Source Provenance](SOURCE-PROVENANCE.md) to this profile and the related operating examples.
+This profile uses approved professional and owned-venture context. The ThinkBud source repository and production environment remain separate from this portfolio. The publication controls are defined in [CONFIDENTIALITY.md](CONFIDENTIALITY.md) and [SOURCE-PROVENANCE.md](SOURCE-PROVENANCE.md).

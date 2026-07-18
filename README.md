@@ -8,6 +8,8 @@ I built this repository because a CV can tell you where I have worked, but it ca
 
 The simplest way to describe what I do is this: I build operating systems. Most of my career has focused on B2B revenue and Marketing Operations. Over the last eight months, I have also taken ThinkBud from an idea to a working, invite-only learning-intelligence platform. That build is the clearest evidence here that I can move from a problem and a blank page into product, architecture, data, security, testing and release.
 
+**Live websites:** [ThinkBud](https://www.thinkbud.co.uk/) · [LYNR](https://getlynr.com/)
+
 ## Start with the question you are trying to answer
 
 | You are reviewing me as a… | Start here | What it should help you judge |
@@ -39,7 +41,7 @@ My job is to make the important decisions explicit, put ownership around them, t
 
 | Evidence | What you can inspect | Status |
 |---|---|---|
-| [Building ThinkBud](case-studies/ventures/building-thinkbud.md) | Nearly eight months of product, learning logic, AI-assisted development, data architecture, security, testing and founder execution | Controlled-beta build complete |
+| [Building ThinkBud](case-studies/ventures/building-thinkbud.md) · [Live site](https://www.thinkbud.co.uk/) | Nearly eight months of product, learning logic, AI-assisted development, data architecture, security, testing and founder execution | Controlled-beta build complete |
 | [Revenue Operating System](case-studies/flagship/revenue-operating-system.md) | Cross-functional diagnosis, design, sequencing and governance | Complete |
 | [Unified Lifecycle Governance](case-studies/flagship/unified-lifecycle-governance.md) | Definitions, ownership, handoffs, routing, recycling and adoption | Complete |
 | [Campaign Operations OS](case-studies/flagship/campaign-operations-os.md) | Intake, readiness, build, QA, launch, follow-up and improvement | Complete |
@@ -48,7 +50,7 @@ My job is to make the important decisions explicit, put ownership around them, t
 | [Operating frameworks](frameworks/README.md) | Five reusable models covering revenue, lifecycle, campaigns, pipeline and MOPS | Complete |
 | [GTM Command Center](skills/command-center/README.md) | How I structure AI-assisted analysis without removing human accountability | Reconstructed architecture |
 | [Runnable tools](tools/README.md) | Two small synthetic tools with explicit rules and unit tests | Complete |
-| [Building Lynr](case-studies/ventures/building-lynr.md) | How I turned operator experience into a scoped service and delivery model | Complete retrospective |
+| [Building Lynr](case-studies/ventures/building-lynr.md) · [Live site](https://getlynr.com/) | How I turned operator experience into a scoped service and delivery model | Complete retrospective |
 
 ## The principle behind the work
 
@@ -69,13 +71,13 @@ The order matters. AI does not fix unclear ownership, contested definitions or p
 
 ## Case studies
 
-- [Building ThinkBud](case-studies/ventures/building-thinkbud.md)
+- [Building ThinkBud](case-studies/ventures/building-thinkbud.md) · [Visit ThinkBud](https://www.thinkbud.co.uk/)
 - [Revenue Operating System](case-studies/flagship/revenue-operating-system.md)
 - [Unified Lifecycle Governance](case-studies/flagship/unified-lifecycle-governance.md)
 - [Campaign Operations OS](case-studies/flagship/campaign-operations-os.md)
 - [Pipeline Truth and Attribution](case-studies/flagship/pipeline-truth-and-attribution.md)
 - [Modern MOPS Team Operating Model](case-studies/leadership/modern-mops-team-operating-model.md)
-- [Building Lynr](case-studies/ventures/building-lynr.md)
+- [Building Lynr](case-studies/ventures/building-lynr.md) · [Visit LYNR](https://getlynr.com/)
 
 ## Frameworks
 

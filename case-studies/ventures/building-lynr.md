@@ -2,6 +2,8 @@
 
 > **Evidence classification:** Owned venture retrospective. No customer claims, private financial information or confidential delivery material are included.
 
+**Live site:** [getlynr.com](https://getlynr.com/)
+
 ## Why I started Lynr
 
 Lynr began with a practical observation from years of operating work: many growth-stage companies do not lack strategy. They lack experienced execution between the strategy deck and the internal team expected to make it real.
@@ -88,6 +90,8 @@ That remains a hypothesis until repeated demand and delivery prove it.
 - Stage-specific and role-specific content
 - Training and enablement positioning
 - A partner and senior-operator relationship model
+
+You can inspect the current proposition directly at [getlynr.com](https://getlynr.com/).
 
 ## How the thinking changed
 

@@ -22,4 +22,10 @@ These case studies reconstruct operating patterns from implemented professional 
 |---|---|
 | [Modern MOPS Team Operating Model](leadership/modern-mops-team-operating-model.md) | Function design, service model, distributed delivery and adoption |
 
-No named company is connected to internal metrics, systems, customers or proprietary implementation detail.
+## Venture retrospective
+
+| Case | Primary evidence |
+|---|---|
+| [Building Lynr](ventures/building-lynr.md) | Market thesis, offer architecture, delivery governance, iteration and founder judgement |
+
+No named employer is connected to internal metrics, systems, customers or proprietary implementation detail. Owned ventures are presented without customer claims, private economics or source-code disclosure.

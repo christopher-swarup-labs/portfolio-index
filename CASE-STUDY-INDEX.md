@@ -20,6 +20,7 @@ Employer-related work is independently reconstructed and company-neutral. Owned 
 |---|---|---|
 | [Revenue Operating System](case-studies/flagship/revenue-operating-system.md) | Can Christopher connect commercial motions, process, systems, data, analytics and governance into one model? | Complete |
 | [Unified Lifecycle Governance](case-studies/flagship/unified-lifecycle-governance.md) | Can he create one usable lifecycle across Marketing, Sales and Customer motions? | Complete |
+| [Campaign Operations OS](case-studies/flagship/campaign-operations-os.md) | Can he turn campaign delivery into a scalable, measurable and governed operating process? | Complete |
 | [Pipeline Truth and Attribution](case-studies/flagship/pipeline-truth-and-attribution.md) | Can he create reporting and pipeline evidence that functions can reconcile and trust? | Complete |
 
 ## Completed leadership case
@@ -40,6 +41,7 @@ Employer-related work is independently reconstructed and company-neutral. Owned 
 |---|---|---|
 | [Revenue Operating System](frameworks/revenue-operating-system.md) | Original portfolio framework | Complete |
 | [Lifecycle Governance](frameworks/lifecycle-governance.md) | Original portfolio framework | Complete |
+| [Campaign Operations OS](frameworks/campaign-operations.md) | Original portfolio framework | Complete |
 | [Pipeline Truth](frameworks/pipeline-truth.md) | Original portfolio framework | Complete |
 | [Modern MOPS Operating Model](frameworks/mops-operating-model.md) | Original portfolio framework | Complete |
 | [Pipeline Quality Scanner](tools/pipeline-quality-scanner/README.md) | Synthetic demonstration | Complete |
@@ -47,19 +49,6 @@ Employer-related work is independently reconstructed and company-neutral. Owned 
 | [GTM Command Center](skills/command-center/README.md) | Portfolio-safe architecture reconstruction | Complete with historical-module verification boundary |
 
 ## Next operator cases
-
-### Campaign Operations OS
-
-**Question:** Can Christopher turn campaign delivery into a scalable, measurable and governed operating process?
-
-Planned evidence:
-
-- Intake and prioritisation
-- Campaign taxonomy
-- Build, test, approval and launch controls
-- Handoff and follow-up requirements
-- Measurement and continuous improvement
-- Synthetic readiness checker
 
 ### Lead scoring, routing and SLA governance
 

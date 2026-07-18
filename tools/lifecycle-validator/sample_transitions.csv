@@ -1,0 +1,6 @@
+record_id,from_stage,to_stage,owner,transition_date,reason
+REC-1001,Known,Engaged,Jordan Lee,2026-01-10,Synthetic engagement threshold reached
+REC-1002,Engaged,Qualified,Sam Patel,2026-01-12,Synthetic qualification criteria met
+REC-1003,Known,Pipeline,Avery Chen,2026-01-15,Synthetic invalid stage skip
+REC-1004,Qualified,Recycled,Jordan Lee,2026-01-20,
+REC-1005,Accepted,Pipeline,,2026-01-25,Synthetic handoff

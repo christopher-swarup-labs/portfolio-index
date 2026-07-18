@@ -1,39 +1,24 @@
 # Case Study Index
 
-This index records completed evidence and the remaining build queue.
+I use this index to separate completed proof from the work I still plan to build.
 
-Employer-related work is independently reconstructed and company-neutral. Owned ventures receive a separate confidentiality review. No case includes real customer records, internal screenshots, private architecture or exact confidential metrics.
+Employer-related cases are independently reconstructed and company-neutral. Venture cases use only owned or public context and receive a separate confidentiality review.
 
-## Evidence types
+## Completed operator cases
 
-| Type | Meaning |
-|---|---|
-| **Composite implemented experience** | Repeated patterns from work Christopher personally led or materially contributed to, rebuilt from a blank page |
-| **Original portfolio framework** | A reusable operating model created for this portfolio from accumulated judgement |
-| **Synthetic demonstration** | Inspectable logic using fictional data |
-| **Independent strategic exercise** | A proposal or assessment that was not implemented |
-| **Venture retrospective** | Owned venture work with current state and limitations stated |
-
-## Completed flagship cases
-
-| Case | Question answered | Status |
+| Case | The question it helps answer | Status |
 |---|---|---|
-| [Revenue Operating System](case-studies/flagship/revenue-operating-system.md) | Can Christopher connect commercial motions, process, systems, data, analytics and governance into one model? | Complete |
-| [Unified Lifecycle Governance](case-studies/flagship/unified-lifecycle-governance.md) | Can he create one usable lifecycle across Marketing, Sales and Customer motions? | Complete |
-| [Campaign Operations OS](case-studies/flagship/campaign-operations-os.md) | Can he turn campaign delivery into a scalable, measurable and governed operating process? | Complete |
-| [Pipeline Truth and Attribution](case-studies/flagship/pipeline-truth-and-attribution.md) | Can he create reporting and pipeline evidence that functions can reconcile and trust? | Complete |
-
-## Completed leadership case
-
-| Case | Question answered | Status |
-|---|---|---|
-| [Modern MOPS Team Operating Model](case-studies/leadership/modern-mops-team-operating-model.md) | Can Christopher turn a reactive service function into governed commercial infrastructure? | Complete |
+| [Revenue Operating System](case-studies/flagship/revenue-operating-system.md) | Can I connect commercial motions, ownership, systems, data, reporting and governance into one operating model? | Complete |
+| [Unified Lifecycle Governance](case-studies/flagship/unified-lifecycle-governance.md) | Can I create one usable lifecycle across Marketing, Sales and Customer motions? | Complete |
+| [Campaign Operations OS](case-studies/flagship/campaign-operations-os.md) | Can I turn campaign delivery into a governed, measurable and improvable process? | Complete |
+| [Pipeline Truth and Attribution](case-studies/flagship/pipeline-truth-and-attribution.md) | Can I create pipeline evidence that Marketing, Sales, Finance and leadership can reconcile? | Complete |
+| [Modern MOPS Team Operating Model](case-studies/leadership/modern-mops-team-operating-model.md) | Can I build and lead MOPS as commercial infrastructure rather than a ticket queue? | Complete |
 
 ## Completed venture case
 
-| Case | Question answered | Status |
+| Case | The question it helps answer | Status |
 |---|---|---|
-| [Building Lynr](case-studies/ventures/building-lynr.md) | Can Christopher convert operator experience into a differentiated offer and accountable delivery model? | Complete retrospective |
+| [Building Lynr](case-studies/ventures/building-lynr.md) | Can I turn operator experience into a clear offer, accountable delivery model and credible founder thesis? | Complete retrospective |
 
 ## Completed frameworks and runnable proof
 
@@ -41,72 +26,35 @@ Employer-related work is independently reconstructed and company-neutral. Owned 
 |---|---|---|
 | [Revenue Operating System](frameworks/revenue-operating-system.md) | Original portfolio framework | Complete |
 | [Lifecycle Governance](frameworks/lifecycle-governance.md) | Original portfolio framework | Complete |
-| [Campaign Operations OS](frameworks/campaign-operations.md) | Original portfolio framework | Complete |
+| [Campaign Operations](frameworks/campaign-operations.md) | Original portfolio framework | Complete |
 | [Pipeline Truth](frameworks/pipeline-truth.md) | Original portfolio framework | Complete |
 | [Modern MOPS Operating Model](frameworks/mops-operating-model.md) | Original portfolio framework | Complete |
 | [Pipeline Quality Scanner](tools/pipeline-quality-scanner/README.md) | Synthetic demonstration | Complete |
 | [Lifecycle Transition Validator](tools/lifecycle-validator/README.md) | Synthetic demonstration | Complete |
-| [GTM Command Center](skills/command-center/README.md) | Portfolio-safe architecture reconstruction | Complete with historical-module verification boundary |
+| [GTM Command Center](skills/command-center/README.md) | Portfolio-safe architecture reconstruction | Complete with a clear verification boundary |
 
-## Next operator cases
+## Next evidence I plan to build
 
 ### Lead scoring, routing and SLA governance
 
-**Question:** Can Christopher turn fit, intent and engagement into reliable action without arbitrary points or hidden ownership rules?
-
-Planned evidence:
-
-- Qualification model
-- Routing and capacity rules
-- Response and acceptance SLAs
-- Recycling and escalation
-- Synthetic scenario tester
+A company-neutral case covering qualification, routing, response, acceptance, recycling and escalation.
 
 ### Martech audit and rationalisation
 
-**Question:** Can Christopher reduce complexity and operating cost without damaging execution?
-
-Planned evidence:
-
-- Capability and dependency map
-- Adoption and total-cost assessment
-- Retain, consolidate, renegotiate, replace and retire logic
-- Migration and switching risk
-- Synthetic scorecard
+A framework and synthetic scorecard covering adoption, dependency, cost, integration risk and retain-or-retire decisions.
 
 ### Merger or organisational integration
 
-**Question:** Can Christopher establish common operating rules while teams and systems remain in transition?
+A leadership case showing how I establish common definitions, decision rights and sequencing while teams and systems remain in transition.
 
-Planned evidence:
+### Additional AI-assisted operating proof
 
-- Capability inventory
-- Common definitions
-- Decision rights
-- Consolidation sequence
-- Change governance
-- Adoption and continuity
+A further synthetic demonstration that shows how evidence, decision logic and human accountability work together.
 
-## Historical skill verification queue
+### Venture retrospectives
 
-The following remain evidence tasks rather than portfolio claims:
+Future cases may cover NXClarity, Snugtot and ThinkBud. They will only be added where the evidence is useful and safe to share.
 
-- Confirm which Command Center specialists were built, planned, merged or superseded
-- Obtain approved artefacts or exports for built skills
-- Resolve overlapping GTM Revenue Architect generations
-- Verify Revenue Execution and Enablement Engine source
-- Verify Clay GTM Skill Pack source and scope
+## Evidence rule
 
-A generated specification will not be used as proof of historical implementation.
-
-## Future venture retrospectives
-
-1. NXClarity
-2. Snugtot
-3. ThinkBud high-level product build
-
-These will not include private financial information, customer data, source code, credentials, production configuration or family information.
-
-## Build principle
-
-> Complete evidence before increasing volume. One inspectable case is more valuable than five attractive placeholders.
+A polished description is not proof. I will keep planned work in the roadmap until it has a clear evidence label, provenance record and reviewer value.

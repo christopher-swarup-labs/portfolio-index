@@ -46,7 +46,7 @@ Earlier career spans digital and operations management, retail section managemen
 
 ## Leadership scope
 
-Team leadership has run at four direct reports across recent director-level roles, with matrixed and offshore delivery teams beyond that. At Equinix the model was two direct and eight matrix. At Contentsquare the function supported 100+ marketers at roughly a 1:50 operator-to-marketer ratio.
+Leadership experience includes direct reports, matrixed teams and offshore delivery across recent director-level roles. At Contentsquare, the function supported a global marketing organisation of more than 100 people through a deliberately lean operating model.
 
 Experience has included direct responsibility for substantial operations and technology budgets, with influence over larger programme investments. Exact figures remain in `evidence/claim-register.md` pending verification and are not asserted here.
 
@@ -98,6 +98,6 @@ Independent venture development is in progress under separate cover. These are r
 
 ## Evidence status
 
-This profile is built from approved CV material last revised in 2026, public professional context and portfolio evidence. Quantified outcomes stated in the CV appear here only where they describe scope rather than performance; performance metrics are held in `evidence/claim-register.md` with an explicit evidence classification, and are not asserted as fact in reviewer-facing narrative until verified.
+This profile is built from approved CV material last revised in 2026, public professional context and portfolio evidence. Quantified outcomes stated in the CV are excluded from narrative unless safely generalised; performance metrics are held in `evidence/claim-register.md` with an explicit evidence classification, and are not asserted as fact in reviewer-facing narrative until verified.
 
 Personal contact details, home address, and identity information present in source CV material have been deliberately excluded from this repository under [CONFIDENTIALITY.md](CONFIDENTIALITY.md).

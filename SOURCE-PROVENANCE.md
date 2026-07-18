@@ -12,66 +12,82 @@ It exists to prevent accidental copying of employer material, proprietary code, 
 |---|---|---|---|
 | **Accumulated professional knowledge** | Experience and judgement developed across roles | Reframe into original, company-neutral content | Yes, after review |
 | **Validated operator evidence** | Historic work showing diagnosis, design, implementation, governance or leadership | Extract principles privately and rebuild from scratch | No |
-| **Supporting evidence** | Material that supports chronology, context or breadth | Use to validate context; do not reproduce | No |
-| **Independent strategic exercise** | Assessment or hypothetical work created without implementation responsibility | Rebuild and label clearly as an exercise | No source upload |
-| **CV or public professional profile** | Public role context and claims | Use after accuracy and metric review | Yes, selectively |
+| **Supporting evidence** | Material supporting chronology, context or breadth | Validate context; do not reproduce | No |
+| **Independent strategic exercise** | Assessment or hypothetical work without implementation responsibility | Rebuild and label clearly | No source upload |
+| **CV or public professional profile** | Role context, chronology and self-reported claims | Use after accuracy and metric review | Selectively |
+| **Claude audit output** | Analysis produced from Claude-accessible skills or professional context | Treat as an audit input, not proof; reconcile with source evidence | No direct proof status |
+| **Applied third-party methodology** | Forrester, SiriusDecisions, MEDDICC, SPICED or other established methods | Attribute and describe Christopher's adaptation; do not claim the base method as original | No copied training material |
 | **Internal dashboard or dataset** | Real operational or commercial data | Recreate with synthetic data and generic labels | No |
-| **Owned venture material** | Material relating to a business or product owned or built by Christopher | Use selectively after venture-specific confidentiality review | Sometimes |
-| **Third-party reference** | Training, research, templates, analyst or vendor material | Cite where material; never present as original work | No direct copying |
-| **External public research** | Public sources used to validate a current fact or market claim | Summarise with attribution | No direct copying by default |
-| **Source code from another repository** | Code or configuration outside the portfolio repository | Reference only unless ownership and publication rights are explicit | No by default |
+| **Owned venture material** | Material relating to a business or product owned or built by Christopher | Use selectively after venture-specific review | Sometimes |
+| **Third-party reference** | Training, research, analyst or vendor material | Cite where material; never present as original work | No direct copying |
+| **External public research** | Public source used to validate a current fact or claim | Summarise with attribution | No direct copying by default |
+| **Source code from another repository** | Code or configuration outside this portfolio | Reference only unless publication rights are explicit | No by default |
 | **Restricted personal or confidential material** | Credentials, identity, employment, legal, customer or production records | Exclude completely | Never |
 
 ## Evidence treatment statuses
 
-Every artefact must carry one of these statuses during production:
-
-- **Not started** — source family identified; no portfolio artefact exists
-- **Reconstruction in progress** — independently authored draft exists
-- **Evidence review required** — contribution, ownership or metrics need validation
-- **Confidentiality review required** — content is not yet safe for reviewer access
-- **Approved for private portfolio** — passed quality, provenance and confidentiality review
-- **Approved for public adaptation** — separately reviewed for wider publication
-- **Blocked** — evidence cannot safely or accurately be used
+- **Not started**
+- **Reconstruction in progress**
+- **Evidence review required**
+- **Confidentiality review required**
+- **Approved for private portfolio**
+- **Approved for public adaptation**
+- **Blocked**
 
 ## Portfolio source map
 
-| Portfolio collection | Primary source category | Required treatment | Current status |
+| Collection | Primary source category | Required treatment | Status |
 |---|---|---|---|
-| Revenue and Commercial Operating Systems | Validated operator evidence plus independent strategic exercises | Blend patterns across roles; separate implemented experience from exercises | Not started |
-| Lifecycle, Qualification and Handoffs | Historic lifecycle, status, scoring, routing, SLA and handoff work | Rebuild in neutral language with synthetic records | Not started |
-| Campaign and Platform Operations | Campaign manuals, process standards and platform-governance experience | Create a new platform-neutral operating system | Not started |
-| Martech, Data and Transformation | Platform audits, migration plans, architecture and business cases | Remove company architecture and rebuild decision models | Not started |
-| Analytics, Attribution and Decision Systems | Attribution, QBR, dashboard, pipeline and measurement work | Use synthetic datasets; explain model limits | Not started |
-| Team and Transformation Leadership | Charters, service hubs, workstream plans and enablement work | Rebuild team and governance models; clarify personal contribution | Not started |
-| AI-Assisted GTM Operations | Personal AI workflows and employer-context demonstrations | Build a new synthetic demonstration with human controls | Not started |
-| Independent Strategic Exercises | Recruitment or assessment cases | Label assumptions and non-implementation status prominently | Not started |
-| NXClarity Venture Retrospective | Owned venture material | Review commercial claims, market data and private founder content | Not started |
-| Snugtot Concept Retrospective | Owned concept material | Treat projections as assumptions; validate market claims before reuse | Not started |
-| Building Lynr | Owned venture material | Use only approved operating and commercial content | Not started |
-| ThinkBud Product Build | Owned venture experience | High-level case only by default; no credentials, private data, repository migration or production detail | Not started |
+| Revenue and Commercial Operating Systems | Validated operator evidence plus independent exercises | Blend patterns across roles; separate implementation from exercises | Not started |
+| Lifecycle, Qualification and Handoffs | Historic lifecycle, scoring, routing, SLA and handoff work | Rebuild in neutral language with synthetic records | Not started |
+| Campaign and Platform Operations | Campaign and platform-governance experience | Create a new platform-neutral operating system | Not started |
+| Martech, Data and Transformation | Audits, migrations, architecture and business cases | Remove company architecture and rebuild decision models | Not started |
+| Analytics, Attribution and Decision Systems | Attribution, QBR, dashboard and pipeline work | Use synthetic datasets; explain limits | Not started |
+| Team and Transformation Leadership | Charters, service hubs, workstream plans and enablement | Rebuild team and governance models; clarify contribution | Not started |
+| AI-Assisted GTM Operations | Professional AI workflows, Claude audit and high-level architecture evidence | Verify artefacts; build synthetic demonstrations with human controls | Evidence review required |
+| Independent Strategic Exercises | Recruitment or assessment cases | Label assumptions and non-implementation status | Not started |
+| Venture Retrospectives | Owned venture material | Separate publication review for each venture | Not started |
 
-## Drive audit declaration
+## Applied third-party methodology
 
-The Google Drive evidence audit:
+Several reported skill constructs originate in established Forrester / SiriusDecisions methodology, including the Demand Unit Waterfall, Programme Pendulum, Achievability Index, Cooperation Index and Demand Management Council. MEDDICC and SPICED are also established third-party sales methodologies.
 
-- Traversed the principal work archives and active-project folders
-- Classified the relevant work into 26 capability domains
-- Validated representative content across operating models, lifecycle, campaigns, martech, data, attribution, leadership, AI and ventures
-- Identified third-party material that cannot be treated as original work
-- Identified credentials, personal records, legal material, production data and confidential source artefacts that are blocked from portfolio use
+Portfolio treatment:
 
-The audit is a coverage and provenance control. It does not transfer ownership or publication rights.
+- Attribute the base methodology.
+- Describe Christopher as a trained or certified practitioner only where supported.
+- Claim originality only for independently evidenced orchestration, diagnostic sequencing, evidence classification, operating adaptation and human-accountability controls.
+- Do not reproduce proprietary training content, diagrams or certification material.
 
-See:
+Attribution is a credibility control, not a concession.
 
-- [DRIVE-EVIDENCE-AUDIT.md](DRIVE-EVIDENCE-AUDIT.md)
-- [WORKSTREAM-COVERAGE.md](WORKSTREAM-COVERAGE.md)
-- [EXCLUSION-REGISTER.md](EXCLUSION-REGISTER.md)
+## Claude portfolio audit treatment
+
+The uploaded Claude files were used as a structured audit input. They are not treated as proof by themselves.
+
+Claude reported that it inspected several skill packages in its available skill environment and identified originality and provenance issues. Until underlying files or approved exports are supplied:
+
+- The packages remain **candidate evidence**.
+- Their implementation status remains **pending verification**.
+- They may be named in the audit catalogue.
+- They must not be presented as repository-verified built tooling.
+- Generated specifications must be labelled as drafts or concepts.
+
+## Artefact register
+
+| Artefact | Source classification | Status | Treatment |
+|---|---|---|---|
+| `PROFILE.md` | CV and public professional context | Evidence review required | Performance metrics removed or held in claim register |
+| `OPERATOR-THESIS.md` | Accumulated professional knowledge | Reconstruction in progress | Original thesis written for portfolio |
+| `SKILLS-AND-SYSTEMS.md` | Claude audit plus professional evidence | Evidence review required | Separates candidate skills, architecture and applied methodology |
+| `skills/README.md` | Portfolio synthesis | Reconstruction in progress | Skills-library index with explicit status |
+| `skills/crm-data-quality-auditor/README.md` | New portfolio specification | Evidence review required | Draft exemplar; not proof of built tooling |
+| `evidence/claim-register.md` | Approved professional material | Evidence review required | Claims classified rather than asserted |
+| `evidence/verification-backlog.md` | Portfolio governance | Reconstruction in progress | Records unresolved evidence and decisions |
+| `README.md` | Portfolio synthesis | Reconstruction in progress | Employer and investor navigation |
+| `ROADMAP.md` | Portfolio governance | Reconstruction in progress | Sequencing and blockers |
 
 ## Required provenance entry for each artefact
-
-Record the following in the artefact repository:
 
 ```text
 Artefact name:
@@ -103,6 +119,7 @@ Notes and limitations:
 - Owned venture work
 - New portfolio framework
 - New synthetic demonstration
+- Draft specification pending verification
 
 ### Metrics status values
 
@@ -115,19 +132,12 @@ Notes and limitations:
 
 ## Private source-reference rule
 
-A portfolio artefact may record a high-level source-era or evidence-family reference. It should not embed:
+Portfolio artefacts may record a high-level source family. They must not embed private Drive links, employer file paths, internal system URLs, customer or employee names, credential locations or production identifiers.
 
-- Private Drive links
-- Employer file paths
-- Internal system URLs
-- Customer or employee names
-- Credential locations
-- Production record identifiers
-
-Where a more detailed source trail is needed for personal verification, maintain it outside the shared portfolio surface and protect it separately.
+Detailed private source trails, where needed, must be maintained outside the reviewer-facing repository surface.
 
 ## Current declaration
 
-The foundation and audit files in `portfolio-index` were written specifically for this private portfolio.
+The portfolio foundation, audit and new Claude-derived files were written specifically for this private repository.
 
-No historic employer document, production dataset, credential, third-party training file or external repository file has been uploaded into the organisation. The source material was used only to validate coverage and identify transferable operating patterns.
+No historic employer document, production dataset, credential, third-party training file or external repository source file has been uploaded. Source material has been used only to validate chronology, identify transferable patterns, classify claims and establish the verification backlog.

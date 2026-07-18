@@ -1,32 +1,24 @@
 # Christopher Swarup — Professional Profile
 
-> **Evidence classification:** Professional profile based on approved career material and public professional context. Performance metrics and confidential company detail are excluded from reviewer-facing narrative.
+## A quick introduction
 
-UK-based Marketing Operations, Revenue Operations and GTM systems leader with 15+ years of experience.
+I am a UK-based Marketing Operations, Revenue Operations and GTM systems leader with more than 15 years of experience.
 
----
+The easiest way to explain my career is that I have repeatedly worked in organisations that had outgrown the way they operated.
 
-## Executive summary
+Leads were arriving, but teams did not agree what they meant. Marketing reported pipeline that Revenue leadership did not trust. Fast-growing and acquired businesses inherited competing lifecycle models, fragmented platforms and inconsistent operating rules. My work has been to make the underlying decisions, ownership, process and data trustworthy first, then automate.
 
-I design and build the operating systems behind predictable B2B revenue — connecting commercial strategy, process, ownership, platforms, data, analytics and AI so teams can execute with clarity.
+I have led Marketing Operations and Revenue Systems work across enterprise technology, global infrastructure, high-growth SaaS, post-merger environments and AI-native software. That has included direct and matrix leadership, martech ownership, operating-model design, platform change, analytics and executive partnership.
 
-The through-line across my career is a go-to-market organisation that has outgrown the way it was wired. Leads arrive but teams do not agree what they mean. Marketing reports pipeline that Revenue leadership does not trust. Acquired or fast-growing businesses inherit competing lifecycle models, fragmented platforms and inconsistent operating rules. My work is to make the underlying decisions, ownership, process and data trustworthy first, then automate.
-
-I have led Marketing Operations and Revenue Systems work across enterprise technology, global infrastructure, high-growth SaaS, post-merger environments and AI-native software. Scope has included direct and matrix leadership, martech ownership, operating-model design, platform transformation, analytics and executive partnership.
-
----
-
-## Operating principle
+## The principle I keep coming back to
 
 > Build the operating foundation first. Add automation and AI only when the underlying decisions, ownership, process and data can be trusted.
 
-This is not conservatism about AI. It is a claim about sequence. An AI layer applied to contested lifecycle definitions and unreliable operational data does not produce speed — it produces confident, well-formatted, wrong answers at scale.
+I am not cautious about AI because I doubt the technology. I am cautious about sequence. AI applied to contested definitions and unreliable operational data does not produce better decisions. It produces confident, well-formatted answers that are harder to challenge.
 
----
+## My career so far
 
-## Public career timeline
-
-Only public professional facts are named here. All operating examples, systems detail, metrics and case studies elsewhere in the repository are company-neutral.
+Only public professional facts are named here. The operating examples elsewhere in the repository are company-neutral.
 
 | Period | Role | Organisation |
 |---|---|---|
@@ -38,67 +30,67 @@ Only public professional facts are named here. All operating examples, systems d
 | 2015–2016 | Head of Marketing Operations | FE fundinfo |
 | 2013–2015 | Global Demand Generation / Operations Manager | Finastra |
 
-Earlier career spans digital operations, technical and inside sales, and commercial management. That grounding matters because the operating models I design are intended to work under real revenue pressure, not only on paper.
+My earlier career included digital operations, technical and inside sales, and commercial management. That grounding matters because the operating models I design have to work under real revenue pressure, not only in a presentation.
 
 **Education.** MBA in Business Administration and Marketing. BSc in Applied Business Computing.
 
 **Certifications.** Forrester Demand and Account-Based Marketing, SiriusDecisions B2B Marketing Foundations Pro, Salesforce ADM201, Tableau Desktop and Strategic Marketing Planning.
 
----
+## What I have spent my career doing
 
-## Leadership scope
+### Lead-to-revenue operating models
 
-Leadership experience includes direct reports, matrixed teams, distributed delivery and offshore operating models across director-level roles.
+Lifecycle definitions, status and disposition models, scoring and qualification, routing and ownership, marketing-to-sales and sales-to-customer handoffs, SLA governance and exception handling.
 
-Experience has included responsibility for operations and technology investment, platform ownership, service design, intake, prioritisation, governance, enablement and adoption. Exact figures, named internal programmes and employer-specific operating structures are deliberately excluded.
+### Marketing and revenue technology
 
----
+CRM, marketing automation, lifecycle communications, enrichment, routing, ABM, sales engagement, analytics and integration platforms. I focus on the decisions and governance behind the technology rather than presenting a list of tools as the work itself.
 
-## Functional expertise
+### Migration and consolidation
 
-**Lead-to-revenue operating models.** Lifecycle definitions, status and disposition models, scoring and qualification, routing and ownership, marketing-to-sales and sales-to-customer handoffs, SLA governance and exception handling.
+Platform migration, process redesign, data remediation, integration control, tool rationalisation and adoption across complex operating environments.
 
-**Marketing and revenue technology.** CRM, marketing automation, lifecycle communications, enrichment, routing, ABM, sales engagement, analytics and integration platforms. The portfolio focuses on decision logic and governance rather than named employer configurations.
+### Analytics and reporting
 
-**Migration and consolidation.** Platform migration, process redesign, data remediation, integration control, tool rationalisation and change adoption across complex operating environments.
+Attribution, pipeline and funnel reporting, forecast confidence, executive dashboards, data-quality controls and reporting governance.
 
-**Analytics and reporting.** Attribution, pipeline and funnel reporting, forecast confidence, executive dashboards, data-quality controls and reporting governance.
+### Post-merger integration
 
-**Post-merger integration.** Harmonising lifecycle, operating rules, ownership, systems and measurement across previously separate teams and technology estates.
+Bringing lifecycle, operating rules, ownership, systems and measurement into one model while the organisation is still changing.
 
-**AI-assisted operations.** Designing structured AI-assisted workflows that expose evidence, assumptions, limitations and required human approval.
+### AI-assisted operations
 
----
+Designing workflows that make evidence, assumptions, limitations and required human approval visible.
 
 ## The problems I am best suited to solve
 
-- A GTM organisation where reported pipeline and believed pipeline have diverged.
-- A post-merger or high-growth environment with competing lifecycle models and fragmented systems.
-- A martech estate with overlapping tools, unclear system authority and unowned integrations.
-- A Marketing Operations function that needs to move from service desk to commercial infrastructure.
-- An organisation preparing to apply automation or AI to an operating foundation that is not ready.
+- A GTM organisation where reported pipeline and believed pipeline have diverged
+- A post-merger or high-growth environment with competing lifecycle models and fragmented systems
+- A martech estate with overlapping tools, unclear system authority and unowned integrations
+- A Marketing Operations function that needs to move from service desk to commercial infrastructure
+- An organisation preparing to apply automation or AI to an operating foundation that is not ready
+
+## How I lead
+
+I have led direct reports, matrixed teams, distributed delivery and offshore operating models across director-level roles.
+
+My leadership style is practical. I prefer visible priorities, clear decision rights and honest trade-offs. I separate repeatable production work from the work that needs senior judgement, and I design the operating model so the team can keep improving it after the original change.
 
 ## Where I am a weaker fit
 
-Deep product analytics ownership, sales compensation design and finance-owned revenue accounting are adjacent to my work but are not my core disciplines.
-
----
+Deep product analytics ownership, sales compensation design and finance-owned revenue accounting are adjacent to my work, but they are not my core disciplines.
 
 ## International and distributed scope
 
-Experience includes EMEA and global operating scope, cross-regional stakeholder leadership, distributed teams and multi-market lifecycle, consent and governance requirements.
+My experience includes EMEA and global operating scope, cross-regional stakeholder leadership, distributed teams and multi-market lifecycle, consent and governance requirements.
 
----
+## Founder and venture work
 
-## Venture and founder activity
-
-Independent venture development is represented only through separately reviewed retrospectives. Source code, production configuration, private founder information, customer data and commercially sensitive financial detail remain outside the portfolio.
+My venture work is not separate from my operator experience. It is an attempt to turn repeated operating patterns into clearer services, diagnostics, workflows and products.
 
 See the [Entrepreneur Journey](ENTREPRENEUR-JOURNEY.md) and [Building Lynr](case-studies/ventures/building-lynr.md).
 
----
-
-## Selected evidence
+## Where I would point you next
 
 - [Revenue Operating System case](case-studies/flagship/revenue-operating-system.md)
 - [Unified Lifecycle Governance case](case-studies/flagship/unified-lifecycle-governance.md)
@@ -108,10 +100,6 @@ See the [Entrepreneur Journey](ENTREPRENEUR-JOURNEY.md) and [Building Lynr](case
 - [GTM Command Center](skills/command-center/README.md)
 - [Runnable synthetic tools](tools/README.md)
 
----
+## Evidence boundary
 
-## Evidence and privacy status
-
-This profile uses approved professional material and public career facts. It does not include personal contact details, home location, family information, customer data, employee data, internal company metrics, named internal programmes, proprietary schemas or production configuration.
-
-Public employer names are used only in the career timeline. All case studies, frameworks and operating examples are independently reconstructed in company-neutral language under [CONFIDENTIALITY.md](CONFIDENTIALITY.md).
+I have applied the repository's [Confidentiality Policy](CONFIDENTIALITY.md) and [Source Provenance](SOURCE-PROVENANCE.md) to this profile and the related operating examples.

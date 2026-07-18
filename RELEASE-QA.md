@@ -23,6 +23,8 @@ The repository now contains completed professional evidence rather than only pos
 - One owned-venture retrospective
 - Claim, provenance, confidentiality and security controls
 
+The final decision briefs and this release review are recorded in [SOURCE-PROVENANCE-ADDENDUM-2026-07-18.md](SOURCE-PROVENANCE-ADDENDUM-2026-07-18.md).
+
 ## Reviewer usability
 
 - Employers can reach role fit, operating judgement, implementation depth and leadership evidence in three steps or fewer.

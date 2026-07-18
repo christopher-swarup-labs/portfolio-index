@@ -4,6 +4,12 @@ I use this index to separate completed proof from the work I still plan to build
 
 Employer-related cases are independently reconstructed and company-neutral. Venture cases use only owned or public context and receive a separate confidentiality review.
 
+## Completed flagship venture build
+
+| Case | The question it helps answer | Status |
+|---|---|---|
+| [Building ThinkBud](case-studies/ventures/building-thinkbud.md) | Can I take a complex learning-product idea from a blank page into a working, secure, tested and commercially structured platform? | Controlled-beta build complete |
+
 ## Completed operator cases
 
 | Case | The question it helps answer | Status |
@@ -14,7 +20,7 @@ Employer-related cases are independently reconstructed and company-neutral. Vent
 | [Pipeline Truth and Attribution](case-studies/flagship/pipeline-truth-and-attribution.md) | Can I create pipeline evidence that Marketing, Sales, Finance and leadership can reconcile? | Complete |
 | [Modern MOPS Team Operating Model](case-studies/leadership/modern-mops-team-operating-model.md) | Can I build and lead MOPS as commercial infrastructure rather than a ticket queue? | Complete |
 
-## Completed venture case
+## Completed venture retrospective
 
 | Case | The question it helps answer | Status |
 |---|---|---|
@@ -51,10 +57,10 @@ A leadership case showing how I establish common definitions, decision rights an
 
 A further synthetic demonstration that shows how evidence, decision logic and human accountability work together.
 
-### Venture retrospectives
+### Further venture retrospectives
 
-Future cases may cover NXClarity, Snugtot and ThinkBud. They will only be added where the evidence is useful and safe to share.
+Future cases may cover NXClarity and Snugtot where the evidence is useful and safe to share.
 
 ## Evidence rule
 
-A polished description is not proof. I will keep planned work in the roadmap until it has a clear evidence label, provenance record and reviewer value.
+A polished description is not proof. I keep planned work in the roadmap until it has a clear evidence label, provenance record and reviewer value.

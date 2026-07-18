@@ -1,12 +1,12 @@
-# Employer Decision Brief
+# Employer Brief
 
-## The headline
+## Where I add the most value
 
-Christopher Swarup is a senior Marketing Operations, Revenue Operations and GTM systems leader who designs and builds the operating infrastructure beneath predictable B2B revenue.
+I am a senior Marketing Operations, Revenue Operations and GTM systems leader. I work best in organisations that have grown faster than their operating model.
 
-He is most valuable when a commercial organisation has outgrown its process, systems and ownership model—and the visible symptoms are appearing as weak pipeline confidence, inconsistent handoffs, fragmented platforms, operational debt or an Operations function trapped in reactive delivery.
+The visible problems are usually familiar: pipeline numbers are disputed, handoffs are inconsistent, platforms overlap, teams work around the process, and Operations is stuck reacting to requests. I look underneath those symptoms and fix the decisions, ownership, process and data that are causing them.
 
-## Roles this evidence supports
+## Roles this portfolio supports
 
 - Head or Director of Marketing Operations
 - Head or Director of Revenue Operations
@@ -15,41 +15,41 @@ He is most valuable when a commercial organisation has outgrown its process, sys
 - Operating-model or transformation leader
 - Fractional senior operator or adviser
 
-## Problems he is equipped to solve
+## The problems I am equipped to solve
 
 ### Revenue operating model
 
-Create one operating spine across commercial motions, lifecycle, ownership, systems, data, reporting and governance.
+I can create one operating spine across commercial motions, lifecycle, ownership, systems, data, reporting and governance.
 
 ### Lifecycle and handoffs
 
-Resolve conflicting definitions, hidden ownership, stage skips, weak acceptance, recycling and SLA failure.
+I can resolve conflicting definitions, hidden ownership, stage skips, weak acceptance, recycling and SLA failure.
 
 ### Campaign and platform operations
 
-Turn campaign delivery from an urgent production queue into a governed process with readiness, QA, handoff, measurement and learning.
+I can move campaign delivery away from urgent ticket handling and into a governed process with readiness, QA, follow-up, measurement and learning.
 
 ### Pipeline truth
 
-Separate source, influence, progression and forecast evidence so leadership can reconcile and defend the numbers.
+I can separate source, influence, progression and forecast evidence so Marketing, Sales, Finance and leadership can reconcile the numbers.
 
 ### Marketing Operations leadership
 
-Move MOPS from service desk to commercial infrastructure through a clear service model, portfolio, decision rights, platform stewardship, analytics and adoption.
+I can move MOPS from service desk to commercial infrastructure through a clear service model, visible priorities, decision rights, platform stewardship, analytics and adoption.
 
 ### AI readiness
 
-Structure AI as evidence-aware decision support with visible assumptions, escalation and named human accountability.
+I can structure AI as decision support with visible evidence, assumptions, limits and named human accountability. I will not use AI to hide a weak operating foundation.
 
-## What distinguishes the approach
+## How I work
 
-- Starts with ownership and commercial decisions rather than software
-- Connects process, systems, data and analytics as one operating model
-- Makes exceptions and failure modes visible
-- Designs for adoption and daily behaviour, not only conceptual correctness
-- Can move from executive framing into implementation detail
-- Uses AI to strengthen disciplined operations rather than disguise weak foundations
-- Builds documentation and handback into delivery
+- I start with the commercial decision, not the software.
+- I make ownership and definitions explicit before automating them.
+- I connect process, systems, data and reporting as one operating model.
+- I design exceptions and escalation rather than pretending the standard path covers everything.
+- I build for day-to-day adoption, not just conceptual correctness.
+- I move comfortably between executive framing and implementation detail.
+- I document the system and hand it back. I do not create dependency as a business model.
 
 ## Selected proof
 
@@ -61,24 +61,21 @@ Structure AI as evidence-aware decision support with visible assumptions, escala
 6. [Operating framework library](frameworks/README.md)
 7. [Runnable synthetic diagnostics](tools/README.md)
 
-## Leadership style
+## My leadership style
 
-The leadership model is based on explicit trade-offs, visible priorities, named decision rights and a clear separation between repeatable production and senior judgement.
+I prefer explicit trade-offs, visible priorities and named decision rights. Repeatable production work should be standardised. Senior judgement should stay close to the decisions where ambiguity, risk or cross-functional conflict matter.
 
-The objective is not to make Operations indispensable through dependency. It is to build a working system, increase organisational capability and create a governance model that survives the original builder.
+My aim is not to make Operations indispensable because nobody else understands the system. My aim is to build something the organisation can run, govern and improve after the initial change.
 
-## Best-fit environment
+## The environments where I am strongest
 
-- B2B technology or SaaS
-- Growth, scale or transformation stage
-- Multi-region, multi-motion or post-merger complexity
+- B2B technology and SaaS
+- Growth, scale or transformation stages
+- Multi-region or multi-motion organisations
+- Post-merger operating complexity
 - Material CRM, martech, lifecycle or reporting change
-- Leadership willing to resolve ownership and definition conflicts
+- Leadership teams willing to resolve ownership and definition conflicts
 
-## Weaker fit
+## Where I am a weaker fit
 
-Deep product analytics ownership, sales compensation design and finance-owned revenue accounting are adjacent disciplines rather than Christopher's core.
-
-## Evidence standard
-
-The portfolio deliberately excludes unverified performance metrics, real customer data, private system architecture and employer documents. The cases show diagnosis, decisions, implementation thinking and leadership without exposing confidential information.
+Deep product analytics ownership, sales compensation design and finance-owned revenue accounting are adjacent to my work, but they are not my core disciplines.

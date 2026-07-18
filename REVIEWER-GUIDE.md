@@ -1,19 +1,21 @@
 # Reviewer Guide
 
-I built this repository for people who want to understand how I think, what I can lead and how deeply I can work through an operating problem.
+Thanks for spending time on this.
 
-It is not a CV archive or a collection of old company files. The useful evidence is in the cases, frameworks, decisions, trade-offs and tools.
+I have tried to make the repository easy to navigate because I know you are not here to read every file. You are probably trying to answer a fairly specific question about me, so choose the route that is closest to the decision you need to make.
 
-## Employer review path — 15 to 25 minutes
+## You are considering me for a senior operating role
 
-1. Read the [Employer Brief](EMPLOYER-BRIEF.md) for role fit and the problems I solve.
-2. Read the [Professional Profile](PROFILE.md) for career scope and functional depth.
-3. Review the [Revenue Operating System case](case-studies/flagship/revenue-operating-system.md) for end-to-end diagnosis, design and sequencing.
-4. Review the [Unified Lifecycle Governance case](case-studies/flagship/unified-lifecycle-governance.md) for ownership, handoffs, routing and adoption.
-5. Review the [Modern MOPS Team Operating Model](case-studies/leadership/modern-mops-team-operating-model.md) for leadership, team design and distributed delivery.
-6. Inspect the [Frameworks](frameworks/README.md) and [Runnable Proof](tools/README.md) for repeatability and implementation depth.
+Start here:
 
-By the end, you should be able to judge whether I can:
+1. [Employer Brief](EMPLOYER-BRIEF.md) — where I add the most value and the problems I am equipped to own
+2. [Professional Profile](PROFILE.md) — career scope, leadership experience and functional depth
+3. [Revenue Operating System case](case-studies/flagship/revenue-operating-system.md) — how I diagnose and structure a broad operating problem
+4. [Unified Lifecycle Governance case](case-studies/flagship/unified-lifecycle-governance.md) — how I handle definitions, ownership, handoffs and adoption
+5. [Modern MOPS Team Operating Model](case-studies/leadership/modern-mops-team-operating-model.md) — how I think about teams, priorities and distributed delivery
+6. [Frameworks](frameworks/README.md) and [Runnable Proof](tools/README.md) — whether the thinking is reusable and can be taken into practical detail
+
+By the end, you should have a clear view of whether I can:
 
 - Diagnose why a GTM operating model is underperforming
 - Connect strategy, ownership, process, systems, data and reporting
@@ -22,36 +24,44 @@ By the end, you should be able to judge whether I can:
 - Build Marketing or Revenue Operations as commercial infrastructure
 - Apply AI without weakening accountability or decision quality
 
-## CMO or Marketing leader path — about 15 minutes
+## You are a CMO or Marketing leader
+
+I would look at these four pieces:
 
 1. [Campaign Operations case](case-studies/flagship/campaign-operations-os.md)
 2. [Modern MOPS Operating Model](frameworks/mops-operating-model.md)
 3. [Modern MOPS leadership case](case-studies/leadership/modern-mops-team-operating-model.md)
 4. [Pipeline Truth case](case-studies/flagship/pipeline-truth-and-attribution.md)
 
-This path should help you judge whether I can move MOPS from reactive delivery to a governed function accountable for campaigns, platforms, data, analytics and commercial decisions.
+Together they show how I move MOPS away from reactive delivery and towards a function that is accountable for campaign execution, platforms, data, analytics and the operating decisions behind them.
 
-## CRO or COO path — about 15 minutes
+## You are a CRO, COO or Revenue leader
+
+I would start here:
 
 1. [Revenue Operating System framework](frameworks/revenue-operating-system.md)
 2. [Revenue Operating System case](case-studies/flagship/revenue-operating-system.md)
 3. [Lifecycle Governance](frameworks/lifecycle-governance.md)
 4. [Pipeline Truth](frameworks/pipeline-truth.md)
 
-This path should help you judge whether I can create one operating spine across commercial motions, ownership, handoffs, systems, data and forecasting.
+The question these should answer is whether I can create one operating spine across commercial motions, ownership, handoffs, systems, data and forecasting—not simply improve one tool or one report.
 
-## Investor or adviser path — 15 to 25 minutes
+## You are reviewing me as an investor or adviser
 
-1. Read the [Investor Brief](INVESTOR-BRIEF.md).
-2. Read the [Entrepreneur Journey](ENTREPRENEUR-JOURNEY.md).
-3. Review the [Building Lynr retrospective](case-studies/ventures/building-lynr.md).
-4. Review the [GTM Command Center](skills/command-center/README.md).
-5. Inspect the [Frameworks](frameworks/README.md) and [Runnable Proof](tools/README.md).
-6. Read [Skills and Systems](SKILLS-AND-SYSTEMS.md) for the boundary between verified work, reconstructed architecture and ideas still under review.
+Start with:
 
-This path should help you judge whether my operating experience can become a repeatable service, diagnostic, workflow or product—and whether I am honest about what is proven.
+1. [Investor Brief](INVESTOR-BRIEF.md)
+2. [Entrepreneur Journey](ENTREPRENEUR-JOURNEY.md)
+3. [Building Lynr](case-studies/ventures/building-lynr.md)
+4. [GTM Command Center](skills/command-center/README.md)
+5. [Frameworks](frameworks/README.md) and [Runnable Proof](tools/README.md)
+6. [Skills and Systems](SKILLS-AND-SYSTEMS.md)
 
-## Technical or operations path
+The key question is whether my operating experience can become a repeatable service, diagnostic, workflow or product—and whether I am being honest about what is proven, what is reconstructed and what is still a hypothesis.
+
+## You want to inspect the operating logic
+
+These are the most useful files:
 
 1. [GTM Command Center](skills/command-center/README.md)
 2. [Skills Library](skills/README.md)
@@ -61,11 +71,11 @@ This path should help you judge whether my operating experience can become a rep
 6. [Source Provenance](SOURCE-PROVENANCE.md)
 7. [Security Policy](SECURITY.md)
 
-The useful questions here are straightforward: Are the inputs clear? Are the rules inspectable? Are assumptions visible? Are there tests? Are failure modes named? Does a human still own the decision?
+The questions I would ask are straightforward: Are the inputs clear? Are the rules inspectable? Are assumptions visible? Are there tests? Are failure modes named? Does a human still own the decision?
 
-## Evidence labels
+## How I label the work
 
-I use explicit labels so a reviewer does not have to guess what they are looking at:
+I use explicit labels so you do not have to guess what you are looking at:
 
 - **Composite implemented experience — independently reconstructed**
 - **Original portfolio framework**
@@ -76,6 +86,8 @@ I use explicit labels so a reviewer does not have to guess what they are looking
 - **Reference only**
 - **Concept under development**
 
-## The review principle
+## The standard I would use to judge the portfolio
 
-> Judge the quality of the diagnosis, operating logic, trade-offs, implementation thinking and evidence—not the number of files.
+Do not judge it by the number of files or by how polished the language sounds.
+
+Judge it by the quality of the diagnosis, whether the trade-offs are visible, whether the implementation thinking is practical, whether the limits are honest and whether the operating logic would survive contact with a real organisation.

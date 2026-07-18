@@ -2,28 +2,38 @@
 
 > **Evidence classification:** Founder and venture-building overview. Public or owned venture context only.
 
-## Why I started building ventures
+## How this connects to my career
 
-Most of my career has been spent fixing operating systems inside other companies. Over time, I kept seeing the same failures appear in different forms: unclear ownership, weak handoffs, fragmented tools, unreliable reporting and too much dependence on individual memory.
+My founder journey did not begin as a separate career track. It grew out of the operating work I had already been doing across Marketing Operations, Revenue Operations and GTM systems.
 
-That repetition made me ask a different question: could some of the judgement behind the work become a product, service or venture rather than being rebuilt from scratch every time?
+For years, I worked on problems involving unclear ownership, fragmented systems, unreliable data, weak handoffs and decisions that depended too heavily on individual memory. Over time, I started asking whether some of that judgement could become a product, a service or a more repeatable workflow.
 
-My venture journey is not a straight-line success story. It is a series of experiments in market need, trust, delivery, productisation and founder judgement.
+That is the connection between my core career and the ventures. The context changes, but the underlying work is familiar: define the real problem, decide what should be authoritative, make the rules explicit, build the operating model and learn from evidence.
 
-## The biggest build so far
+## ThinkBud
 
-[ThinkBud](case-studies/ventures/building-thinkbud.md) is the most substantial venture build I have completed. You can also see the live product site at [www.thinkbud.co.uk](https://www.thinkbud.co.uk/).
+ThinkBud began as something I wanted to create for my own children.
 
-I spent nearly eight months turning it from an idea into a working, invite-only learning-intelligence platform for UK 11+ preparation. It required me to work across product design, learning logic, content operations, data architecture, AI-assisted development, security, billing, testing and release management.
+At first, the aim was straightforward: build a more useful way for them to practise for the UK 11+. As I worked on it, the product took a different direction. The question became broader than creating practice material for my family. It became a learning-intelligence problem: how should a product decide what a learner should practise next, what they are likely to forget, how progress should be represented and how a parent can understand what is happening without turning the experience into surveillance?
 
-ThinkBud changed the nature of my founder journey. It moved me beyond propositions and service models into the reality of building and stabilising a software product where every decision affects parents, learners, data integrity and trust.
+Over nearly eight months, ThinkBud developed into a working, invite-only platform spanning product design, adaptive practice, spaced repetition, content operations, data architecture, AI-assisted development, security, billing, testing and controlled release.
+
+The detailed case is in [Building ThinkBud](case-studies/ventures/building-thinkbud.md), and the live site is [www.thinkbud.co.uk](https://www.thinkbud.co.uk/).
+
+## LYNR
+
+LYNR grew directly from my professional experience in Revenue and GTM Operations.
+
+The question was whether senior execution could sit between high-level advice and a permanent hire: diagnose the operating problem, define the outcome, build the system, document it and hand it back without creating unnecessary dependency.
+
+The detailed retrospective is in [Building LYNR](case-studies/ventures/building-lynr.md), and the live site is [getlynr.com](https://getlynr.com/).
 
 ## The progression
 
 ```mermaid
 flowchart LR
-    A[Operator experience] --> B[Reusable diagnostics]
-    B --> C[Services and workflows]
+    A[Core operator experience] --> B[Reusable frameworks and diagnostics]
+    B --> C[Service and workflow models]
     C --> D[Product and venture builds]
     D --> E[Evidence, iteration and better decisions]
     E --> B
@@ -33,37 +43,21 @@ flowchart LR
 
 | Venture | The question I explored | Portfolio treatment |
 |---|---|---|
-| **[ThinkBud](https://www.thinkbud.co.uk/)** | Can a parent-trusted, child-safe learning product use adaptive practice and learning data to make daily preparation more useful? | [Completed flagship venture case](case-studies/ventures/building-thinkbud.md) covering product, learning logic, architecture, security, AI-assisted development and controlled beta |
-| **[LYNR](https://getlynr.com/)** | Can senior revenue execution be delivered through clear scope, one accountable lead and a clean handback? | [Completed retrospective](case-studies/ventures/building-lynr.md) covering the offer, delivery model and iteration |
-| **NXClarity** | Can AI-assisted operating expertise become a useful proposition rather than another generic automation service? | Future retrospective focused on the market thesis, positioning, operating model and lessons |
-| **Snugtot** | Can a consumer concept combine commercial discipline, responsible sourcing and a differentiated brand? | Future concept retrospective; forecasts remain assumptions |
+| **[ThinkBud](https://www.thinkbud.co.uk/)** | Can adaptive practice, structured content and learner history make daily preparation more useful and trustworthy? | [Completed product case](case-studies/ventures/building-thinkbud.md) |
+| **[LYNR](https://getlynr.com/)** | Can senior revenue execution be delivered through clear scope, one accountable lead and a clean handback? | [Completed service-model retrospective](case-studies/ventures/building-lynr.md) |
+| **NXClarity** | Can AI-assisted operating expertise become a useful proposition rather than another generic automation service? | Future retrospective |
+| **Snugtot** | Can a consumer concept combine commercial discipline, responsible sourcing and a differentiated brand? | Future concept retrospective |
 
-## What building ThinkBud taught me
-
-ThinkBud forced me to deal with the full weight of product decisions rather than only the attractiveness of the idea.
-
-I had to:
-
-- Decide what the product should do before choosing how to build it
-- Define a reliable learning record and current learner state
-- Connect content, skill taxonomy, adaptive selection and spaced review
-- Protect answer integrity and parent/learner boundaries
-- Design subscription and access rules
-- Use AI-assisted development without giving up architecture and product ownership
-- Build tests, release controls and documentation
-- Freeze working parts of the system when further change created more risk than value
-- Delay broad launch until the product had a safer operating baseline
-
-## What the ventures have taught me more broadly
+## What the ventures have taught me
 
 Across the ventures, I have had to:
 
-- Turn an observed problem into a market thesis that can be tested
-- Define the customer and the decision the proposition must help them make
-- Design positioning, offers and commercial boundaries
+- Turn an observed problem into a testable proposition
+- Define the user, customer and decision the product must support
 - Translate strategy into a website, workflow, operating model or working product
-- Treat privacy, trust and handback as part of the product
-- Separate a genuine operating advantage from generic access to AI
+- Make ownership, data authority and rules explicit
+- Treat trust, privacy, security and handback as design inputs
+- Use AI to extend execution without outsourcing judgement
 - Narrow, change or stop when the evidence does not support the original idea
 - Stay with difficult implementation work after the initial excitement has gone
 
@@ -73,12 +67,10 @@ The ventures are at different stages. I will not imply revenue, product-market f
 
 The claim I am comfortable making is:
 
-> I have taken ThinkBud from an idea to a working controlled-beta platform, built LYNR into a defined senior-execution model and repeatedly turned operating insight into structured propositions, workflows and products.
+> I have taken the operating discipline developed through my career and applied it to a working learning product, a senior execution model and several venture experiments.
 
 ## What comes next
 
-ThinkBud now needs evidence from a wider learner population, not more founder certainty. The next questions concern learning impact, signal quality, engagement, content scale and commercial viability.
+My Marketing Operations, Revenue Operations and GTM systems experience remains the foundation of the portfolio.
 
-The wider operator work remains the foundation, but ThinkBud is no longer a future footnote. It is the strongest example of what happens when I apply that operating discipline to a product from the ground up.
-
-See [Building ThinkBud](case-studies/ventures/building-thinkbud.md), [Building Lynr](case-studies/ventures/building-lynr.md), [ThinkBud live](https://www.thinkbud.co.uk/), [LYNR live](https://getlynr.com/), [ROADMAP.md](ROADMAP.md) and [SOURCE-PROVENANCE.md](SOURCE-PROVENANCE.md).
+ThinkBud and LYNR add another dimension. They show that I can transfer that judgement into founder-led work, remain close to implementation and keep learning when the problem evolves beyond the original idea.

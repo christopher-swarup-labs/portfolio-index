@@ -1,0 +1,68 @@
+# Operating-system files
+.DS_Store
+Thumbs.db
+
+# Secrets and credentials
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.pfx
+*.crt
+*.cer
+*.jks
+*secret*
+*credential*
+*password*
+*token*
+*api-key*
+*apikey*
+*backup-code*
+*recovery-code*
+
+# Raw exports and source material
+raw/
+source/
+exports/
+private/
+restricted/
+archive/
+backups/
+
+# High-risk office and archive files
+*.xls
+*.xlsx
+*.xlsb
+*.ppt
+*.pptx
+*.doc
+*.docx
+*.zip
+*.rar
+*.7z
+*.tar
+*.gz
+
+# Database and log artefacts
+*.db
+*.sqlite
+*.sqlite3
+*.bak
+*.dump
+*.log
+
+# Local tooling
+.vscode/
+.idea/
+__pycache__/
+*.pyc
+node_modules/
+.venv/
+venv/
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+~$*

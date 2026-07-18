@@ -1,6 +1,6 @@
-# Christopher Swarup — GTM Operating Systems and AI-Enabled Operations
+# Christopher Swarup — Revenue Systems, GTM Operations and Applied AI
 
-**Marketing Operations · Revenue Operations · GTM transformation · AI-assisted decision systems · Operator-to-founder execution**
+**Marketing Operations · Revenue Operations · GTM systems · Applied AI · Venture building**
 
 I design and build the operating systems behind predictable B2B revenue. That means connecting commercial strategy, ownership, process, platforms, data and reporting so teams can execute with less ambiguity.
 
@@ -124,6 +124,7 @@ This repository does not contain real customer or employee data, production expo
 
 All examples use fictional organisations and synthetic records. The controls are documented in:
 
+- [Voice and Style Standard](VOICE-AND-STYLE.md)
 - [Confidentiality Policy](CONFIDENTIALITY.md)
 - [Security Policy](SECURITY.md)
 - [Source Provenance](SOURCE-PROVENANCE.md)

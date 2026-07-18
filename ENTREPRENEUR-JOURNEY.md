@@ -1,55 +1,57 @@
 # Entrepreneur Journey
 
-> **Evidence classification:** Founder and venture-building overview. Public or owned venture context only; no private financial, customer, source-code or production information is included.
+> **Evidence classification:** Founder and venture-building overview. Public or owned venture context only.
 
-## Why the journey matters
+## Why I started building ventures
 
-My career began inside operating systems built by other companies. Over time, the recurring pattern became clear: the same commercial failures appeared in different organisations because ownership, process, systems and data had not been designed as one system.
+Most of my career has been spent fixing operating systems inside other companies. Over time, I kept seeing the same failures appear in different forms: unclear ownership, weak handoffs, fragmented tools, unreliable reporting and too much dependence on individual memory.
 
-The entrepreneurial journey is an attempt to turn that accumulated operator experience into practical products, services and ventures. It is not presented as a straight-line success story. Each venture explored a different question about market need, trust, delivery, productisation and founder judgement.
+That repetition made me ask a different question: could some of the judgement behind the work become a product, service or venture rather than being rebuilt from scratch every time?
+
+My venture journey is not a straight-line success story. It is a series of experiments in market need, trust, delivery, productisation and founder judgement.
 
 ## The progression
 
 ```mermaid
 flowchart LR
     A[Operator experience] --> B[Reusable diagnostics]
-    B --> C[Service and workflow concepts]
+    B --> C[Services and workflows]
     C --> D[Product and venture experiments]
-    D --> E[Evidence, iteration and sharper judgement]
+    D --> E[Evidence, iteration and better decisions]
     E --> B
 ```
 
-## Venture portfolio
+## The ventures
 
-| Venture | Core question explored | Portfolio treatment |
+| Venture | The question I explored | Portfolio treatment |
 |---|---|---|
-| **NXClarity** | Can AI-assisted operational expertise become a usable business proposition rather than a generic automation service? | Future retrospective focused on market thesis, positioning, operating model and lessons |
-| **Snugtot** | Can a consumer concept combine commercial discipline, responsible sourcing and a differentiated brand? | Future concept retrospective; projections remain assumptions |
-| **Lynr** | Can senior revenue execution be delivered as a clearly scoped, accountable and transferable operating model? | Future build case covering offer architecture, delivery governance and iteration |
-| **ThinkBud** | Can a parent-trusted, child-safe learning product be built with strong product, content, security and commercial foundations? | High-level product-building case only; source code, production configuration and private data remain separate |
+| **NXClarity** | Can AI-assisted operating expertise become a useful proposition rather than another generic automation service? | Future retrospective focused on the market thesis, positioning, operating model and lessons |
+| **Snugtot** | Can a consumer concept combine commercial discipline, responsible sourcing and a differentiated brand? | Future concept retrospective; forecasts remain assumptions |
+| **Lynr** | Can senior revenue execution be delivered through clear scope, one accountable lead and a clean handback? | [Completed retrospective](case-studies/ventures/building-lynr.md) covering the offer, delivery model and iteration |
+| **ThinkBud** | Can a parent-trusted, child-safe learning product be built with strong product, content, security and commercial foundations? | Future high-level product case; source code, production configuration and private data stay separate |
 
-## What the ventures demonstrate
+## What the ventures have taught me
 
-Across the ventures, the transferable work includes:
+Across the ventures, I have had to:
 
-- Turning an observed problem into a testable market thesis
-- Defining the customer and the decision the offer must help them make
-- Designing positioning, offers and commercial boundaries
-- Translating strategy into website, workflow, governance and execution
-- Making privacy, trust and handback part of the product rather than an afterthought
-- Distinguishing a genuine operating moat from generic AI capability
-- Stopping, narrowing or changing direction when evidence does not support the original idea
+- Turn an observed problem into a market thesis that can be tested
+- Define the customer and the decision the proposition must help them make
+- Design positioning, offers and commercial boundaries
+- Translate strategy into a website, workflow, operating model and delivery plan
+- Treat privacy, trust and handback as part of the product
+- Separate a genuine operating advantage from generic access to AI
+- Narrow, change or stop when the evidence does not support the original idea
 
-## What remains unproven
+## What I will not overclaim
 
-The ventures are at different levels of maturity. This repository will not imply traction, revenue, product-market fit or investment readiness where those have not been evidenced.
+The ventures are at different stages. I will not imply revenue, traction, product-market fit or investment readiness where the evidence does not exist.
 
-The investor-relevant claim is narrower:
+The claim I am comfortable making is narrower:
 
-> I have repeatedly converted operating insight into structured propositions, workflows and product concepts, and I understand that the quality of the evidence matters more than the attractiveness of the pitch.
+> I have repeatedly turned operating insight into structured propositions, workflows and product concepts. I have also learned that good positioning is not a substitute for evidence.
 
-## Current sequencing
+## What comes next
 
-The operator portfolio comes first. Detailed venture retrospectives follow only after the core evidence demonstrates the professional judgement from which the ventures emerged.
+The operator work remains the foundation. Venture retrospectives are useful only when they show what I actually built, how the thinking changed and what is still unresolved.
 
-See [ROADMAP.md](ROADMAP.md) and [SOURCE-PROVENANCE.md](SOURCE-PROVENANCE.md).
+See [Building Lynr](case-studies/ventures/building-lynr.md), [ROADMAP.md](ROADMAP.md) and [SOURCE-PROVENANCE.md](SOURCE-PROVENANCE.md).

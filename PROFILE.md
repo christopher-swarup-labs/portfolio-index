@@ -10,15 +10,11 @@ Leads were arriving, but teams did not agree what they meant. Marketing reported
 
 I have led Marketing Operations and Revenue Systems work across enterprise technology, global infrastructure, high-growth SaaS, post-merger environments and AI-native software. That has included direct and matrix leadership, martech ownership, operating-model design, platform change, analytics and executive partnership.
 
-Over the last eight months, I have also built [ThinkBud](case-studies/ventures/building-thinkbud.md), an invite-only learning-intelligence platform. That work has taken me beyond operating-model design into product management, adaptive-learning logic, data architecture, AI-assisted software development, security, billing, testing and controlled release.
-
 ## The principle I keep coming back to
 
 > Build the operating foundation first. Add automation and AI only when the underlying decisions, ownership, process and data can be trusted.
 
 I am not cautious about AI because I doubt the technology. I am cautious about sequence. AI applied to contested definitions and unreliable operational data does not produce better decisions. It produces confident, well-formatted answers that are harder to challenge.
-
-ThinkBud reinforced that belief. AI helped me build further and faster, but it also increased the need for clear architecture, authoritative data, testing and stopping rules.
 
 ## My career so far
 
@@ -54,7 +50,6 @@ I have owned or materially led work across:
 - Team design, intake, prioritisation and service models
 - Enablement, adoption and change governance
 - AI-assisted operating workflows
-- Product development and controlled release through ThinkBud
 
 ## The problems I am best suited to solve
 
@@ -63,24 +58,17 @@ I have owned or materially led work across:
 - A martech estate with overlapping tools, unclear system authority and unowned integrations
 - A Marketing Operations function that needs to move from service desk to commercial infrastructure
 - An organisation preparing to apply automation or AI to an operating foundation that is not ready
-- A product or venture that needs someone to connect the user problem, operating model, data, technology and route to release
+- A transformation that needs someone who can move from executive framing into implementation detail
 
-## What ThinkBud adds to the picture
+## Founder builds alongside my core work
 
-ThinkBud is important because it demonstrates that I can do more than advise on complex systems.
+I have also built ventures that extend, rather than replace, my main career expertise.
 
-I have had to make and live with decisions across:
+ThinkBud began as something I wanted to create for my own children. Over time, it developed into a broader learning-intelligence platform for UK 11+ preparation. Building it required me to apply the same operating principles I use professionally—clear authority, structured data, explicit decision rules, testing, governance and controlled change—to product design, learning logic and software delivery. See [Building ThinkBud](case-studies/ventures/building-thinkbud.md) or visit [www.thinkbud.co.uk](https://www.thinkbud.co.uk/).
 
-- Product scope and sequencing
-- Parent and learner experience
-- Adaptive practice and spaced repetition
-- Event-sourced learning data
-- Content and skill taxonomy
-- Child safety and access control
-- Billing and entitlement logic
-- Automated testing and release governance
+LYNR applies my Revenue and GTM experience to a senior execution model built around diagnosis, clear scope, one accountable lead and a clean handback. See [Building LYNR](case-studies/ventures/building-lynr.md) or visit [getlynr.com](https://getlynr.com/).
 
-I built it hands-on with AI-assisted development tools, while retaining responsibility for what the system should do, how it should be structured and when it was safe enough to move forward.
+These builds demonstrate that I can transfer my core operating judgement into new contexts. They are not a substitute for the depth of my Marketing Operations and Revenue Operations career.
 
 ## Where I am a weaker fit
 
@@ -92,7 +80,6 @@ My experience includes EMEA and global operating scope, cross-regional stakehold
 
 ## Selected evidence
 
-- [Building ThinkBud](case-studies/ventures/building-thinkbud.md)
 - [Revenue Operating System case](case-studies/flagship/revenue-operating-system.md)
 - [Unified Lifecycle Governance case](case-studies/flagship/unified-lifecycle-governance.md)
 - [Campaign Operations OS case](case-studies/flagship/campaign-operations-os.md)
@@ -100,7 +87,9 @@ My experience includes EMEA and global operating scope, cross-regional stakehold
 - [Modern MOPS Team Operating Model](case-studies/leadership/modern-mops-team-operating-model.md)
 - [GTM Command Center](skills/command-center/README.md)
 - [Runnable synthetic tools](tools/README.md)
+- [Building ThinkBud](case-studies/ventures/building-thinkbud.md)
+- [Building LYNR](case-studies/ventures/building-lynr.md)
 
 ## Evidence boundary
 
-This profile uses approved professional and owned-venture context. The ThinkBud source repository and production environment remain separate from this portfolio. The publication controls are defined in [CONFIDENTIALITY.md](CONFIDENTIALITY.md) and [SOURCE-PROVENANCE.md](SOURCE-PROVENANCE.md).
+This profile uses approved professional and owned-venture context. Venture source repositories and production environments remain separate from this portfolio. The publication controls are defined in [CONFIDENTIALITY.md](CONFIDENTIALITY.md) and [SOURCE-PROVENANCE.md](SOURCE-PROVENANCE.md).

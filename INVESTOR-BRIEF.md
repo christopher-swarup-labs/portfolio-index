@@ -8,11 +8,13 @@ That pattern first appeared in Revenue and Marketing Operations. ThinkBud forced
 
 The question I am exploring is whether that operating judgement can become more repeatable through diagnostics, governed workflows, products and software-assisted systems.
 
+**Live ventures:** [ThinkBud](https://www.thinkbud.co.uk/) · [LYNR](https://getlynr.com/)
+
 ## What exists today
 
 ### ThinkBud: a real product build
 
-[ThinkBud](case-studies/ventures/building-thinkbud.md) is the biggest build I have completed so far.
+The [ThinkBud case](case-studies/ventures/building-thinkbud.md) explains the build in detail. The live product site is [www.thinkbud.co.uk](https://www.thinkbud.co.uk/).
 
 Over nearly eight months, I took it from an idea to a live, invite-only learning-intelligence platform. The build spans:
 
@@ -64,9 +66,11 @@ I built two small tools using fictional data:
 
 They are not products. They show that parts of the operating judgement can be expressed as explicit rules, tested and reviewed rather than remaining as advice in a document.
 
-### Lynr: a service and delivery model
+### LYNR: a service and delivery model
 
-The [Building Lynr retrospective](case-studies/ventures/building-lynr.md) shows how I approached:
+The [Building LYNR retrospective](case-studies/ventures/building-lynr.md) explains the model and the live site is [getlynr.com](https://getlynr.com/).
+
+It shows how I approached:
 
 - Market-problem selection
 - Positioning
@@ -77,7 +81,7 @@ The [Building Lynr retrospective](case-studies/ventures/building-lynr.md) shows 
 - Handback and anti-dependency
 - Iteration through critique
 
-ThinkBud and Lynr demonstrate two different forms of venture execution: one as a software product, the other as a senior delivery model.
+ThinkBud and LYNR demonstrate two different forms of venture execution: one as a software product, the other as a senior delivery model.
 
 ## What I believe is reusable
 
@@ -130,7 +134,7 @@ Role-based enablement tied to live behaviour and decisions rather than standalon
 - I have repeated operating experience across Marketing Operations, Revenue Operations and GTM systems.
 - I can turn that experience into clear frameworks and operating rules.
 - I can express parts of the logic as small, testable tools.
-- I have built Lynr around senior execution, accountability and handback.
+- I have built LYNR around senior execution, accountability and handback.
 - I am clear about the difference between an implemented build, a reconstructed framework, a synthetic demonstration and an unproven idea.
 
 ## What is not proven yet

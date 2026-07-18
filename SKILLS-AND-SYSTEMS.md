@@ -1,11 +1,12 @@
 # Skills and Systems
 
-I use this section to separate four things that are easy to blur together:
+I use this section to separate five things that are easy to blur together:
 
 1. Operating frameworks I have built from experience
 2. AI-assisted architectures I have designed
-3. Historical skill packages that still need source verification
-4. Established third-party methods that I have applied but do not claim as original IP
+3. A real AI-assisted product build through ThinkBud
+4. Historical skill packages that still need source verification
+5. Established third-party methods that I have applied but do not claim as original IP
 
 That distinction matters. A serious reviewer should be able to see what is built, what is reconstructed, what is synthetic and what is still an idea.
 
@@ -13,6 +14,7 @@ That distinction matters. A serious reviewer should be able to see what is built
 
 | Asset | Current status |
 |---|---|
+| [Building ThinkBud](case-studies/ventures/building-thinkbud.md) | Working controlled-beta product built over nearly eight months using AI-assisted development |
 | [GTM Command Center](skills/command-center/README.md) | Portfolio-safe architecture reconstruction |
 | Fourteen named specialist areas | Architecture mapped; historical implementation still being verified |
 | [CRM Data Quality Auditor](skills/crm-data-quality-auditor/README.md) | Draft specification used as a format exemplar |
@@ -20,6 +22,35 @@ That distinction matters. A serious reviewer should be able to see what is built
 | [Lifecycle Transition Validator](tools/lifecycle-validator/README.md) | Runnable synthetic demonstration with tests |
 | Five operating frameworks | Complete and company-neutral |
 | Historical Claude-audited skill packages | Candidate evidence pending approved source review |
+
+## ThinkBud: AI-assisted product and engineering execution
+
+ThinkBud is the strongest practical evidence of how I use AI.
+
+I used AI-assisted development tools across product exploration, code generation, debugging, architecture options, documentation and test creation. The important part is what I did not delegate to the model:
+
+- The product problem and user promise
+- The parent and learner boundaries
+- The learning-event and learner-state model
+- The adaptive and spaced-review logic
+- The authority of server-side grading
+- The security and release baseline
+- The decision to keep the product invite-only until the system was stable enough
+
+The build required me to work across:
+
+- React and TypeScript product development
+- Supabase and Postgres data design
+- Server-side functions and access controls
+- Adaptive question selection
+- Spaced repetition
+- Event-sourced learning records
+- Subscription and entitlement logic
+- Automated unit and end-to-end testing
+- CI and release governance
+- Product documentation and system-truth records
+
+I do not present this as proof that I am a traditional software engineer with decades of coding experience. I present it as proof that I can use AI to extend my technical execution, learn the necessary detail, make coherent architecture decisions and carry a product through to controlled beta.
 
 ## Why I built the Command Center model
 
@@ -104,10 +135,11 @@ I am trained in several of these methods and have adapted them in practice. I do
 
 Where there is original value, it needs to be evidenced in the way I have combined the methods, sequenced the diagnosis, classified evidence and kept human accountability visible.
 
-## Core operating systems I can reconstruct safely
+## Core systems I can show safely
 
 The wider portfolio now covers:
 
+- ThinkBud learning-intelligence platform
 - Revenue Operating System
 - Unified Lifecycle Governance
 - Lead status and disposition
@@ -130,13 +162,13 @@ The wider portfolio now covers:
 - Platform migration and consolidation
 - AI-ready operating foundations
 
-These are not all claimed as proprietary products. Some are reconstructed patterns from implemented work; some are portfolio frameworks; some are future tools.
+These are not all claimed as proprietary products. ThinkBud is an owned product build. Some other assets are reconstructed patterns from implemented work, some are portfolio frameworks and some are future tools.
 
 ## The standard I apply
 
-Every published skill should explain:
+Every published skill or system should explain:
 
-- The business problem
+- The business or user problem
 - When to use it and when not to
 - Required inputs
 - Decision rules
@@ -144,7 +176,7 @@ Every published skill should explain:
 - Human accountability
 - Evidence and uncertainty
 - Failure modes
-- A synthetic example
+- A safe example
 - Limitations
 - Provenance and evidence status
 

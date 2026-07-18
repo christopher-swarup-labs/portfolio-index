@@ -1,16 +1,18 @@
-# Investor and Adviser Decision Brief
+# Investor and Adviser Brief
 
-## The thesis
+## The idea I am testing
 
-Christopher's founder potential comes from a long operating apprenticeship: repeated exposure to the same commercial failure patterns across different scales, systems and organisations.
+My founder journey comes from repeated exposure to the same commercial problems across different organisations, stages and systems.
 
-The opportunity is to turn that pattern recognition into reusable diagnostics, governed workflows, senior execution models and eventually software-assisted products.
+The patterns change in detail, but the underlying issues are often the same: unclear ownership, weak operating rules, fragmented tools, unreliable data and decisions that depend too heavily on individual memory.
+
+The question I am exploring is whether that operating judgement can become more repeatable through diagnostics, governed workflows, senior delivery models and, eventually, software-assisted products.
 
 ## What exists today
 
-### Operator frameworks
+### Operating frameworks
 
-Five company-neutral operating models covering:
+I have built five company-neutral frameworks covering:
 
 - Revenue operating systems
 - Lifecycle governance
@@ -18,114 +20,98 @@ Five company-neutral operating models covering:
 - Pipeline truth
 - Modern Marketing Operations
 
-These make the decision logic, ownership and governance explicit rather than hiding them inside a consulting engagement.
+The aim is to make the important decisions, ownership and governance visible rather than keeping them trapped inside a consulting engagement.
 
-### AI-assisted architecture
+### AI-assisted operating architecture
 
-The [GTM Command Center](skills/command-center/README.md) is an orchestration model that:
+The [GTM Command Center](skills/command-center/README.md) is the clearest expression of how I think about AI in Operations.
 
-- Classifies the operating decision
-- Separates the symptom from likely root cause
-- Checks whether evidence is sufficient
-- Routes work to a specialist analysis
-- Preserves assumptions, conflicts and uncertainty
-- Requires a named human decision or escalation
+It is designed to:
 
-Historical individual modules still require source verification. The architecture is represented honestly rather than expanded into a generated product catalogue.
+- Clarify the decision being made
+- Separate the visible symptom from the likely root cause
+- Check whether the available evidence is sufficient
+- Route the work to the right specialist analysis
+- Keep assumptions, conflicts and uncertainty visible
+- Require a named human decision or escalation
+
+I have not turned every historical skill name into a polished product page. Where the underlying source is not verified, I say so. I would rather show a smaller amount of credible work than manufacture a large AI catalogue.
 
 ### Runnable proof
 
-Two small synthetic tools demonstrate that the operating rules can be made inspectable and testable:
+I built two small tools using fictional data:
 
 - [Pipeline Quality Scanner](tools/pipeline-quality-scanner/README.md)
 - [Lifecycle Transition Validator](tools/lifecycle-validator/README.md)
 
-They are not products. They are proof that the judgement can be expressed as explicit logic rather than only advice.
+They are not products. They show that parts of the operating judgement can be expressed as explicit rules, tested and reviewed rather than remaining as advice in a document.
 
 ### Venture execution
 
-The [Entrepreneur Journey](ENTREPRENEUR-JOURNEY.md) explains the progression from operator experience to venture experimentation.
+The [Entrepreneur Journey](ENTREPRENEUR-JOURNEY.md) explains how my operator work developed into venture and product thinking.
 
-The [Building Lynr retrospective](case-studies/ventures/building-lynr.md) demonstrates:
+The [Building Lynr retrospective](case-studies/ventures/building-lynr.md) shows how I approached:
 
 - Market-problem selection
 - Positioning
 - Offer architecture
 - Delivery governance
 - Definition of Done
-- Partner and accountability model
-- Handback and anti-dependency design
+- Partner accountability
+- Handback and anti-dependency
 - Iteration through critique
 
-## The reusable asset
+## What I believe is reusable
 
-The durable asset is not a fixed CRM configuration or a prompt.
+The durable asset is not a particular CRM setup, a list of prompts or access to a model.
 
 It is the combination of:
 
-1. Symptom-to-root-cause diagnosis
-2. Explicit operating decisions
-3. Evidence requirements
-4. Human-accountability boundaries
-5. Reusable frameworks
-6. Synthetic validation tools
-7. Senior implementation judgement
+1. Recognising the operating pattern behind a visible symptom
+2. Making the decision and ownership explicit
+3. Defining the evidence needed before acting
+4. Keeping human accountability in place
+5. Reusing frameworks without pretending every company is the same
+6. Testing parts of the logic through synthetic tools
+7. Applying senior judgement during implementation
 
-## Possible productisation paths
+## Possible product paths
 
-These are hypotheses, not claims of validated demand:
+These are hypotheses, not claims of validated demand.
 
 ### Diagnostic products
 
 Structured assessments for lifecycle, pipeline truth, martech, Campaign Operations or AI readiness.
 
-### Software-assisted operating records
+### Operating records
 
-Tools that turn definitions, ownership, exceptions and review dates into one current instruction set for people, systems and AI.
+Tools that keep purpose, ownership, rules, exceptions and review dates in one current instruction set for people, systems and AI.
 
 ### Governed decision support
 
-Evidence-aware specialist workflows that pressure-test commercial decisions without replacing accountable leaders.
+Specialist workflows that pressure-test commercial decisions without quietly replacing the accountable leader.
 
-### Senior execution system
+### Senior execution model
 
-A services model where reusable diagnostics and operating standards increase quality and speed while senior operators remain accountable.
+A service model where reusable diagnostics and standards improve speed and consistency, while a senior operator remains accountable for the result and handback.
 
 ### Training in the flow of work
 
-Role-based enablement connected to live operating behaviour rather than standalone courseware.
+Role-based enablement tied to live behaviour and decisions rather than standalone courseware.
 
-## What is proven
+## What is proven today
 
-- Deep and repeated operator experience
-- Ability to structure complex commercial problems
-- Original portfolio frameworks
-- Inspectable synthetic tools
-- Clear AI-governance philosophy
-- Ability to design an offer and delivery system
-- Willingness to state evidence limitations
+- I have repeated operating experience across Marketing Operations, Revenue Operations and GTM systems.
+- I can turn that experience into clear frameworks and operating rules.
+- I can express parts of the logic as small, testable tools.
+- I have built a venture model around senior execution, accountability and handback.
+- I am clear about the difference between an implemented pattern, a reconstructed framework, a synthetic demonstration and an unproven idea.
 
-## What remains unproven
+## What is not proven yet
 
-- Repeatable market demand for each productisation path
-- Sustainable acquisition economics
-- The boundary between services and software
-- Delivery capacity at scale
-- Defensibility beyond founder judgement
-- The extent to which specialist historical skills can be verified and transferred
+- Repeatable demand for every productisation path
+- Whether the strongest model is services, software or a hybrid
+- How much specialist judgement can be standardised without losing quality
+- Sustainable venture economics at scale
 
-## Why the evidence posture matters
-
-The repository does not inflate traction, claim product-market fit or present generated specifications as historical products.
-
-That restraint is part of the investment case: Christopher understands that a commercially attractive story is not a substitute for evidence.
-
-## Review path
-
-1. [Operator Thesis](OPERATOR-THESIS.md)
-2. [Entrepreneur Journey](ENTREPRENEUR-JOURNEY.md)
-3. [Building Lynr](case-studies/ventures/building-lynr.md)
-4. [GTM Command Center](skills/command-center/README.md)
-5. [Operating frameworks](frameworks/README.md)
-6. [Runnable proof](tools/README.md)
-7. [Claim Register](evidence/claim-register.md)
+Those are the next questions to answer. I do not present them as solved.

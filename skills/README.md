@@ -1,73 +1,83 @@
 # Skills Library
 
-Structured operator tooling — diagnostic logic, evidence standards and accountability boundaries encoded so that judgement is applied consistently rather than re-derived each time.
+This library is where I turn operating judgement into clear, repeatable logic.
 
----
+These are not prompt collections. Each skill should make the decision sequence visible: what evidence is needed, how facts are separated from assumptions, where a human must decide and what should never be automated.
 
-## What these are, and what they are not
+## What I am trying to prove
 
-These are not prompts. A prompt produces an answer. These encode a **decision sequence**: what evidence is required before a conclusion is permitted, how fact is separated from inference, where a human must approve, and what must never be automated.
+Every company is different, so I do not believe one fixed answer travels well. What can travel is the diagnostic sequence: the questions that expose the real fault, the evidence required before acting and the controls that stop a recommendation becoming an unaccountable decision.
 
-The reusable asset is the diagnostic sequence, not the output. Every organisation's GTM system is idiosyncratic; what transfers between them is the ability to locate the real fault quickly. That is the thesis these skills exist to test — see `../OPERATOR-THESIS.md`, point 7.
+That is the asset I am testing here.
 
-## Design standards
+## Standards I apply
 
-Every skill in this library:
+Every skill in this library should:
 
-- takes **structured, portfolio-safe inputs** — schema, definitions and aggregate profile, never customer or prospect records
-- **separates fact, assumption, inference, missing evidence and conflicting evidence** in its output
-- names a **human owner** for every decision, and states what cannot be automated
-- **escalates conflicts** rather than silently selecting a winner
-- states its **limitations and failure modes**, including automation bias
-- uses **fully synthetic examples** — fictional companies, fictional roles, invented data
+- Take structured, portfolio-safe inputs
+- Use fictional examples and synthetic data
+- Separate facts, assumptions, inferences, missing evidence and conflicts
+- Name the human owner of the decision
+- Escalate unresolved ownership or definition problems
+- State what it cannot safely automate
+- Explain its failure modes and limitations
+- Produce an output that can be inspected, challenged and improved
 
-No employer configuration, field architecture, prompt library or internal logic is reproduced anywhere in this library.
+I do not reproduce company configurations, private schemas, internal prompt libraries or live data.
 
 ## Architecture
 
 ```mermaid
 flowchart TD
-    A[Request] --> B[Orchestrator: classify symptom]
-    B --> C{Root cause hypothesis}
-    C --> D[Route to specialist skill]
-    D --> E[Specialist: structured inputs]
-    E --> F[Decision logic applied]
-    F --> G[Output: findings labelled by evidence type]
-    G --> H{Conflicts or missing evidence?}
-    H -->|Yes| I[Escalate — named owner decides]
-    H -->|No| J[Recommendation + evidence log]
-    J --> K[Human approval gate]
-    K --> L[Action owned by named accountable person]
+    A[Operating request] --> B[Clarify the decision]
+    B --> C[Separate symptom from likely cause]
+    C --> D[Check the evidence]
+    D --> E{Enough evidence?}
+    E -->|No| F[Ask for evidence or escalate]
+    E -->|Yes| G[Route to specialist analysis]
+    G --> H[Return findings, assumptions and risks]
+    H --> I[Named human decision]
 ```
 
-The orchestrator classifies the presenting symptom against likely root cause before selecting a skill. This ordering is deliberate: pattern-matching on topic routes to the wrong tool, because the topic a stakeholder raises is usually the symptom, not the fault.
+The order is deliberate. A stakeholder usually presents the topic, not the root cause. Routing directly from topic to answer creates polished but shallow output.
 
----
+## What is available now
 
-## Catalogue
+### [GTM Command Center](command-center/README.md)
 
-### Reported by Claude audit — source verification pending
+A reconstructed orchestration model showing how I classify the decision, check evidence, route analysis and preserve human accountability.
 
-| Skill | Role | Evidence classification |
-|---|---|---|
-| **GTM Revenue Architect** | Reported orchestration layer with strategic / execution routing, frameworks, workflows and a symptom-to-root-cause diagnostic table | Candidate original operator framework over applied third-party methodology; source verification required |
-| **Revenue Execution and Enablement Engine** | Reported deal qualification and coaching system using evidence-first scoring | Candidate original operating discipline applied to MEDDICC / SPICED; source verification required |
-| **Clay GTM Skill Pack** | Reported enrichment and data-pipeline design with specialist modules | Applied platform expertise; source verification required |
+### [CRM Data Quality Auditor](crm-data-quality-auditor/README.md)
 
-*B2B Demand & Revenue Architect* was also reported as inspected by Claude. It substantially overlaps GTM Revenue Architect and appears to be a superseded generation; one should be represented, not both.
+A detailed draft specification used to show the standard expected for individual skills. It is not presented as verified historical tooling.
 
-### Architecture evidenced — individual artefacts pending
+## Historical skill material still under review
 
-Fourteen specialist skills are named in the portfolio architecture: Lifecycle Control Tower, Reporting Truth Validator, Event Pipeline Converter, Seller Behavior Auditor, CRM Data Quality Auditor, Interaction Signal Designer, MAP Architecture Designer, Marketing SLA Engine, Email Deliverability Auditor, Channel Signal Auditor, Campaign Blueprint, MOPS Operating System, Decision Validator and MOPS Leader.
+A previous Claude audit identified several larger skill packages, including:
 
-The architecture is evidenced at a high level, but individual source artefacts have not been imported or independently verified in this repository. They are not published here as built tooling. Each will be specified in full once Christopher confirms which exist; design-intent modules will be labelled **Concept under development** and held in `../ROADMAP.md`.
+- GTM Revenue Architect
+- Revenue Execution and Enablement Engine
+- B2B Demand and Revenue Architect
+- Clay GTM Skill Pack
 
-One fully worked specification — [`crm-data-quality-auditor/`](crm-data-quality-auditor/) — is included as the **format exemplar** and is explicitly labelled as a draft pending verification.
+I have not presented these as finished assets because the approved source material is not yet in this repository. Two of the revenue-architecture packages may also be different generations of the same work.
 
----
+The correct next step is verification, not generating more pages from the names.
 
-## Provenance note
+## Named specialist architecture
 
-Several constructs referenced inside the reported skills — including the Demand Unit Waterfall, Programme Pendulum, Achievability Index, Cooperation Index and Demand Management Council — are **SiriusDecisions / Forrester methodology**, applied by a certified practitioner. They are not original creations and are not presented as such.
+The wider Command Center architecture includes specialist areas for lifecycle, reporting truth, event conversion, seller behaviour, CRM data quality, interaction signals, marketing automation, SLAs, deliverability, channel signals, campaign design, MOPS operating models, decision validation and leadership prioritisation.
 
-Originality may be claimed only for independently evidenced orchestration, diagnostic sequencing, evidence classification, operating adaptation and human-accountability boundaries. Full discussion is in [`../SKILLS-AND-SYSTEMS.md`](../SKILLS-AND-SYSTEMS.md).
+The architecture is represented. The historical implementation status of each specialist is still being checked.
+
+## Third-party methodology
+
+Some methods referenced in the historical skills come from established Forrester, SiriusDecisions, MEDDICC and SPICED frameworks.
+
+I use and adapt those methods where relevant, but I do not claim the underlying methodology as my own. The original contribution, where evidenced, sits in the orchestration, diagnostic sequence, evidence rules and accountability boundaries.
+
+## The standard going forward
+
+A smaller library of credible, well-specified skills is more useful than a large collection of generated descriptions.
+
+See [Skills and Systems](../SKILLS-AND-SYSTEMS.md) and the [Verification Backlog](../evidence/verification-backlog.md).

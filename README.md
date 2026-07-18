@@ -2,13 +2,15 @@
 
 **Marketing Operations · Revenue Operations · GTM systems · Applied AI · Venture building**
 
-I design and build the operating systems behind predictable B2B revenue. That means connecting commercial strategy, ownership, process, platforms, data and reporting so teams can execute with less ambiguity.
+Thanks for taking a look.
 
-I created this private repository to show how I think and how I work. It is not a CV archive or a collection of old company documents. The useful proof is in the decisions, trade-offs, operating models and practical tools.
+I built this repository because a CV can tell you where I have worked, but it cannot really show you how I think through a difficult operating problem, the decisions I make, the trade-offs I consider or how far I can take the work into implementation.
 
-## Start here
+The simplest way to describe what I do is this: I help B2B organisations make their revenue operations more understandable, more dependable and easier to run. That usually means connecting commercial strategy, ownership, process, platforms, data and reporting so teams are no longer working from different versions of the truth.
 
-| You are reviewing me as a… | Recommended path | What it should help you judge |
+## Start with the question you are trying to answer
+
+| You are reviewing me as a… | Start here | What it should help you judge |
 |---|---|---|
 | **Potential employer** | [Employer Brief](EMPLOYER-BRIEF.md) → [Professional Profile](PROFILE.md) → [Revenue Operating System case](case-studies/flagship/revenue-operating-system.md) | Can I diagnose, design and lead complex GTM operating change? |
 | **CMO or Marketing leader** | [Campaign Operations case](case-studies/flagship/campaign-operations-os.md) → [MOPS operating model](frameworks/mops-operating-model.md) → [Pipeline case](case-studies/flagship/pipeline-truth-and-attribution.md) | Can I turn Marketing Operations into commercially accountable infrastructure? |
@@ -18,21 +20,21 @@ I created this private repository to show how I think and how I work. It is not 
 
 The longer review paths are in [REVIEWER-GUIDE.md](REVIEWER-GUIDE.md).
 
-## The work I am strongest at
+## The situations where I am most useful
 
-I am usually brought into situations where a GTM organisation has outgrown the way it was wired:
+I am usually brought into environments where the business has grown faster than the way it operates:
 
 - Marketing and Sales no longer agree on what the numbers mean
 - Lifecycle definitions differ by team, region or system
 - Handoffs depend on individual judgement rather than agreed rules
 - CRM and martech logic have become harder to explain than the process itself
 - Campaign delivery is busy but difficult to prioritise, measure or improve
-- Reporting is technically available but not trusted
+- Reporting exists, but leadership does not fully trust it
 - AI or automation is being added before the operating foundation is ready
 
-My work is to make the important decisions explicit, put ownership around them, translate them into systems and data, and create a governance model that can survive beyond the initial build.
+My job is to make the important decisions explicit, put ownership around them, translate them into systems and data, and build a governance model that can continue after the initial change.
 
-## Completed proof
+## The proof I would look at first
 
 | Evidence | What you can inspect | Status |
 |---|---|---|
@@ -45,9 +47,8 @@ My work is to make the important decisions explicit, put ownership around them, 
 | [GTM Command Center](skills/command-center/README.md) | How I structure AI-assisted analysis without removing human accountability | Reconstructed architecture |
 | [Runnable tools](tools/README.md) | Two small synthetic tools with explicit rules and unit tests | Complete |
 | [Building Lynr](case-studies/ventures/building-lynr.md) | How I turned operator experience into a scoped service and delivery model | Complete retrospective |
-| [Entrepreneur Journey](ENTREPRENEUR-JOURNEY.md) | How my operating work has developed into venture and product thinking | Complete overview |
 
-## My operating principle
+## The principle behind the work
 
 > Build the operating foundation first. Add automation and AI only when the underlying decisions, ownership and data can be trusted.
 
@@ -62,7 +63,7 @@ flowchart TB
     A --> B --> C --> D --> E
 ```
 
-The order matters. AI does not fix unclear ownership or contested definitions. It simply produces faster output from a weak foundation.
+The order matters. AI does not fix unclear ownership, contested definitions or poor data. It simply produces faster output from a weak foundation.
 
 ## Case studies
 
@@ -83,7 +84,7 @@ The order matters. AI does not fix unclear ownership or contested definitions. I
 
 ## AI, skills and runnable proof
 
-I do not treat AI as a separate layer of theatre. I use it where the decision, evidence and human accountability are clear.
+I do not treat AI as a separate layer of theatre. I use it where the decision, evidence and accountable owner are clear.
 
 - [Skills and Systems](SKILLS-AND-SYSTEMS.md)
 - [Skills Library](skills/README.md)
@@ -94,35 +95,15 @@ I do not treat AI as a separate layer of theatre. I use it where the decision, e
 
 The two runnable tools use fictional data and explicit rules. They do not connect to production systems or make business decisions automatically.
 
-## Professional and founder context
+## A final note on evidence
 
-- [Employer Brief](EMPLOYER-BRIEF.md)
-- [Investor Brief](INVESTOR-BRIEF.md)
-- [Professional Profile](PROFILE.md)
-- [Operator Thesis](OPERATOR-THESIS.md)
-- [Entrepreneur Journey](ENTREPRENEUR-JOURNEY.md)
-
-## How I handle evidence
-
-I have deliberately avoided filling this repository with unsupported metrics or polished claims that cannot be checked.
-
-Each major asset is labelled as one of the following:
-
-- **Composite implemented experience — independently reconstructed**
-- **Original portfolio framework**
-- **Portfolio-safe skill specification**
-- **Synthetic demonstration**
-- **Independent strategic exercise**
-- **Venture retrospective**
-- **Concept under development**
+I have deliberately avoided filling this repository with unsupported metrics or polished claims that cannot be checked. Where something is reconstructed, synthetic, still being tested or not yet verified, I say so.
 
 Public employer names, role titles and dates appear only in [PROFILE.md](PROFILE.md). The operating work is company-neutral and rebuilt from scratch.
 
-## Privacy and company boundary
-
 This repository does not contain real customer or employee data, production exports, internal screenshots, copied employer documents, private system designs, confidential metrics, credentials or personal information.
 
-All examples use fictional organisations and synthetic records. The controls are documented in:
+The controls are documented in:
 
 - [Voice and Style Standard](VOICE-AND-STYLE.md)
 - [Confidentiality Policy](CONFIDENTIALITY.md)

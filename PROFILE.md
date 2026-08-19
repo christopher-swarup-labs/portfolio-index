@@ -22,15 +22,22 @@ Only public professional facts are named here. The operating examples elsewhere 
 
 | Period | Role | Organisation |
 |---|---|---|
-| 2026 — left June 2026 | Head of Global Marketing Operations | DevRev |
-| 2023–2026 | Senior Director, Global Marketing Operations & Analytics | Contentsquare |
-| 2022–2023 | Director, Marketing & Outbound Sales Operations | Pleo |
-| 2019–2022 | Director, Marketing Operations, Strategy & Analytics EMEA | Nutanix |
+| Jan 2026–Jun 2026 (role ended) | Head of Global Marketing Operations | DevRev |
+| May 2023–Dec 2025 | Senior Director, Global Marketing Operations & Analytics | Contentsquare |
+| Jan 2022–Dec 2022 | Director, Marketing Operations & Outbound Sales Operations | Pleo |
+| Oct 2019–Jan 2022 | Director, Marketing Operations, Strategy & Analytics EMEA | Nutanix |
 | 2016–2019 | Senior Global Marketing Operations Manager, Demand Centre Systems Lead | Equinix |
 | 2015–2016 | Head of Marketing Operations | FE fundinfo |
 | 2013–2015 | Global Demand Generation / Operations Manager | Finastra |
 
 My earlier career included digital operations, technical and inside sales, and commercial management. That grounding matters because the operating models I design have to work under real revenue pressure, not only in a presentation.
+
+## Some of the measurable outcomes
+
+- **Contentsquare** — consolidated the martech stack from 100 to 50 tools (–18% cost, +30% execution speed), lifted forecast accuracy +30% and reporting reliability +40% through a unified Snowflake + Tableau layer, cut SDR response lag –40% (MQL-to-SDR velocity +35%), removed $200K of annual agency dependency, lifted lifecycle engagement +22%, and scaled a Global MOPS COE supporting 120+ marketers across EMEA, AMER and APAC on a ~$1.8M MOPS and technology budget.
+- **Pleo** — built the company's first lead-to-deal operating model from scratch: +15% QoQ pipeline, +35% MQL-to-SQL, +20% free-to-paid conversion, SDR response time under 4 hours, on a ~$1.3M operations and technology budget with 3 direct reports.
+- **Nutanix** — drove a single-touch to multi-touch lead engine transformation across 14 EMEA countries: +156% MQL, +32% inquiries, +19% CTR, +120% downloads, managing an $18M annual marketing budget with a 4-person direct team.
+- **Equinix** — ABM and event automation rollout: +15% SDR productivity, +13% SQL, +10% programme ROI, on a $1.6M systems budget with 2 direct and 8 matrix reports.
 
 **Education.** MBA in Business Administration and Marketing. BSc in Applied Business Computing.
 

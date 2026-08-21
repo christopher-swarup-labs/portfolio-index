@@ -2,7 +2,7 @@
 
 ## A quick introduction
 
-I am a UK-based Marketing Operations, Revenue Operations and GTM systems leader with more than 15 years of experience.
+I am a UK-based Marketing Operations, Revenue Operations and GTM systems leader with more than 15 years of experience. My most recent role was **Head of Global Marketing Operations at DevRev (Jan–Jun 2026)**. The role has ended; I am currently between roles and available immediately.
 
 The easiest way to explain my career is that I have repeatedly worked in organisations that had outgrown the way they operated.
 
@@ -14,7 +14,7 @@ I have led Marketing Operations and Revenue Systems work across enterprise techn
 
 > Build the operating foundation first. Add automation and AI only when the underlying decisions, ownership, process and data can be trusted.
 
-I am not cautious about AI because I doubt the technology. I am cautious about sequence. AI applied to contested definitions and unreliable operational data does not produce better decisions. It produces confident, well-formatted answers that are harder to challenge.
+I am not cautious about AI because I doubt the technology. I am cautious about sequence. AI applied to contested definitions and unreliable operational data does not produce better decisions. It produces confident answers from an unreliable foundation.
 
 ## My career so far
 
@@ -22,7 +22,7 @@ Only public professional facts are named here. The operating examples elsewhere 
 
 | Period | Role | Organisation |
 |---|---|---|
-| Jan 2026–Jun 2026 (role ended) | Head of Global Marketing Operations | DevRev |
+| Jan 2026–Jun 2026 | Head of Global Marketing Operations | DevRev |
 | May 2023–Dec 2025 | Senior Director, Global Marketing Operations & Analytics | Contentsquare |
 | Jan 2022–Dec 2022 | Director, Marketing Operations & Outbound Sales Operations | Pleo |
 | Oct 2019–Jan 2022 | Director, Marketing Operations, Strategy & Analytics EMEA | Nutanix |
@@ -67,15 +67,13 @@ I have owned or materially led work across:
 - An organisation preparing to apply automation or AI to an operating foundation that is not ready
 - A transformation that needs someone who can move from executive framing into implementation detail
 
-## Founder builds alongside my core work
+## Independent founder builds
 
-I have also built ventures that extend, rather than replace, my main career expertise.
+I have also built ventures that extend, rather than replace, my main career expertise. They are **not employers and are separate from my professional employment history**.
 
-ThinkBud began as something I wanted to create for my own children. Over time, it developed into a broader learning-intelligence platform for UK 11+ preparation. Building it required me to apply the same operating principles I use professionally—clear authority, structured data, explicit decision rules, testing, governance and controlled change—to product design, learning logic and software delivery. See [Building ThinkBud](case-studies/ventures/building-thinkbud.md) or visit [www.thinkbud.co.uk](https://www.thinkbud.co.uk/).
+ThinkBud began as something I wanted to create for my own children. Over time, it developed into a broader learning-intelligence platform for UK 11+ preparation. Building it required me to apply the same operating principles I use professionally — clear authority, structured data, explicit decision rules, testing, governance and controlled change — to product design and software delivery. See [Building ThinkBud](case-studies/ventures/building-thinkbud.md) or visit [www.thinkbud.co.uk](https://www.thinkbud.co.uk/).
 
 LYNR applies my Revenue and GTM experience to a senior execution model built around diagnosis, clear scope, one accountable lead and a clean handback. See [Building LYNR](case-studies/ventures/building-lynr.md) or visit [getlynr.com](https://getlynr.com/).
-
-These builds demonstrate that I can transfer my core operating judgement into new contexts. They are not a substitute for the depth of my Marketing Operations and Revenue Operations career.
 
 ## Where I am a weaker fit
 
@@ -94,9 +92,7 @@ My experience includes EMEA and global operating scope, cross-regional stakehold
 - [Modern MOPS Team Operating Model](case-studies/leadership/modern-mops-team-operating-model.md)
 - [GTM Command Center](skills/command-center/README.md)
 - [Runnable synthetic tools](tools/README.md)
-- [Building ThinkBud](case-studies/ventures/building-thinkbud.md)
-- [Building LYNR](case-studies/ventures/building-lynr.md)
 
 ## Evidence boundary
 
-This profile uses approved professional and owned-venture context. Venture source repositories and production environments remain separate from this portfolio. The publication controls are defined in [CONFIDENTIALITY.md](CONFIDENTIALITY.md) and [SOURCE-PROVENANCE.md](SOURCE-PROVENANCE.md).
+This public portfolio uses approved professional and owned-venture context. Employer-related operating work is independently reconstructed and company-neutral. No production data, employer-owned source documents, private customer or employee information, credentials or private system configuration should be present. The publication standard is documented in [CONFIDENTIALITY.md](CONFIDENTIALITY.md).

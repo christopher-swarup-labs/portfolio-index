@@ -58,13 +58,45 @@ I have owned or materially led work across:
 - Enablement, adoption and change governance
 - AI-assisted operating workflows
 
+## AI GTM and build capability
+
+My AI position is practical rather than tool-led. The question I care about is whether the operating context and decision contract are strong enough for automation to improve the work without weakening accountability.
+
+### Production experience
+
+At Contentsquare, I deployed AI-assisted routing and scoring using **Dust.ai and Qualified** within the wider lead-management redesign, contributing to a **40% reduction in SDR response lag** and **35% improvement in MQL-to-SDR velocity**.
+
+I have also worked with Clay and broader enrichment / signal tooling in GTM operating contexts.
+
+### Current working toolkit
+
+- **AI / development:** Claude, Claude Code, ChatGPT, OpenAI Codex
+- **Build / version control:** GitHub, Python, Lovable
+- **Operating documentation:** Notion
+- **GTM AI / automation:** Dust.ai, Qualified, Clay
+
+### Portfolio-built proof
+
+I have translated the operating model into inspectable portfolio artefacts rather than relying only on AI claims:
+
+- [AI GTM Operations](AI-GTM-OPS.md) — context, routing, evidence, control and learning model
+- [GTM Command Center](skills/command-center/README.md) — orchestration architecture
+- [GTM Ops Decision Router](tools/gtm-ops-router/README.md) — deterministic routing and evidence gates
+- [Pipeline Quality Scanner](tools/pipeline-quality-scanner/README.md) — pipeline data-quality logic
+- [Lifecycle Transition Validator](tools/lifecycle-validator/README.md) — lifecycle governance encoded as rules
+- [Runnable Tools](tools/README.md) — synthetic tools with unit tests and GitHub Actions
+
+These are independently built portfolio demonstrations. They are not claims that the exact code ran inside a former employer environment.
+
 ## The problems I am best suited to solve
 
 - A GTM organisation where reported pipeline and believed pipeline have diverged
 - A post-merger or high-growth environment with competing lifecycle models and fragmented systems
 - A martech estate with overlapping tools, unclear system authority and unowned integrations
 - A Marketing Operations function that needs to move from service desk to commercial infrastructure
+- A Revenue Operations function that needs one set of commercial definitions across Marketing, Sales and Finance
 - An organisation preparing to apply automation or AI to an operating foundation that is not ready
+- An AI GTM environment that needs context, decision routing, evidence gates and human approval designed into the system
 - A transformation that needs someone who can move from executive framing into implementation detail
 
 ## Independent founder builds
@@ -85,6 +117,8 @@ My experience includes EMEA and global operating scope, cross-regional stakehold
 
 ## Selected evidence
 
+- [Employer Brief](EMPLOYER-BRIEF.md)
+- [AI GTM Operations](AI-GTM-OPS.md)
 - [Revenue Operating System case](case-studies/flagship/revenue-operating-system.md)
 - [Unified Lifecycle Governance case](case-studies/flagship/unified-lifecycle-governance.md)
 - [Campaign Operations OS case](case-studies/flagship/campaign-operations-os.md)

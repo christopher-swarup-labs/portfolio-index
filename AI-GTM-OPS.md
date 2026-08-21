@@ -4,7 +4,7 @@
 
 AI GTM Ops is not a collection of prompts and it is not autonomous software making commercial decisions without controls.
 
-I use the term for an operating model where trusted GTM context, explicit decision rules, specialist automation and human accountability are connected in a version-controlled system.
+I use the term for an operating model where trusted GTM signals and context, explicit decision rules, specialist automation and human accountability are connected in a version-controlled system.
 
 The goal is simple: make Revenue and Marketing Operations faster without making the underlying logic less inspectable.
 
@@ -12,21 +12,36 @@ The goal is simple: make Revenue and Marketing Operations faster without making 
 
 ```mermaid
 flowchart LR
-    A[Commercial question or operating request]
-    B[Trusted GTM context]
-    C[Decision router]
-    D[Specialist logic or skill]
-    E[Evidence + recommendation]
-    F{Human approval required?}
-    G[System action or operating change]
-    H[Outcome / learning record]
+    A[CRM / MAP / Product signals]
+    B[Signal contract]
+    C[Trusted GTM context]
+    D[Decision router]
+    E[Specialist logic or skill]
+    F[Evidence + recommendation]
+    G{Human approval required?}
+    H[System action or operating change]
+    I[Outcome / learning record]
 
-    A --> B --> C --> D --> E --> F
-    F -->|Yes| G
-    F -->|No - insufficient evidence| B
-    G --> H
-    H --> B
+    A --> B --> C --> D --> E --> F --> G
+    G -->|Approved| H --> I
+    G -->|Insufficient evidence / clarity| C
+    I --> C
 ```
+
+### 0. Signal layer
+
+AI-assisted workflows need reliable operational signals before they need more intelligence.
+
+In a real GTM architecture, signals may arrive through CRM and marketing-platform APIs, webhooks, product events, warehouse pipelines or other integration layers. Before downstream logic uses them, the business needs explicit answers to questions such as:
+
+- Which source is authoritative for this event?
+- What does the event mean commercially?
+- Which entity does it belong to?
+- Is the timestamp trustworthy?
+- Is the event a replay or duplicate?
+- Can the downstream workflow trace the signal back to its source?
+
+The [GTM Signal Normalizer](tools/gtm-signal-normalizer/README.md) is a synthetic runnable demonstration of this layer. It converts fictional CRM, marketing-automation and product events into a small canonical contract while preserving provenance and rejecting unknown semantics.
 
 ### 1. Trusted context
 
@@ -67,6 +82,7 @@ Each specialist should be narrow enough that its inputs, rules, failure modes an
 
 The portfolio currently demonstrates this approach through:
 
+- [GTM Signal Normalizer](tools/gtm-signal-normalizer/README.md)
 - [GTM Command Center](skills/command-center/README.md)
 - [Pipeline Quality Scanner](tools/pipeline-quality-scanner/README.md)
 - [Lifecycle Transition Validator](tools/lifecycle-validator/README.md)
@@ -79,6 +95,7 @@ The point is not the number of agents. The point is whether the operating logic 
 A useful output separates:
 
 - Observed facts
+- Source provenance
 - Assumptions
 - Inferences
 - Missing evidence
@@ -110,7 +127,7 @@ The exact approval boundary depends on risk, reversibility and the quality of th
 
 A mature system should remember what was recommended, what decision was taken and what happened afterwards.
 
-That does **not** mean allowing an agent to silently rewrite operating policy. Changes to definitions, routing logic, prompts or decision rules should be versioned and reviewable.
+That does **not** mean allowing an agent to silently rewrite operating policy. Changes to definitions, signal mappings, routing logic, prompts or decision rules should be versioned and reviewable.
 
 ## Production experience vs portfolio proof
 
@@ -126,6 +143,7 @@ At Contentsquare, AI-assisted routing and scoring contributed to a **40% reducti
 
 This repository contains independently built, synthetic and testable demonstrations of the operating logic:
 
+- A GTM signal normalizer modelling event contracts, provenance and deduplication
 - A command-centre routing architecture
 - A pipeline quality scanner
 - A lifecycle transition validator
@@ -141,12 +159,12 @@ My current working toolkit spans:
 - Claude and Claude Code
 - ChatGPT and OpenAI Codex
 - GitHub
-- Python for transparent diagnostic tooling
+- Python for transparent diagnostic and integration-pattern tooling
 - Lovable for rapid product prototyping
 - Notion for structured operating documentation
 - GTM AI / automation platforms including Dust.ai, Qualified and Clay
 
-Tools will change. The durable layer is the operating context, decision logic, evidence standard and governance model.
+Tools will change. The durable layer is the signal and context design, decision logic, evidence standard and governance model.
 
 ## Where this creates value
 
@@ -156,6 +174,7 @@ Tools will change. The durable layer is the operating context, decision logic, e
 - Pipeline-quality checks
 - Forecast-definition governance
 - CRM data-quality triage
+- Signal normalization across systems
 - Manager pacing and exception analysis
 - Repeatable request routing
 
@@ -164,6 +183,7 @@ Tools will change. The durable layer is the operating context, decision logic, e
 - Campaign readiness and QA
 - Lifecycle-transition checks
 - Lead-management governance
+- Marketing-signal contracts
 - Martech rationalisation inputs
 - Data and consent controls
 - Reporting definition validation
@@ -174,21 +194,23 @@ Tools will change. The durable layer is the operating context, decision logic, e
 - Decision briefs with explicit evidence
 - Faster root-cause diagnosis
 - Safer automation boundaries
-- Version-controlled operating rules
+- Version-controlled operating rules and event semantics
 
 ## Design principles
 
 1. **Decision before tool.** Start with the commercial decision the system needs to improve.
-2. **Context before automation.** An agent cannot rescue unresolved definitions or ownership.
-3. **Narrow specialists over one giant prompt.** Smaller operating contracts are easier to test and govern.
-4. **Live data stays live.** Fetch time-sensitive operational data from the authoritative system rather than copying it into a static knowledge base.
-5. **Business logic should be portable.** Do not bury the operating model inside one vendor when the logic needs to survive tool changes.
-6. **Evidence before confidence.** Missing or conflicting evidence should reduce automation, not increase rhetoric.
-7. **Human accountability is designed, not assumed.** Every material action needs a named owner and an appropriate approval boundary.
-8. **Learning must be reviewable.** Outcomes can improve future recommendations, but policy changes require versioned governance.
+2. **Signals need semantics.** Do not treat every raw event as decision-ready evidence.
+3. **Context before automation.** An agent cannot rescue unresolved definitions or ownership.
+4. **Narrow specialists over one giant prompt.** Smaller operating contracts are easier to test and govern.
+5. **Live data stays live.** Fetch time-sensitive operational data from the authoritative system rather than copying it into a static knowledge base.
+6. **Business logic should be portable.** Do not bury the operating model inside one vendor when the logic needs to survive tool changes.
+7. **Evidence before confidence.** Missing or conflicting evidence should reduce automation, not increase rhetoric.
+8. **Human accountability is designed, not assumed.** Every material action needs a named owner and an appropriate approval boundary.
+9. **Learning must be reviewable.** Outcomes can improve future recommendations, but policy changes require versioned governance.
 
 ## What a reviewer can inspect next
 
+- [GTM Signal Normalizer](tools/gtm-signal-normalizer/README.md) — event contracts, provenance and idempotency
 - [GTM Command Center](skills/command-center/README.md) — orchestration and evidence architecture
 - [GTM Ops Decision Router](tools/gtm-ops-router/README.md) — inspectable routing logic with tests
 - [Pipeline Quality Scanner](tools/pipeline-quality-scanner/README.md) — data-quality rules affecting pipeline trust
@@ -198,4 +220,4 @@ Tools will change. The durable layer is the operating context, decision logic, e
 
 ---
 
-**My view:** the future of GTM Operations is not “AI replaces Ops.” It is Ops becoming better at designing context, decision systems, controls and automation that can be trusted.
+**My view:** the future of GTM Operations is not “AI replaces Ops.” It is Ops becoming better at designing signals, context, decision systems, controls and automation that can be trusted.

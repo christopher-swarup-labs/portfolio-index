@@ -6,6 +6,8 @@ They are intentionally transparent. The goal is to make rules, evidence requirem
 
 [![Portfolio tools tests](https://github.com/christopher-swarup-labs/portfolio-index/actions/workflows/portfolio-tools-tests.yml/badge.svg)](https://github.com/christopher-swarup-labs/portfolio-index/actions/workflows/portfolio-tools-tests.yml)
 
+Every change under `tools/` is validated in GitHub Actions against Python 3.12. The CI matrix runs the unit-test suite for each demonstration independently so a broken tool does not hide behind documentation claims.
+
 ## Tools
 
 | Tool | What it demonstrates |

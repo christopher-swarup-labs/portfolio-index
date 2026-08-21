@@ -1,0 +1,53 @@
+[
+  {
+    "event_id": "evt-001",
+    "source_system": "marketing_automation",
+    "event_type": "form_submitted",
+    "entity_id": "person-1001",
+    "occurred_at": "2026-08-20T09:15:00Z",
+    "payload": {
+      "form_type": "demo_request",
+      "market": "synthetic-enterprise"
+    }
+  },
+  {
+    "event_id": "evt-002",
+    "source_system": "product",
+    "event_type": "usage_threshold_reached",
+    "entity_id": "account-2001",
+    "occurred_at": "2026-08-20T10:30:00+00:00",
+    "payload": {
+      "threshold": "synthetic_high_usage"
+    }
+  },
+  {
+    "event_id": "evt-003",
+    "source_system": "crm",
+    "event_type": "opportunity_stage_changed",
+    "entity_id": "opportunity-3001",
+    "occurred_at": "2026-08-20T11:45:00Z",
+    "payload": {
+      "from_stage": "Synthetic Discovery",
+      "to_stage": "Synthetic Evaluation"
+    }
+  },
+  {
+    "event_id": "evt-003",
+    "source_system": "crm",
+    "event_type": "opportunity_stage_changed",
+    "entity_id": "opportunity-3001",
+    "occurred_at": "2026-08-20T11:45:00Z",
+    "payload": {
+      "from_stage": "Synthetic Discovery",
+      "to_stage": "Synthetic Evaluation"
+    }
+  },
+  {
+    "event_id": "evt-004",
+    "source_system": "marketing_automation",
+    "event_type": "unknown_signal",
+    "entity_id": "person-1002",
+    "occurred_at": "2026-08-20T12:00:00Z",
+    "payload": {}
+  }
+]

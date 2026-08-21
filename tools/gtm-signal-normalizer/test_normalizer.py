@@ -88,6 +88,28 @@ class SignalNormalizerTests(unittest.TestCase):
         self.assertEqual(result["events_rejected"], 1)
         self.assertIn("payload must be a JSON object", result["rejected_events"][0]["reason"])
 
+    def test_rejected_event_does_not_reserve_dedupe_key(self):
+        invalid = {
+            "event_id": "evt-7",
+            "source_system": "crm",
+            "event_type": "owner_changed",
+            "entity_id": "opportunity-4",
+            "occurred_at": "2026-08-20T10:00:00Z",
+            "payload": "invalid",
+        }
+        corrected = {
+            "event_id": "evt-7",
+            "source_system": "crm",
+            "event_type": "owner_changed",
+            "entity_id": "opportunity-4",
+            "occurred_at": "2026-08-20T10:00:00Z",
+            "payload": {"new_owner": "synthetic-owner"},
+        }
+        result = normalise_events([invalid, corrected])
+        self.assertEqual(result["events_rejected"], 1)
+        self.assertEqual(result["signals_accepted"], 1)
+        self.assertEqual(result["duplicates_ignored"], 0)
+
 
 if __name__ == "__main__":
     unittest.main()

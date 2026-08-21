@@ -1,6 +1,6 @@
 # Christopher Swarup — Revenue Systems, Marketing Operations, RevOps & AI GTM Operations
 
-**Senior GTM operator · 15+ years · London, UK · Available immediately**
+**Senior GTM operator · RevOps / MOPS / GTM Systems / AI GTM Engineering · 15+ years · London, UK · Available immediately**
 
 I build the operating infrastructure behind B2B revenue — the lifecycle rules, systems, data, reporting, governance and AI-assisted workflows that let Marketing, Sales and Revenue leadership operate from the same commercial truth.
 
@@ -31,7 +31,7 @@ I am strongest where a role needs more than platform administration or reporting
 - **Head / Director Revenue Operations** — funnel definitions, pipeline governance, CRM operating model, attribution, forecasting and handoffs
 - **GTM Operations / Commercial Operations** — cross-functional operating spine connecting Marketing, Sales, Product and Finance
 - **Revenue Systems / Marketing Technology** — architecture, migrations, rationalisation, system authority and data quality
-- **AI GTM Operations / GTM Systems** — context design, decision routing, specialist automation, evidence contracts, human approval and version-controlled operating logic
+- **AI GTM Operations / GTM Engineering / GTM Systems** — signal and context design, decision routing, specialist automation, evidence contracts, human approval and version-controlled operating logic
 
 ## Why this portfolio is different
 
@@ -53,29 +53,31 @@ This portfolio shows all four: career outcomes, reconstructed operating case stu
 | **Recruiter / potential employer** | [Employer Brief](EMPLOYER-BRIEF.md) → [Professional Profile](PROFILE.md) → [Revenue Operating System case](case-studies/flagship/revenue-operating-system.md) | Level, scope, leadership and commercial impact |
 | **CMO / Marketing leader** | [Campaign Operations](case-studies/flagship/campaign-operations-os.md) → [MOPS Operating Model](frameworks/mops-operating-model.md) → [Pipeline Truth](case-studies/flagship/pipeline-truth-and-attribution.md) | Can I turn MOPS into commercially accountable infrastructure? |
 | **CRO / COO / Revenue leader** | [Operator Thesis](OPERATOR-THESIS.md) → [Revenue Operating System](frameworks/revenue-operating-system.md) → [Pipeline Truth](frameworks/pipeline-truth.md) | Can I create one operating spine across the revenue engine? |
-| **AI / GTM Systems reviewer** | [AI GTM Operations](AI-GTM-OPS.md) → [GTM Command Center](skills/command-center/README.md) → [GTM Ops Router](tools/gtm-ops-router/README.md) → [Runnable Tools](tools/README.md) | Can I make GTM logic explicit, testable and safe to automate? |
+| **AI / GTM Engineering reviewer** | [AI GTM Operations](AI-GTM-OPS.md) → [GTM Signal Normalizer](tools/gtm-signal-normalizer/README.md) → [GTM Command Center](skills/command-center/README.md) → [GTM Ops Router](tools/gtm-ops-router/README.md) → [Runnable Tools](tools/README.md) | Can I connect GTM signals, context and decision logic into something explicit, testable and safe to automate? |
 | **Investor / adviser** | [Investor Brief](INVESTOR-BRIEF.md) → [Entrepreneur Journey](ENTREPRENEUR-JOURNEY.md) | Can operator judgement become repeatable products, tools or services? |
 
 ## AI GTM Operations
 
-My view of AI GTM Ops is not “add a chatbot to RevOps.” It is a controlled operating system where trusted context, explicit decision logic, specialist automation and human accountability work together.
+My view of AI GTM Ops is not “add a chatbot to RevOps.” It is a controlled operating system where trusted signals and context, explicit decision logic, specialist automation and human accountability work together.
 
 ```mermaid
 flowchart LR
-    A[Commercial request] --> B[Trusted GTM context]
-    B --> C[Decision router]
-    C --> D[Specialist logic / skill]
-    D --> E[Evidence + recommendation]
-    E --> F{Human approval / evidence gate}
-    F -->|Approved| G[System action]
-    F -->|Insufficient evidence| B
-    G --> H[Outcome / learning record]
-    H --> B
+    A[CRM / MAP / Product signals] --> B[Signal contract]
+    B --> C[Trusted GTM context]
+    C --> D[Decision router]
+    D --> E[Specialist logic / skill]
+    E --> F[Evidence + recommendation]
+    F --> G{Human approval / evidence gate}
+    G -->|Approved| H[System action]
+    G -->|Insufficient evidence| C
+    H --> I[Outcome / learning record]
+    I --> C
 ```
 
 ### What I can show here
 
-- [AI GTM Operations](AI-GTM-OPS.md) — my full operating model for context, routing, evidence, control and learning
+- [AI GTM Operations](AI-GTM-OPS.md) — my full operating model for signals, context, routing, evidence, control and learning
+- [GTM Signal Normalizer](tools/gtm-signal-normalizer/README.md) — synthetic CRM / MAP / product event contracts, provenance, deduplication and integration logic
 - [GTM Command Center](skills/command-center/README.md) — portfolio-safe orchestration architecture
 - [GTM Ops Decision Router](tools/gtm-ops-router/README.md) — deterministic coordination logic with evidence gates and tests
 - [Pipeline Quality Scanner](tools/pipeline-quality-scanner/README.md) — explicit pipeline data-quality checks
@@ -94,7 +96,7 @@ The portfolio code is deliberately synthetic and transparent. It demonstrates ho
 | [Campaign Operations OS](case-studies/flagship/campaign-operations-os.md) | Intake, readiness, build, QA, launch, follow-up and improvement |
 | [Modern MOPS Team Operating Model](case-studies/leadership/modern-mops-team-operating-model.md) | Team design, service model, priorities and distributed delivery |
 | [Operating Frameworks](frameworks/README.md) | Reusable operating models across revenue, lifecycle, pipeline and MOPS |
-| [Runnable Proof](tools/README.md) | Python demonstrations with explicit rules, synthetic data and unit tests |
+| [Runnable Proof](tools/README.md) | Python demonstrations covering signal contracts, routing, pipeline quality and lifecycle controls with explicit rules, synthetic data and unit tests |
 
 ## Technology and AI working environment
 
@@ -105,6 +107,8 @@ The portfolio code is deliberately synthetic and transparent. It demonstrates ho
 **AI / enrichment / automation:** Dust.ai · Qualified · Clay · Clearbit · HG Insights
 
 **Current AI / build toolkit:** Claude · Claude Code · ChatGPT · OpenAI Codex · GitHub · Python · Lovable · Notion
+
+**Portfolio-built technical proof:** JSON contracts · event / webhook architecture patterns · deterministic routing · source provenance · idempotency · unit tests · CI
 
 The tool list matters less than the operating principle: **do not automate contested definitions, broken ownership or unreliable data.**
 

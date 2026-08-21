@@ -44,6 +44,8 @@ A senior operator should be able to move across four levels without losing the t
 
 This portfolio shows all four: career outcomes, reconstructed operating case studies, reusable frameworks, AI/GTM architecture and runnable tools with tests.
 
+**Want something practical rather than another bio?** Use the [GTM Operating Diagnostic](GTM-OPERATING-DIAGNOSTIC.md) — a 105-point assessment across commercial definitions, lifecycle, systems, pipeline truth, Ops maturity, AI readiness and governance.
+
 ## Start here
 
 | You are reviewing me as a… | Recommended route | What it should help you judge |
@@ -85,6 +87,7 @@ The portfolio code is deliberately synthetic and transparent. It demonstrates ho
 
 | Evidence | What you can inspect |
 |---|---|
+| [GTM Operating Diagnostic](GTM-OPERATING-DIAGNOSTIC.md) | A practical 105-point diagnostic across commercial definitions, handoffs, systems, reporting, Ops maturity, AI readiness and governance |
 | [Revenue Operating System](case-studies/flagship/revenue-operating-system.md) | Cross-functional diagnosis, operating design, sequencing and governance |
 | [Unified Lifecycle Governance](case-studies/flagship/unified-lifecycle-governance.md) | Definitions, qualification, routing, handoffs, recycling and adoption |
 | [Pipeline Truth & Attribution](case-studies/flagship/pipeline-truth-and-attribution.md) | Source, influence, progression, forecast evidence and reporting confidence |

@@ -72,7 +72,7 @@ def normalise_events(events: Iterable[dict[str, object]]) -> dict[str, object]:
     accepted: list[dict[str, object]] = []
     rejected: list[dict[str, str]] = []
     duplicates: list[dict[str, str]] = []
-    seen: set[tuple[str, str]] = set()
+    accepted_event_keys: set[tuple[str, str]] = set()
 
     for event in events:
         event_id = str(event.get("event_id") or "").strip()
@@ -100,17 +100,17 @@ def normalise_events(events: Iterable[dict[str, object]]) -> dict[str, object]:
             rejected.append(rejection(event_id, "occurred_at must be an ISO-8601 timestamp with timezone"))
             continue
 
-        dedupe_key = (source_system, event_id)
-        if dedupe_key in seen:
-            duplicates.append({"event_id": event_id, "source_system": source_system})
-            continue
-        seen.add(dedupe_key)
-
         payload = event.get("payload") or {}
         if not isinstance(payload, dict):
             rejected.append(rejection(event_id, "payload must be a JSON object when supplied"))
             continue
 
+        dedupe_key = (source_system, event_id)
+        if dedupe_key in accepted_event_keys:
+            duplicates.append({"event_id": event_id, "source_system": source_system})
+            continue
+
+        accepted_event_keys.add(dedupe_key)
         accepted.append(
             {
                 "signal_id": signal_id(source_system, event_id),

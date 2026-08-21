@@ -1,0 +1,37 @@
+[
+  {
+    "request_id": "REQ-001",
+    "request": "Pipeline and forecast numbers do not reconcile and source attribution is disputed.",
+    "owner": "Revenue Operations",
+    "evidence": [
+      "pipeline_definition",
+      "opportunity_data"
+    ]
+  },
+  {
+    "request_id": "REQ-002",
+    "request": "MQLs are being ignored after handoff and the SDR SLA is inconsistent.",
+    "owner": "GTM Operations",
+    "evidence": [
+      "routing_rules",
+      "ownership_rules",
+      "sla_definition"
+    ]
+  },
+  {
+    "request_id": "REQ-003",
+    "request": "We want an AI SDR workflow to automate prioritisation and follow-up.",
+    "owner": "Revenue Operations",
+    "evidence": [
+      "decision_to_improve",
+      "authoritative_sources",
+      "accountable_owner"
+    ]
+  },
+  {
+    "request_id": "REQ-004",
+    "request": "Something is wrong with the funnel.",
+    "owner": "",
+    "evidence": []
+  }
+]

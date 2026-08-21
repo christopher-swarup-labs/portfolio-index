@@ -12,11 +12,12 @@ Every change under `tools/` is validated in GitHub Actions against Python 3.12. 
 
 | Tool | What it demonstrates |
 |---|---|
+| [GTM Signal Normalizer](gtm-signal-normalizer/README.md) | CRM / MAP / product event contracts, source provenance, deduplication and event-driven GTM architecture |
 | [GTM Ops Decision Router](gtm-ops-router/README.md) | Coordination-layer routing, evidence gates, ambiguity handling and human approval boundaries |
 | [Pipeline Quality Scanner](pipeline-quality-scanner/README.md) | Explicit data-quality rules that affect pipeline and reporting trust |
 | [Lifecycle Transition Validator](lifecycle-validator/README.md) | Lifecycle movements tested against explicit governance rules |
 
-All three tools:
+All four tools:
 
 - Use Python's standard library only
 - Operate on fictional / synthetic data
@@ -24,8 +25,26 @@ All three tools:
 - Produce structured outputs
 - Include unit tests
 - Run in GitHub Actions
-- Require human review
+- Preserve explicit human or governance boundaries
 - Contain no employer configuration, customer information or production credentials
+
+## What the collection demonstrates together
+
+```mermaid
+flowchart LR
+    A[Raw GTM events] --> B[Signal normalisation]
+    B --> C[Decision routing]
+    C --> D[Specialist control / validation]
+    D --> E[Structured evidence]
+    E --> F[Human decision]
+```
+
+The collection is intentionally not a fake production platform. It shows four technical capabilities that increasingly matter in AI-native GTM Operations:
+
+1. **Integration contracts** — define what signals mean before downstream systems use them
+2. **Coordination** — route broad operating requests to the correct decision path
+3. **Explicit controls** — express pipeline and lifecycle governance as inspectable logic
+4. **Testability** — keep operating rules version-controlled and executable
 
 ## Why code belongs in this portfolio
 

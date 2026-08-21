@@ -116,4 +116,4 @@ The controls are documented in:
 
 ---
 
-**Private portfolio · Controlled reviewer access · Not for redistribution**
+**Public professional portfolio · Built to demonstrate operating thinking, frameworks and practical execution**

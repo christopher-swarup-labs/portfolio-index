@@ -1,80 +1,84 @@
 # Skills and Systems
 
-I use this section to separate five things that are easy to blur together:
+This section separates four evidence types that are easy to blur together:
 
-1. Operating frameworks I have built from experience
-2. AI-assisted architectures I have designed
-3. A real AI-assisted product build through ThinkBud
-4. Historical skill packages that still need source verification
-5. Established third-party methods that I have applied but do not claim as original IP
+1. **Implemented professional experience** — operating work I have led in real organisations
+2. **Portfolio-built proof** — original, synthetic and testable demonstrations built specifically for this public portfolio
+3. **Architecture reconstructions** — portfolio-safe models of systems and approaches developed from accumulated experience
+4. **Third-party methods / tools** — platforms and established methodologies I have used but do not claim as original IP
 
-That distinction matters. A serious reviewer should be able to see what is built, what is reconstructed, what is synthetic and what is still an idea.
+A serious reviewer should be able to tell which category they are looking at without guessing.
 
 ## What exists in this repository
 
-| Asset | Current status |
-|---|---|
-| [Building ThinkBud](case-studies/ventures/building-thinkbud.md) | Working controlled-beta product built over nearly eight months using AI-assisted development |
-| [GTM Command Center](skills/command-center/README.md) | Portfolio-safe architecture reconstruction |
-| Fourteen named specialist areas | Architecture mapped; historical implementation still being verified |
-| [CRM Data Quality Auditor](skills/crm-data-quality-auditor/README.md) | Draft specification used as a format exemplar |
-| [Pipeline Quality Scanner](tools/pipeline-quality-scanner/README.md) | Runnable synthetic demonstration with tests |
-| [Lifecycle Transition Validator](tools/lifecycle-validator/README.md) | Runnable synthetic demonstration with tests |
-| Five operating frameworks | Complete and company-neutral |
-| Historical Claude-audited skill packages | Candidate evidence pending approved source review |
+| Asset | Evidence type | Status |
+|---|---|---|
+| [AI GTM Operations](AI-GTM-OPS.md) | Original portfolio operating model | Complete |
+| [GTM Command Center](skills/command-center/README.md) | Portfolio-safe architecture reconstruction | Complete with verification boundary |
+| [GTM Ops Decision Router](tools/gtm-ops-router/README.md) | Synthetic runnable demonstration | Complete with unit tests |
+| [Pipeline Quality Scanner](tools/pipeline-quality-scanner/README.md) | Synthetic runnable demonstration | Complete with unit tests |
+| [Lifecycle Transition Validator](tools/lifecycle-validator/README.md) | Synthetic runnable demonstration | Complete with unit tests |
+| Five core [Operating Frameworks](frameworks/README.md) | Original portfolio frameworks | Complete |
+| [CRM Data Quality Auditor](skills/crm-data-quality-auditor/README.md) | Portfolio-safe skill specification | Draft exemplar |
+| Fourteen specialist areas | Architecture catalogue | Historical implementation still being verified individually |
+| [Building ThinkBud](case-studies/ventures/building-thinkbud.md) | Independent owned product build | Controlled-beta product |
 
-## ThinkBud: AI-assisted product and engineering execution
+## Implemented professional AI / GTM experience
 
-ThinkBud is the strongest practical evidence of how I use AI.
+My production experience is strongest where AI and automation sit inside a broader operating model rather than as standalone experimentation.
 
-I used AI-assisted development tools across product exploration, code generation, debugging, architecture options, documentation and test creation. The important part is what I did not delegate to the model:
+At Contentsquare, I deployed **Dust.ai and Qualified** as part of AI-assisted routing, scoring and lead-management redesign. Within that wider operating change, SDR response lag fell **40%** and MQL-to-SDR velocity improved **35%**.
 
-- The product problem and user promise
-- The parent and learner boundaries
-- The learning-event and learner-state model
-- The adaptive and spaced-review logic
-- The authority of server-side grading
-- The security and release baseline
-- The decision to keep the product invite-only until the system was stable enough
+I have also worked with **Clay** and broader enrichment, signal and routing tooling in GTM environments.
 
-The build required me to work across:
+I treat those outcomes as production operating evidence. The Python tools and architectures in this repository are a different evidence category: they are independently built demonstrations of how I would make the underlying logic explicit and testable.
 
-- React and TypeScript product development
-- Supabase and Postgres data design
-- Server-side functions and access controls
-- Adaptive question selection
-- Spaced repetition
-- Event-sourced learning records
-- Subscription and entitlement logic
-- Automated unit and end-to-end testing
-- CI and release governance
-- Product documentation and system-truth records
+## Current AI and build toolkit
 
-I do not present this as proof that I am a traditional software engineer with decades of coding experience. I present it as proof that I can use AI to extend my technical execution, learn the necessary detail, make coherent architecture decisions and carry a product through to controlled beta.
+### AI / development
 
-## Why I built the Command Center model
+- Claude
+- Claude Code
+- ChatGPT
+- OpenAI Codex
 
-Most AI assistants respond to the topic they are given. In GTM Operations, the topic is often only the symptom.
+### Build / version control
 
-“Pipeline is weak” may be a targeting problem, a qualification problem, a routing problem, a follow-up problem, a lifecycle problem or a reporting problem. The useful work is to identify which decision is failing before generating an answer.
+- GitHub
+- Python
+- Lovable
 
-The [GTM Command Center](skills/command-center/README.md) is my way of structuring that process:
+### Operating documentation
 
-- Clarify the decision
-- Separate the symptom from likely causes
-- Check whether the evidence is sufficient
-- Route the work to the narrowest useful analysis
-- Keep facts, assumptions and conflicts visible
-- Return the decision to a named human owner
+- Notion
 
-It is not intended to make commercial decisions autonomously.
+### GTM AI / automation
+
+- Dust.ai
+- Qualified
+- Clay
+
+The tool names will change faster than the operating principles. The durable skills are context design, decision framing, evidence contracts, system boundaries, workflow logic, testing, governance and adoption.
+
+## The AI GTM Operations model
+
+The [AI GTM Operations](AI-GTM-OPS.md) model connects six layers:
+
+1. **Trusted context** — lifecycle, ownership, SLA, pipeline and field definitions
+2. **Coordination** — classify the operating decision and route the request
+3. **Specialist logic** — narrow analysis or automation with explicit inputs and failure modes
+4. **Evidence contract** — facts, assumptions, inferences, missing evidence and risk
+5. **Human action boundary** — named owner and approval before material changes
+6. **Outcome learning** — remember recommendations and outcomes without silently rewriting policy
+
+The [GTM Command Center](skills/command-center/README.md) is the orchestration architecture. The [GTM Ops Decision Router](tools/gtm-ops-router/README.md) is a deliberately small runnable demonstration of the coordination layer.
 
 ## Specialist areas in the architecture
 
-The high-level design includes specialist analysis for:
+The wider architecture includes specialist analysis for:
 
 1. Lifecycle governance
-2. Reporting truth
+2. Reporting and pipeline truth
 3. Event conversion
 4. Seller behaviour
 5. CRM data quality
@@ -88,21 +92,37 @@ The high-level design includes specialist analysis for:
 13. Decision validation
 14. Leadership prioritisation
 
-The architecture is real. The historical implementation status of each named specialist is not yet fully verified, so I do not present fourteen polished pages as if they were finished tools.
+The architecture is real. The historical implementation status of every named specialist is not yet fully verified, so I do not publish fourteen polished pages and imply they were all production systems.
+
+## Why the runnable tools matter
+
+Most senior MOPS and RevOps leadership is not software engineering. But AI-native GTM teams increasingly need operators who can express business rules precisely enough for systems, automation and technical teams to implement them safely.
+
+The runnable tools show the translation layer:
+
+**business definition → explicit rule → test → structured output → human decision**
+
+That is why they use synthetic data and simple Python. Transparency is more valuable here than technical theatre.
+
+## Independent product build: ThinkBud
+
+ThinkBud is useful additional evidence of AI-assisted product execution, but it is **not part of my employment history** and it is not the main basis for my RevOps / MOPS positioning.
+
+Building it required work across product definition, data authority, adaptive logic, access control, testing, release governance and AI-assisted development. See [Building ThinkBud](case-studies/ventures/building-thinkbud.md) for the portfolio-safe retrospective.
 
 ## Historical skill packages under review
 
-A Claude audit identified four broader packages in an earlier skill environment:
+A prior audit identified broader packages including:
 
 ### GTM Revenue Architect
 
-Reported as an orchestration layer with strategic and execution routing, multiple frameworks, workflows and a symptom-to-root-cause diagnostic model.
+Reported as an orchestration layer with strategic and execution routing, multiple frameworks, workflows and symptom-to-root-cause diagnosis.
 
 **Current treatment:** candidate operator framework pending source verification.
 
 ### Revenue Execution and Enablement Engine
 
-Reported as a deal and enablement system using MEDDICC and SPICED, with evidence-first scoring and visible gaps.
+Reported as a deal and enablement system using MEDDICC and SPICED with evidence-first scoring and visible gaps.
 
 **Current treatment:** candidate operating discipline built on established sales methods; source verification required.
 
@@ -110,7 +130,7 @@ Reported as a deal and enablement system using MEDDICC and SPICED, with evidence
 
 Reported as a broad diagnostic package with substantial overlap with GTM Revenue Architect.
 
-**Current treatment:** likely an earlier or overlapping generation. I will represent one primary asset unless the difference can be shown clearly.
+**Current treatment:** likely an earlier or overlapping generation; do not double-count it as separate proof without clear evidence.
 
 ### Clay GTM Skill Pack
 
@@ -120,32 +140,22 @@ Reported as a practical implementation pack covering enrichment, table architect
 
 ## Third-party methodology
 
-Some historical skill material uses established methods including:
-
-- Forrester and SiriusDecisions demand frameworks
-- Demand Unit Waterfall language
-- Programme Pendulum
-- Achievability Index
-- Cooperation Index
-- Demand Management Council
-- MEDDICC
-- SPICED
+Some historical skill material uses established methods including Forrester and SiriusDecisions demand frameworks, MEDDICC and SPICED.
 
 I am trained in several of these methods and have adapted them in practice. I do not claim the base frameworks as my own.
 
-Where there is original value, it needs to be evidenced in the way I have combined the methods, sequenced the diagnosis, classified evidence and kept human accountability visible.
+Where there is original value, it is in the way I diagnose the operating problem, combine methods, sequence decisions, classify evidence, connect process to systems and data, and keep human accountability visible.
 
 ## Core systems I can show safely
 
-The wider portfolio now covers:
+The wider portfolio covers:
 
-- ThinkBud learning-intelligence platform
 - Revenue Operating System
 - Unified Lifecycle Governance
 - Lead status and disposition
 - Lead scoring and qualification
 - Routing, ownership and SLA governance
-- Marketing-to-Sales and Sales-to-Customer handoffs
+- Marketing-to-Sales handoffs
 - Campaign Operations OS
 - Pipeline Truth and Attribution
 - Forecast confidence
@@ -161,16 +171,15 @@ The wider portfolio now covers:
 - Buyer-journey and demand architecture
 - Platform migration and consolidation
 - AI-ready operating foundations
+- AI GTM context, routing, evidence and control architecture
 
-These are not all claimed as proprietary products. ThinkBud is an owned product build. Some other assets are reconstructed patterns from implemented work, some are portfolio frameworks and some are future tools.
-
-## The standard I apply
+## Publication standard
 
 Every published skill or system should explain:
 
-- The business or user problem
+- The commercial problem
 - When to use it and when not to
-- Required inputs
+- Required inputs and authoritative sources
 - Decision rules
 - Outputs
 - Human accountability
@@ -180,4 +189,4 @@ Every published skill or system should explain:
 - Limitations
 - Provenance and evidence status
 
-I would rather leave a skill unlisted than create a convincing description without the evidence behind it.
+I would rather leave a capability unlisted than create a convincing description without the evidence behind it.

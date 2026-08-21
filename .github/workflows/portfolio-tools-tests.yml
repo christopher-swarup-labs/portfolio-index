@@ -22,6 +22,7 @@ jobs:
           - tools/pipeline-quality-scanner
           - tools/lifecycle-validator
           - tools/gtm-ops-router
+          - tools/gtm-signal-normalizer
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
